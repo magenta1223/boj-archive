@@ -1,1 +1,14 @@
-{"name":"단어 섞기","title":"9177번： 단어 섞기","problemNumber":"9177","date":"2024-03-12 10:39:55","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "단어 섞기",
+    "title": "9177번： 단어 섞기",
+    "problemNumber": "9177",
+    "date": "2024-03-12 10:39:55",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

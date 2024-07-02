@@ -1,1 +1,14 @@
-{"name":"ACM Craft","title":"1005번： ACM Craft","problemNumber":"1005","date":"2024-03-06 10:38:38","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "ACM Craft",
+    "title": "1005번： ACM Craft",
+    "problemNumber": "1005",
+    "date": "2024-03-06 10:38:38",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

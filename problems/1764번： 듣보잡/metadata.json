@@ -1,1 +1,14 @@
-{"name":"듣보잡","title":"1764번： 듣보잡","problemNumber":"1764","date":"2023-11-02 14:46:36","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "듣보잡",
+    "title": "1764번： 듣보잡",
+    "problemNumber": "1764",
+    "date": "2023-11-02 14:46:36",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

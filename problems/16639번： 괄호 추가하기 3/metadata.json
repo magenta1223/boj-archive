@@ -1,1 +1,14 @@
-{"name":"괄호 추가하기 3","title":"16639번： 괄호 추가하기 3","problemNumber":"16639","date":"2024-05-07 15:40:20","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "괄호 추가하기 3",
+    "title": "16639번： 괄호 추가하기 3",
+    "problemNumber": "16639",
+    "date": "2024-05-07 15:40:20",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"선분 교차 2","title":"17387번： 선분 교차 2","problemNumber":"17387","date":"2024-03-11 12:48:36","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "선분 교차 2",
+    "title": "17387번： 선분 교차 2",
+    "problemNumber": "17387",
+    "date": "2024-03-11 12:48:36",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"균형잡힌 세상","title":"4949번： 균형잡힌 세상","problemNumber":"4949","date":"2023-11-22 13:41:47","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "균형잡힌 세상",
+    "title": "4949번： 균형잡힌 세상",
+    "problemNumber": "4949",
+    "date": "2023-11-22 13:41:47",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

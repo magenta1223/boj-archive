@@ -1,1 +1,14 @@
-{"name":"암호코드","title":"2011번： 암호코드","problemNumber":"2011","date":"2024-03-15 15:33:29","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "암호코드",
+    "title": "2011번： 암호코드",
+    "problemNumber": "2011",
+    "date": "2024-03-15 15:33:29",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

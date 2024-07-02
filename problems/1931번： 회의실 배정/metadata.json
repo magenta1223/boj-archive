@@ -1,1 +1,14 @@
-{"name":"회의실 배정","title":"1931번： 회의실 배정","problemNumber":"1931","date":"2023-12-21 15:34:23","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "회의실 배정",
+    "title": "1931번： 회의실 배정",
+    "problemNumber": "1931",
+    "date": "2023-12-21 15:34:23",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"거의 최단 경로","title":"5719번： 거의 최단 경로","problemNumber":"5719","date":"2024-06-03 15:38:21","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "거의 최단 경로",
+    "title": "5719번： 거의 최단 경로",
+    "problemNumber": "5719",
+    "date": "2024-06-03 15:38:21",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

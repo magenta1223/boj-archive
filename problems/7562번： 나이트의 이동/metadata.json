@@ -1,1 +1,14 @@
-{"name":"나이트의 이동","title":"7562번： 나이트의 이동","problemNumber":"7562","date":"2024-01-26 14:40:23","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "나이트의 이동",
+    "title": "7562번： 나이트의 이동",
+    "problemNumber": "7562",
+    "date": "2024-01-26 14:40:23",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"최소비용 구하기 2","title":"11779번： 최소비용 구하기 2","problemNumber":"11779","date":"2024-02-07 13:45:44","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "최소비용 구하기 2",
+    "title": "11779번： 최소비용 구하기 2",
+    "problemNumber": "11779",
+    "date": "2024-02-07 13:45:44",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

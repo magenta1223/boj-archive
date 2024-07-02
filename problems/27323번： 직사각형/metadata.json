@@ -1,1 +1,14 @@
-{"name":"직사각형","title":"27323번： 직사각형","problemNumber":"27323","date":"2023-10-26 14:51:06","tier":{"name":"Bronze V","abb":"B","nameColor":"#A54F00","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/1.svg","level":1}}
+{
+    "name": "직사각형",
+    "title": "27323번： 직사각형",
+    "problemNumber": "27323",
+    "date": "2023-10-26 14:51:06",
+    "tier": {
+        "name": "Bronze V",
+        "abb": "B",
+        "nameColor": "#A54F00",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/1.svg",
+        "level": 1
+    }
+}

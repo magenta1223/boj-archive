@@ -1,1 +1,14 @@
-{"name":"공항","title":"10775번： 공항","problemNumber":"10775","date":"2024-03-04 16:43:33","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "공항",
+    "title": "10775번： 공항",
+    "problemNumber": "10775",
+    "date": "2024-03-04 16:43:33",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

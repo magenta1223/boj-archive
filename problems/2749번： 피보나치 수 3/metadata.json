@@ -1,1 +1,14 @@
-{"name":"피보나치 수 3","title":"2749번： 피보나치 수 3","problemNumber":"2749","date":"2024-02-27 18:47:40","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "피보나치 수 3",
+    "title": "2749번： 피보나치 수 3",
+    "problemNumber": "2749",
+    "date": "2024-02-27 18:47:40",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

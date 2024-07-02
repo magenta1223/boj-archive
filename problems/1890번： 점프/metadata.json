@@ -1,1 +1,14 @@
-{"name":"점프","title":"1890번： 점프","problemNumber":"1890","date":"2024-03-15 14:40:35","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "점프",
+    "title": "1890번： 점프",
+    "problemNumber": "1890",
+    "date": "2024-03-15 14:40:35",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

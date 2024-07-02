@@ -1,1 +1,14 @@
-{"name":"파일 합치기","title":"11066번： 파일 합치기","problemNumber":"11066","date":"2023-12-27 13:18:49","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "파일 합치기",
+    "title": "11066번： 파일 합치기",
+    "problemNumber": "11066",
+    "date": "2023-12-27 13:18:49",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"쿼드트리","title":"1992번： 쿼드트리","problemNumber":"1992","date":"2023-12-21 17:53:54","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "쿼드트리",
+    "title": "1992번： 쿼드트리",
+    "problemNumber": "1992",
+    "date": "2023-12-21 17:53:54",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

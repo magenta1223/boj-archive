@@ -1,1 +1,14 @@
-{"name":"1로 만들기 2","title":"12852번： 1로 만들기 2","problemNumber":"12852","date":"2024-02-05 17:47:14","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "1로 만들기 2",
+    "title": "12852번： 1로 만들기 2",
+    "problemNumber": "12852",
+    "date": "2024-02-05 17:47:14",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

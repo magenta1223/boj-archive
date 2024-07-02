@@ -1,1 +1,14 @@
-{"name":"닭싸움 팀 정하기","title":"1765번： 닭싸움 팀 정하기","problemNumber":"1765","date":"2024-06-05 12:11:14","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "닭싸움 팀 정하기",
+    "title": "1765번： 닭싸움 팀 정하기",
+    "problemNumber": "1765",
+    "date": "2024-06-05 12:11:14",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

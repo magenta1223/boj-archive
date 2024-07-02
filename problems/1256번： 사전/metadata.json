@@ -1,1 +1,14 @@
-{"name":"사전","title":"1256번： 사전","problemNumber":"1256","date":"2024-05-03 14:35:24","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "사전",
+    "title": "1256번： 사전",
+    "problemNumber": "1256",
+    "date": "2024-05-03 14:35:24",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

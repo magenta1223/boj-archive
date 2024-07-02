@@ -1,1 +1,14 @@
-{"name":"파티","title":"1238번： 파티","problemNumber":"1238","date":"2024-03-29 20:30:18","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "파티",
+    "title": "1238번： 파티",
+    "problemNumber": "1238",
+    "date": "2024-03-29 20:30:18",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

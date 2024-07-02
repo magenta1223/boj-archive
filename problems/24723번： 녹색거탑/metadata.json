@@ -1,1 +1,14 @@
-{"name":"녹색거탑","title":"24723번： 녹색거탑","problemNumber":"24723","date":"2023-11-22 16:37:04","tier":{"name":"Bronze IV","abb":"B","nameColor":"#AD5600","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/2.svg","level":2}}
+{
+    "name": "녹색거탑",
+    "title": "24723번： 녹색거탑",
+    "problemNumber": "24723",
+    "date": "2023-11-22 16:37:04",
+    "tier": {
+        "name": "Bronze IV",
+        "abb": "B",
+        "nameColor": "#AD5600",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/2.svg",
+        "level": 2
+    }
+}

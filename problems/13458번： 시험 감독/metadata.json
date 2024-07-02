@@ -1,1 +1,14 @@
-{"name":"시험 감독","title":"13458번： 시험 감독","problemNumber":"13458","date":"2024-02-08 14:23:39","tier":{"name":"Bronze II","abb":"B","nameColor":"#C67739","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/4.svg","level":4}}
+{
+    "name": "시험 감독",
+    "title": "13458번： 시험 감독",
+    "problemNumber": "13458",
+    "date": "2024-02-08 14:23:39",
+    "tier": {
+        "name": "Bronze II",
+        "abb": "B",
+        "nameColor": "#C67739",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/4.svg",
+        "level": 4
+    }
+}

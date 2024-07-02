@@ -1,1 +1,14 @@
-{"name":"알고리즘 수업 - 깊이 우선 탐색 2","title":"24480번： 알고리즘 수업 - 깊이 우선 탐색 2","problemNumber":"24480","date":"2024-01-02 12:10:13","tier":{"name":"Silver II","abb":"S","nameColor":"#4E6A86","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/9.svg","level":9}}
+{
+    "name": "알고리즘 수업 - 깊이 우선 탐색 2",
+    "title": "24480번： 알고리즘 수업 - 깊이 우선 탐색 2",
+    "problemNumber": "24480",
+    "date": "2024-01-02 12:10:13",
+    "tier": {
+        "name": "Silver II",
+        "abb": "S",
+        "nameColor": "#4E6A86",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/9.svg",
+        "level": 9
+    }
+}

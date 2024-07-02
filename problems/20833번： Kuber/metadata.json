@@ -1,1 +1,14 @@
-{"name":"Kuber","title":"20833번： Kuber","problemNumber":"20833","date":"2024-06-13 19:52:53","tier":{"name":"Bronze IV","abb":"B","nameColor":"#AD5600","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/2.svg","level":2}}
+{
+    "name": "Kuber",
+    "title": "20833번： Kuber",
+    "problemNumber": "20833",
+    "date": "2024-06-13 19:52:53",
+    "tier": {
+        "name": "Bronze IV",
+        "abb": "B",
+        "nameColor": "#AD5600",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/2.svg",
+        "level": 2
+    }
+}

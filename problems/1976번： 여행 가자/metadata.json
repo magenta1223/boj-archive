@@ -1,1 +1,14 @@
-{"name":"여행 가자","title":"1976번： 여행 가자","problemNumber":"1976","date":"2024-03-04 15:52:07","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "여행 가자",
+    "title": "1976번： 여행 가자",
+    "problemNumber": "1976",
+    "date": "2024-03-04 15:52:07",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

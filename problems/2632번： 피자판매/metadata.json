@@ -1,1 +1,14 @@
-{"name":"피자판매","title":"2632번： 피자판매","problemNumber":"2632","date":"2024-05-21 09:32:38","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "피자판매",
+    "title": "2632번： 피자판매",
+    "problemNumber": "2632",
+    "date": "2024-05-21 09:32:38",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

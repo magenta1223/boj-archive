@@ -1,1 +1,14 @@
-{"name":"숨바꼭질 4","title":"13913번： 숨바꼭질 4","problemNumber":"13913","date":"2024-02-07 11:58:35","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "숨바꼭질 4",
+    "title": "13913번： 숨바꼭질 4",
+    "problemNumber": "13913",
+    "date": "2024-02-07 11:58:35",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

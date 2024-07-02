@@ -1,1 +1,14 @@
-{"name":"선물 전달","title":"1947번： 선물 전달","problemNumber":"1947","date":"2024-03-25 17:27:58","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "선물 전달",
+    "title": "1947번： 선물 전달",
+    "problemNumber": "1947",
+    "date": "2024-03-25 17:27:58",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

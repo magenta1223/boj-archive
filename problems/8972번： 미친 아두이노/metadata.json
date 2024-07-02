@@ -1,1 +1,14 @@
-{"name":"미친 아두이노","title":"8972번： 미친 아두이노","problemNumber":"8972","date":"2024-05-20 14:08:23","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "미친 아두이노",
+    "title": "8972번： 미친 아두이노",
+    "problemNumber": "8972",
+    "date": "2024-05-20 14:08:23",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

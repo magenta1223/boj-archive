@@ -1,1 +1,14 @@
-{"name":"소수 구하기","title":"1929번： 소수 구하기","problemNumber":"1929","date":"2023-11-21 15:26:30","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "소수 구하기",
+    "title": "1929번： 소수 구하기",
+    "problemNumber": "1929",
+    "date": "2023-11-21 15:26:30",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

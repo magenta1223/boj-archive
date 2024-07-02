@@ -1,1 +1,14 @@
-{"name":"LCA 2","title":"11438번： LCA 2","problemNumber":"11438","date":"2024-02-28 16:13:17","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "LCA 2",
+    "title": "11438번： LCA 2",
+    "problemNumber": "11438",
+    "date": "2024-02-28 16:13:17",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

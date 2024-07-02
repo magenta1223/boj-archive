@@ -1,1 +1,14 @@
-{"name":"거짓말","title":"1043번： 거짓말","problemNumber":"1043","date":"2024-03-06 11:34:54","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "거짓말",
+    "title": "1043번： 거짓말",
+    "problemNumber": "1043",
+    "date": "2024-03-06 11:34:54",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

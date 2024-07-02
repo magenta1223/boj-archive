@@ -1,1 +1,14 @@
-{"name":"스타트와 링크","title":"14889번： 스타트와 링크","problemNumber":"14889","date":"2023-12-18 19:09:01","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "스타트와 링크",
+    "title": "14889번： 스타트와 링크",
+    "problemNumber": "14889",
+    "date": "2023-12-18 19:09:01",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

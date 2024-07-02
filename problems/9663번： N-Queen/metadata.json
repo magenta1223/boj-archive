@@ -1,1 +1,14 @@
-{"name":"N-Queen","title":"9663번： N-Queen","problemNumber":"9663","date":"2023-11-28 15:00:30","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "N-Queen",
+    "title": "9663번： N-Queen",
+    "problemNumber": "9663",
+    "date": "2023-11-28 15:00:30",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

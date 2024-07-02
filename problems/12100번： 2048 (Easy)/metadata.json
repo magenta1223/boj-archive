@@ -1,1 +1,14 @@
-{"name":"2048 (Easy)","title":"12100번： 2048 (Easy)","problemNumber":"12100","date":"2024-02-07 16:38:17","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "2048 (Easy)",
+    "title": "12100번： 2048 (Easy)",
+    "problemNumber": "12100",
+    "date": "2024-02-07 16:38:17",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

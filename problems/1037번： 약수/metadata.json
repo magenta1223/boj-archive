@@ -1,1 +1,14 @@
-{"name":"약수","title":"1037번： 약수","problemNumber":"1037","date":"2023-11-22 17:03:07","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "약수",
+    "title": "1037번： 약수",
+    "problemNumber": "1037",
+    "date": "2023-11-22 17:03:07",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"벌레컷","title":"27651번： 벌레컷","problemNumber":"27651","date":"2024-06-04 12:02:29","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "벌레컷",
+    "title": "27651번： 벌레컷",
+    "problemNumber": "27651",
+    "date": "2024-06-04 12:02:29",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"체스판 다시 칠하기","title":"1018번： 체스판 다시 칠하기","problemNumber":"1018","date":"2024-04-01 15:37:39","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "체스판 다시 칠하기",
+    "title": "1018번： 체스판 다시 칠하기",
+    "problemNumber": "1018",
+    "date": "2024-04-01 15:37:39",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

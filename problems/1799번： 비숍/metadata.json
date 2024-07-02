@@ -1,1 +1,14 @@
-{"name":"비숍","title":"1799번： 비숍","problemNumber":"1799","date":"2024-04-09 13:42:55","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "비숍",
+    "title": "1799번： 비숍",
+    "problemNumber": "1799",
+    "date": "2024-04-09 13:42:55",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

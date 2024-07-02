@@ -1,1 +1,14 @@
-{"name":"데스노트","title":"2281번： 데스노트","problemNumber":"2281","date":"2024-03-25 19:37:43","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "데스노트",
+    "title": "2281번： 데스노트",
+    "problemNumber": "2281",
+    "date": "2024-03-25 19:37:43",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

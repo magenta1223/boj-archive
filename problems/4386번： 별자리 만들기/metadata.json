@@ -1,1 +1,14 @@
-{"name":"별자리 만들기","title":"4386번： 별자리 만들기","problemNumber":"4386","date":"2024-03-12 18:23:26","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "별자리 만들기",
+    "title": "4386번： 별자리 만들기",
+    "problemNumber": "4386",
+    "date": "2024-03-12 18:23:26",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"패션왕 신해빈","title":"9375번： 패션왕 신해빈","problemNumber":"9375","date":"2024-03-29 18:29:59","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "패션왕 신해빈",
+    "title": "9375번： 패션왕 신해빈",
+    "problemNumber": "9375",
+    "date": "2024-03-29 18:29:59",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

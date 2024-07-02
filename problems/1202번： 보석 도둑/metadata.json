@@ -1,1 +1,14 @@
-{"name":"보석 도둑","title":"1202번： 보석 도둑","problemNumber":"1202","date":"2024-04-11 19:37:44","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "보석 도둑",
+    "title": "1202번： 보석 도둑",
+    "problemNumber": "1202",
+    "date": "2024-04-11 19:37:44",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

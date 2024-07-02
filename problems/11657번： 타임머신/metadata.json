@@ -1,1 +1,14 @@
-{"name":"타임머신","title":"11657번： 타임머신","problemNumber":"11657","date":"2024-01-30 17:40:10","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "타임머신",
+    "title": "11657번： 타임머신",
+    "problemNumber": "11657",
+    "date": "2024-01-30 17:40:10",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"서로 다른 부분 문자열의 개수","title":"11478번： 서로 다른 부분 문자열의 개수","problemNumber":"11478","date":"2023-11-02 15:20:47","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "서로 다른 부분 문자열의 개수",
+    "title": "11478번： 서로 다른 부분 문자열의 개수",
+    "problemNumber": "11478",
+    "date": "2023-11-02 15:20:47",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

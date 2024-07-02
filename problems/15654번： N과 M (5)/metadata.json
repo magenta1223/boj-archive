@@ -1,1 +1,14 @@
-{"name":"N과 M (5)","title":"15654번： N과 M (5)","problemNumber":"15654","date":"2024-03-29 23:51:19","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "N과 M (5)",
+    "title": "15654번： N과 M (5)",
+    "problemNumber": "15654",
+    "date": "2024-03-29 23:51:19",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

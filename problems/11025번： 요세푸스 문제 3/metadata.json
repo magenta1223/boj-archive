@@ -1,1 +1,14 @@
-{"name":"요세푸스 문제 3","title":"11025번： 요세푸스 문제 3","problemNumber":"11025","date":"2024-05-14 10:37:25","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "요세푸스 문제 3",
+    "title": "11025번： 요세푸스 문제 3",
+    "problemNumber": "11025",
+    "date": "2024-05-14 10:37:25",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

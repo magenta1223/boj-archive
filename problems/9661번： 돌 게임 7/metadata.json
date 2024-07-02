@@ -1,1 +1,14 @@
-{"name":"돌 게임 7","title":"9661번： 돌 게임 7","problemNumber":"9661","date":"2024-06-10 18:39:30","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "돌 게임 7",
+    "title": "9661번： 돌 게임 7",
+    "problemNumber": "9661",
+    "date": "2024-06-10 18:39:30",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

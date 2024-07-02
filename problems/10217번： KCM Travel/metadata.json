@@ -1,1 +1,14 @@
-{"name":"KCM Travel","title":"10217번： KCM Travel","problemNumber":"10217","date":"2024-03-05 11:25:28","tier":{"name":"Platinum IV","abb":"P","nameColor":"#27E2A4","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/17.svg","level":17}}
+{
+    "name": "KCM Travel",
+    "title": "10217번： KCM Travel",
+    "problemNumber": "10217",
+    "date": "2024-03-05 11:25:28",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

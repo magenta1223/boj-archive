@@ -1,1 +1,14 @@
-{"name":"스티커","title":"9465번： 스티커","problemNumber":"9465","date":"2024-03-13 17:44:10","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "스티커",
+    "title": "9465번： 스티커",
+    "problemNumber": "9465",
+    "date": "2024-03-13 17:44:10",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

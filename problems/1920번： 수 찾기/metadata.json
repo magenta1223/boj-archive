@@ -1,1 +1,14 @@
-{"name":"수 찾기","title":"1920번： 수 찾기","problemNumber":"1920","date":"2023-12-26 12:28:40","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "수 찾기",
+    "title": "1920번： 수 찾기",
+    "problemNumber": "1920",
+    "date": "2023-12-26 12:28:40",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

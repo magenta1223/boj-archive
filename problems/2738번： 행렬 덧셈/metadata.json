@@ -1,1 +1,14 @@
-{"name":"행렬 덧셈","title":"2738번： 행렬 덧셈","problemNumber":"2738","date":"2023-10-17 15:40:30","tier":{"name":"Bronze III","abb":"B","nameColor":"#B55D0A","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/3.svg","level":3}}
+{
+    "name": "행렬 덧셈",
+    "title": "2738번： 행렬 덧셈",
+    "problemNumber": "2738",
+    "date": "2023-10-17 15:40:30",
+    "tier": {
+        "name": "Bronze III",
+        "abb": "B",
+        "nameColor": "#B55D0A",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/3.svg",
+        "level": 3
+    }
+}

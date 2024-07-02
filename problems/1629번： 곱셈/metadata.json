@@ -1,1 +1,14 @@
-{"name":"곱셈","title":"1629번： 곱셈","problemNumber":"1629","date":"2023-12-21 18:23:01","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "곱셈",
+    "title": "1629번： 곱셈",
+    "problemNumber": "1629",
+    "date": "2023-12-21 18:23:01",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

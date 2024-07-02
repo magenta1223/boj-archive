@@ -1,1 +1,14 @@
-{"name":"새로운 게임 2","title":"17837번： 새로운 게임 2","problemNumber":"17837","date":"2024-02-19 13:59:14","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "새로운 게임 2",
+    "title": "17837번： 새로운 게임 2",
+    "problemNumber": "17837",
+    "date": "2024-02-19 13:59:14",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

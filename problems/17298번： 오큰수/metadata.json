@@ -1,1 +1,14 @@
-{"name":"오큰수","title":"17298번： 오큰수","problemNumber":"17298","date":"2023-12-29 14:46:25","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "오큰수",
+    "title": "17298번： 오큰수",
+    "problemNumber": "17298",
+    "date": "2023-12-29 14:46:25",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

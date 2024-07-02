@@ -1,1 +1,14 @@
-{"name":"두 수 비교하기","title":"1330번： 두 수 비교하기","problemNumber":"1330","date":"2023-10-17 14:06:57","tier":{"name":"Bronze V","abb":"B","nameColor":"#A54F00","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/1.svg","level":1}}
+{
+    "name": "두 수 비교하기",
+    "title": "1330번： 두 수 비교하기",
+    "problemNumber": "1330",
+    "date": "2023-10-17 14:06:57",
+    "tier": {
+        "name": "Bronze V",
+        "abb": "B",
+        "nameColor": "#A54F00",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/1.svg",
+        "level": 1
+    }
+}

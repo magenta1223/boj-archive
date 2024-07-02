@@ -1,1 +1,14 @@
-{"name":"상어 중학교","title":"21609번： 상어 중학교","problemNumber":"21609","date":"2024-02-22 12:59:32","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "상어 중학교",
+    "title": "21609번： 상어 중학교",
+    "problemNumber": "21609",
+    "date": "2024-02-22 12:59:32",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

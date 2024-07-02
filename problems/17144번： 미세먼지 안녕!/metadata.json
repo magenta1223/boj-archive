@@ -1,1 +1,14 @@
-{"name":"미세먼지 안녕!","title":"17144번： 미세먼지 안녕!","problemNumber":"17144","date":"2024-02-18 15:07:42","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "미세먼지 안녕!",
+    "title": "17144번： 미세먼지 안녕!",
+    "problemNumber": "17144",
+    "date": "2024-02-18 15:07:42",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

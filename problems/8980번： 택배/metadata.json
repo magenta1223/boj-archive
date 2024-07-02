@@ -1,1 +1,14 @@
-{"name":"택배","title":"8980번： 택배","problemNumber":"8980","date":"2024-05-23 11:30:32","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "택배",
+    "title": "8980번： 택배",
+    "problemNumber": "8980",
+    "date": "2024-05-23 11:30:32",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

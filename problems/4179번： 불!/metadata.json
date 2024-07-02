@@ -1,1 +1,14 @@
-{"name":"불!","title":"4179번： 불!","problemNumber":"4179","date":"2024-07-01 04:52:22","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "불!",
+    "title": "4179번： 불!",
+    "problemNumber": "4179",
+    "date": "2024-07-01 04:52:22",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

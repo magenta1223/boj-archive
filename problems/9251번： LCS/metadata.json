@@ -1,1 +1,14 @@
-{"name":"LCS","title":"9251번： LCS","problemNumber":"9251","date":"2023-12-20 13:40:19","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "LCS",
+    "title": "9251번： LCS",
+    "problemNumber": "9251",
+    "date": "2023-12-20 13:40:19",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

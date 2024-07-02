@@ -1,1 +1,14 @@
-{"name":"최소 스패닝 트리","title":"1197번： 최소 스패닝 트리","problemNumber":"1197","date":"2024-04-02 13:14:28","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "최소 스패닝 트리",
+    "title": "1197번： 최소 스패닝 트리",
+    "problemNumber": "1197",
+    "date": "2024-04-02 13:14:28",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

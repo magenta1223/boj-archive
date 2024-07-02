@@ -1,1 +1,14 @@
-{"name":"Mixtape Management","title":"20913번： Mixtape Management","problemNumber":"20913","date":"2024-06-17 11:34:30","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "Mixtape Management",
+    "title": "20913번： Mixtape Management",
+    "problemNumber": "20913",
+    "date": "2024-06-17 11:34:30",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

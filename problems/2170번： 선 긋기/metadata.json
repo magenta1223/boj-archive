@@ -1,1 +1,14 @@
-{"name":"선 긋기","title":"2170번： 선 긋기","problemNumber":"2170","date":"2024-05-22 19:44:47","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "선 긋기",
+    "title": "2170번： 선 긋기",
+    "problemNumber": "2170",
+    "date": "2024-05-22 19:44:47",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

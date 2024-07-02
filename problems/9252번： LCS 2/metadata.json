@@ -1,1 +1,14 @@
-{"name":"LCS 2","title":"9252번： LCS 2","problemNumber":"9252","date":"2024-02-06 13:15:06","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "LCS 2",
+    "title": "9252번： LCS 2",
+    "problemNumber": "9252",
+    "date": "2024-02-06 13:15:06",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"Tiling","title":"15243번： Tiling","problemNumber":"15243","date":"2024-06-13 20:15:47","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "Tiling",
+    "title": "15243번： Tiling",
+    "problemNumber": "15243",
+    "date": "2024-06-13 20:15:47",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

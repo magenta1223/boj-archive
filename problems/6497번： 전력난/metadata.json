@@ -1,1 +1,14 @@
-{"name":"전력난","title":"6497번： 전력난","problemNumber":"6497","date":"2024-06-12 15:16:14","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "전력난",
+    "title": "6497번： 전력난",
+    "problemNumber": "6497",
+    "date": "2024-06-12 15:16:14",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

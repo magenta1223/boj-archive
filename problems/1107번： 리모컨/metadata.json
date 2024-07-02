@@ -1,1 +1,14 @@
-{"name":"리모컨","title":"1107번： 리모컨","problemNumber":"1107","date":"2024-03-04 22:35:39","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "리모컨",
+    "title": "1107번： 리모컨",
+    "problemNumber": "1107",
+    "date": "2024-03-04 22:35:39",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

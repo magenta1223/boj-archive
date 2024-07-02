@@ -1,1 +1,14 @@
-{"name":"카드 구매하기","title":"11052번： 카드 구매하기","problemNumber":"11052","date":"2024-05-02 19:32:28","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "카드 구매하기",
+    "title": "11052번： 카드 구매하기",
+    "problemNumber": "11052",
+    "date": "2024-05-02 19:32:28",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

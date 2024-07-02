@@ -1,1 +1,14 @@
-{"name":"하노이 탑 이동 순서","title":"11729번： 하노이 탑 이동 순서","problemNumber":"11729","date":"2023-11-24 17:52:38","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "하노이 탑 이동 순서",
+    "title": "11729번： 하노이 탑 이동 순서",
+    "problemNumber": "11729",
+    "date": "2023-11-24 17:52:38",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

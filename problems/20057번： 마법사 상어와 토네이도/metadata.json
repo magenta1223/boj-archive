@@ -1,1 +1,14 @@
-{"name":"마법사 상어와 토네이도","title":"20057번： 마법사 상어와 토네이도","problemNumber":"20057","date":"2024-02-21 18:29:01","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "마법사 상어와 토네이도",
+    "title": "20057번： 마법사 상어와 토네이도",
+    "problemNumber": "20057",
+    "date": "2024-02-21 18:29:01",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

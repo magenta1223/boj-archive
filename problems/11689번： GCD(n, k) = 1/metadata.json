@@ -1,1 +1,14 @@
-{"name":"GCD(n, k) = 1","title":"11689번： GCD(n, k) = 1","problemNumber":"11689","date":"2024-05-07 20:49:15","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "GCD(n, k) = 1",
+    "title": "11689번： GCD(n, k) = 1",
+    "problemNumber": "11689",
+    "date": "2024-05-07 20:49:15",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

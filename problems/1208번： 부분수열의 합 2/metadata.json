@@ -1,1 +1,14 @@
-{"name":"부분수열의 합 2","title":"1208번： 부분수열의 합 2","problemNumber":"1208","date":"2024-03-05 16:06:28","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "부분수열의 합 2",
+    "title": "1208번： 부분수열의 합 2",
+    "problemNumber": "1208",
+    "date": "2024-03-05 16:06:28",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

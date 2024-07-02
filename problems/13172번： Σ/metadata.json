@@ -1,1 +1,14 @@
-{"name":"Σ","title":"13172번： Σ","problemNumber":"13172","date":"2024-04-04 12:27:40","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "Σ",
+    "title": "13172번： Σ",
+    "problemNumber": "13172",
+    "date": "2024-04-04 12:27:40",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"AC","title":"5430번： AC","problemNumber":"5430","date":"2024-03-05 00:00:10","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "AC",
+    "title": "5430번： AC",
+    "problemNumber": "5430",
+    "date": "2024-03-05 00:00:10",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

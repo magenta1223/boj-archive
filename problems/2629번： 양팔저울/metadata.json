@@ -1,1 +1,14 @@
-{"name":"양팔저울","title":"2629번： 양팔저울","problemNumber":"2629","date":"2023-12-28 12:54:43","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "양팔저울",
+    "title": "2629번： 양팔저울",
+    "problemNumber": "2629",
+    "date": "2023-12-28 12:54:43",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

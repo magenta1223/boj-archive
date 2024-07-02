@@ -1,1 +1,14 @@
-{"name":"연세워터파크","title":"15678번： 연세워터파크","problemNumber":"15678","date":"2024-06-04 15:11:03","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "연세워터파크",
+    "title": "15678번： 연세워터파크",
+    "problemNumber": "15678",
+    "date": "2024-06-04 15:11:03",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

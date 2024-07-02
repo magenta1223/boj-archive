@@ -1,1 +1,14 @@
-{"name":"부분합","title":"1806번： 부분합","problemNumber":"1806","date":"2024-01-31 21:19:58","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "부분합",
+    "title": "1806번： 부분합",
+    "problemNumber": "1806",
+    "date": "2024-01-31 21:19:58",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

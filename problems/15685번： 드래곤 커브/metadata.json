@@ -1,1 +1,14 @@
-{"name":"드래곤 커브","title":"15685번： 드래곤 커브","problemNumber":"15685","date":"2024-02-14 17:58:38","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "드래곤 커브",
+    "title": "15685번： 드래곤 커브",
+    "problemNumber": "15685",
+    "date": "2024-02-14 17:58:38",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

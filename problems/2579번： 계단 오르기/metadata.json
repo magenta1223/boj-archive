@@ -1,1 +1,14 @@
-{"name":"계단 오르기","title":"2579번： 계단 오르기","problemNumber":"2579","date":"2023-12-18 23:20:23","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "계단 오르기",
+    "title": "2579번： 계단 오르기",
+    "problemNumber": "2579",
+    "date": "2023-12-18 23:20:23",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

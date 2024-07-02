@@ -1,1 +1,14 @@
-{"name":"알파벳","title":"1987번： 알파벳","problemNumber":"1987","date":"2024-04-02 15:53:57","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "알파벳",
+    "title": "1987번： 알파벳",
+    "problemNumber": "1987",
+    "date": "2024-04-02 15:53:57",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

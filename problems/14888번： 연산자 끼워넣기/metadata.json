@@ -1,1 +1,14 @@
-{"name":"연산자 끼워넣기","title":"14888번： 연산자 끼워넣기","problemNumber":"14888","date":"2023-12-18 18:25:48","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "연산자 끼워넣기",
+    "title": "14888번： 연산자 끼워넣기",
+    "problemNumber": "14888",
+    "date": "2023-12-18 18:25:48",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

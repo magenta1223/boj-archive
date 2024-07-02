@@ -1,1 +1,14 @@
-{"name":"가장 가까운 세 사람의 심리적 거리","title":"20529번： 가장 가까운 세 사람의 심리적 거리","problemNumber":"20529","date":"2024-03-29 19:53:25","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "가장 가까운 세 사람의 심리적 거리",
+    "title": "20529번： 가장 가까운 세 사람의 심리적 거리",
+    "problemNumber": "20529",
+    "date": "2024-03-29 19:53:25",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

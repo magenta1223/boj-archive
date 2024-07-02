@@ -1,1 +1,14 @@
-{"name":"로프","title":"2217번： 로프","problemNumber":"2217","date":"2024-05-23 12:31:35","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "로프",
+    "title": "2217번： 로프",
+    "problemNumber": "2217",
+    "date": "2024-05-23 12:31:35",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

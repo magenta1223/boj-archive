@@ -1,1 +1,14 @@
-{"name":"공 넣기","title":"10810번： 공 넣기","problemNumber":"10810","date":"2023-10-17 14:37:37","tier":{"name":"Bronze III","abb":"B","nameColor":"#B55D0A","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/3.svg","level":3}}
+{
+    "name": "공 넣기",
+    "title": "10810번： 공 넣기",
+    "problemNumber": "10810",
+    "date": "2023-10-17 14:37:37",
+    "tier": {
+        "name": "Bronze III",
+        "abb": "B",
+        "nameColor": "#B55D0A",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/3.svg",
+        "level": 3
+    }
+}

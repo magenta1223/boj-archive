@@ -1,1 +1,14 @@
-{"name":"사다리 조작","title":"15684번： 사다리 조작","problemNumber":"15684","date":"2024-02-14 12:09:49","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "사다리 조작",
+    "title": "15684번： 사다리 조작",
+    "problemNumber": "15684",
+    "date": "2024-02-14 12:09:49",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

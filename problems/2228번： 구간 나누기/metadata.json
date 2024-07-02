@@ -1,1 +1,14 @@
-{"name":"구간 나누기","title":"2228번： 구간 나누기","problemNumber":"2228","date":"2024-03-18 11:15:02","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "구간 나누기",
+    "title": "2228번： 구간 나누기",
+    "problemNumber": "2228",
+    "date": "2024-03-18 11:15:02",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

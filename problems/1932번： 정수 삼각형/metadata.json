@@ -1,1 +1,14 @@
-{"name":"정수 삼각형","title":"1932번： 정수 삼각형","problemNumber":"1932","date":"2023-12-18 23:03:18","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "정수 삼각형",
+    "title": "1932번： 정수 삼각형",
+    "problemNumber": "1932",
+    "date": "2023-12-18 23:03:18",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

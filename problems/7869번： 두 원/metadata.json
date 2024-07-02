@@ -1,1 +1,14 @@
-{"name":"두 원","title":"7869번： 두 원","problemNumber":"7869","date":"2024-06-13 11:56:55","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "두 원",
+    "title": "7869번： 두 원",
+    "problemNumber": "7869",
+    "date": "2024-06-13 11:56:55",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

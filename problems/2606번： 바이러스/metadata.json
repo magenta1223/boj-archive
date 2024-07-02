@@ -1,1 +1,14 @@
-{"name":"바이러스","title":"2606번： 바이러스","problemNumber":"2606","date":"2024-01-03 10:41:36","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "바이러스",
+    "title": "2606번： 바이러스",
+    "problemNumber": "2606",
+    "date": "2024-01-03 10:41:36",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"색상환","title":"2482번： 색상환","problemNumber":"2482","date":"2024-03-08 11:59:06","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "색상환",
+    "title": "2482번： 색상환",
+    "problemNumber": "2482",
+    "date": "2024-03-08 11:59:06",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

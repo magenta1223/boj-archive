@@ -1,1 +1,14 @@
-{"name":"칵테일","title":"1033번： 칵테일","problemNumber":"1033","date":"2024-06-11 09:37:34","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "칵테일",
+    "title": "1033번： 칵테일",
+    "problemNumber": "1033",
+    "date": "2024-06-11 09:37:34",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

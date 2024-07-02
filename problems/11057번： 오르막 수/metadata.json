@@ -1,1 +1,14 @@
-{"name":"오르막 수","title":"11057번： 오르막 수","problemNumber":"11057","date":"2024-05-03 11:39:14","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "오르막 수",
+    "title": "11057번： 오르막 수",
+    "problemNumber": "11057",
+    "date": "2024-05-03 11:39:14",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

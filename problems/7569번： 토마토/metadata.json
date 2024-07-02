@@ -1,1 +1,14 @@
-{"name":"토마토","title":"7569번： 토마토","problemNumber":"7569","date":"2024-01-26 15:55:02","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "토마토",
+    "title": "7569번： 토마토",
+    "problemNumber": "7569",
+    "date": "2024-01-26 15:55:02",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

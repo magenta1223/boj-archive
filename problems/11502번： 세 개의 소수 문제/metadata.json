@@ -1,1 +1,14 @@
-{"name":"세 개의 소수 문제","title":"11502번： 세 개의 소수 문제","problemNumber":"11502","date":"2024-05-02 19:20:46","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "세 개의 소수 문제",
+    "title": "11502번： 세 개의 소수 문제",
+    "problemNumber": "11502",
+    "date": "2024-05-02 19:20:46",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

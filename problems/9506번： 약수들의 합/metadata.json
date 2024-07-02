@@ -1,1 +1,14 @@
-{"name":"약수들의 합","title":"9506번： 약수들의 합","problemNumber":"9506","date":"2023-10-17 16:52:04","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "약수들의 합",
+    "title": "9506번： 약수들의 합",
+    "problemNumber": "9506",
+    "date": "2023-10-17 16:52:04",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

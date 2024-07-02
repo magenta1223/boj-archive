@@ -1,1 +1,14 @@
-{"name":"문자열 제곱","title":"4354번： 문자열 제곱","problemNumber":"4354","date":"2024-04-15 15:10:47","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "문자열 제곱",
+    "title": "4354번： 문자열 제곱",
+    "problemNumber": "4354",
+    "date": "2024-04-15 15:10:47",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

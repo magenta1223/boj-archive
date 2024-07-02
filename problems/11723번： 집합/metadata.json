@@ -1,1 +1,14 @@
-{"name":"집합","title":"11723번： 집합","problemNumber":"11723","date":"2024-03-05 00:29:52","tier":{"name":"Silver V","abb":"S","nameColor":"#3D5A74","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/6.svg","level":6}}
+{
+    "name": "집합",
+    "title": "11723번： 집합",
+    "problemNumber": "11723",
+    "date": "2024-03-05 00:29:52",
+    "tier": {
+        "name": "Silver V",
+        "abb": "S",
+        "nameColor": "#3D5A74",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/6.svg",
+        "level": 6
+    }
+}

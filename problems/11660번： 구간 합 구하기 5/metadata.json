@@ -1,1 +1,14 @@
-{"name":"구간 합 구하기 5","title":"11660번： 구간 합 구하기 5","problemNumber":"11660","date":"2023-12-20 17:16:31","tier":{"name":"Silver I","abb":"S","nameColor":"#D28500","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/10.svg","level":10}}
+{
+    "name": "구간 합 구하기 5",
+    "title": "11660번： 구간 합 구하기 5",
+    "problemNumber": "11660",
+    "date": "2023-12-20 17:16:31",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

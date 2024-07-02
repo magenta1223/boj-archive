@@ -1,1 +1,14 @@
-{"name":"풍선 터뜨리기","title":"2346번： 풍선 터뜨리기","problemNumber":"2346","date":"2023-11-22 16:10:12","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "풍선 터뜨리기",
+    "title": "2346번： 풍선 터뜨리기",
+    "problemNumber": "2346",
+    "date": "2023-11-22 16:10:12",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

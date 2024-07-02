@@ -1,1 +1,14 @@
-{"name":"찾기","title":"1786번： 찾기","problemNumber":"1786","date":"2024-04-14 14:19:50","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "찾기",
+    "title": "1786번： 찾기",
+    "problemNumber": "1786",
+    "date": "2024-04-14 14:19:50",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"수식 표현","title":"1955번： 수식 표현","problemNumber":"1955","date":"2024-06-18 11:45:07","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "수식 표현",
+    "title": "1955번： 수식 표현",
+    "problemNumber": "1955",
+    "date": "2024-06-18 11:45:07",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

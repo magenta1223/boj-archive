@@ -1,1 +1,14 @@
-{"name":"뱀과 사다리 게임","title":"16928번： 뱀과 사다리 게임","problemNumber":"16928","date":"2024-01-26 16:28:44","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "뱀과 사다리 게임",
+    "title": "16928번： 뱀과 사다리 게임",
+    "problemNumber": "16928",
+    "date": "2024-01-26 16:28:44",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"연구소","title":"14502번： 연구소","problemNumber":"14502","date":"2024-02-12 15:03:22","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "연구소",
+    "title": "14502번： 연구소",
+    "problemNumber": "14502",
+    "date": "2024-02-12 15:03:22",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

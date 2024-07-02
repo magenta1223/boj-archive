@@ -1,1 +1,14 @@
-{"name":"이항 계수 1","title":"11050번： 이항 계수 1","problemNumber":"11050","date":"2023-11-22 16:43:03","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "이항 계수 1",
+    "title": "11050번： 이항 계수 1",
+    "problemNumber": "11050",
+    "date": "2023-11-22 16:43:03",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

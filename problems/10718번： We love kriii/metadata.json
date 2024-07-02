@@ -1,1 +1,14 @@
-{"name":"We love kriii","title":"10718번： We love kriii","problemNumber":"10718","date":"2022-01-09 17:25:35","tier":{"name":"Bronze V","abb":"B","nameColor":"#A54F00","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/1.svg","level":1}}
+{
+    "name": "We love kriii",
+    "title": "10718번： We love kriii",
+    "problemNumber": "10718",
+    "date": "2022-01-09 17:25:35",
+    "tier": {
+        "name": "Bronze V",
+        "abb": "B",
+        "nameColor": "#A54F00",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/1.svg",
+        "level": 1
+    }
+}

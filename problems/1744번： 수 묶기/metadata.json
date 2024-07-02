@@ -1,1 +1,14 @@
-{"name":"수 묶기","title":"1744번： 수 묶기","problemNumber":"1744","date":"2024-05-23 16:19:42","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "수 묶기",
+    "title": "1744번： 수 묶기",
+    "problemNumber": "1744",
+    "date": "2024-05-23 16:19:42",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

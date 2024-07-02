@@ -1,1 +1,14 @@
-{"name":"알고리즘 수업 - 알고리즘의 수행 시간 3","title":"24264번： 알고리즘 수업 - 알고리즘의 수행 시간 3","problemNumber":"24264","date":"2023-10-26 14:59:45","tier":{"name":"Bronze III","abb":"B","nameColor":"#B55D0A","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/3.svg","level":3}}
+{
+    "name": "알고리즘 수업 - 알고리즘의 수행 시간 3",
+    "title": "24264번： 알고리즘 수업 - 알고리즘의 수행 시간 3",
+    "problemNumber": "24264",
+    "date": "2023-10-26 14:59:45",
+    "tier": {
+        "name": "Bronze III",
+        "abb": "B",
+        "nameColor": "#B55D0A",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/3.svg",
+        "level": 3
+    }
+}

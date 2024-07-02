@@ -1,1 +1,14 @@
-{"name":"스타트 택시","title":"19238번： 스타트 택시","problemNumber":"19238","date":"2024-02-20 22:12:29","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "스타트 택시",
+    "title": "19238번： 스타트 택시",
+    "problemNumber": "19238",
+    "date": "2024-02-20 22:12:29",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"깊콘이 넘쳐흘러","title":"17420번： 깊콘이 넘쳐흘러","problemNumber":"17420","date":"2024-06-18 10:38:27","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "깊콘이 넘쳐흘러",
+    "title": "17420번： 깊콘이 넘쳐흘러",
+    "problemNumber": "17420",
+    "date": "2024-06-18 10:38:27",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

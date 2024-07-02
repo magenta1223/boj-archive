@@ -1,1 +1,14 @@
-{"name":"움직이는 미로 탈출","title":"16954번： 움직이는 미로 탈출","problemNumber":"16954","date":"2024-02-29 17:37:15","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "움직이는 미로 탈출",
+    "title": "16954번： 움직이는 미로 탈출",
+    "problemNumber": "16954",
+    "date": "2024-02-29 17:37:15",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

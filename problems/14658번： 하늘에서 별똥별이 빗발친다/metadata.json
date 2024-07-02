@@ -1,1 +1,14 @@
-{"name":"하늘에서 별똥별이 빗발친다","title":"14658번： 하늘에서 별똥별이 빗발친다","problemNumber":"14658","date":"2024-05-09 11:26:04","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "하늘에서 별똥별이 빗발친다",
+    "title": "14658번： 하늘에서 별똥별이 빗발친다",
+    "problemNumber": "14658",
+    "date": "2024-05-09 11:26:04",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"벌집","title":"2292번： 벌집","problemNumber":"2292","date":"2022-01-09 17:58:46","tier":{"name":"Bronze II","abb":"B","nameColor":"#C67739","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/4.svg","level":4}}
+{
+    "name": "벌집",
+    "title": "2292번： 벌집",
+    "problemNumber": "2292",
+    "date": "2022-01-09 17:58:46",
+    "tier": {
+        "name": "Bronze II",
+        "abb": "B",
+        "nameColor": "#C67739",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/4.svg",
+        "level": 4
+    }
+}

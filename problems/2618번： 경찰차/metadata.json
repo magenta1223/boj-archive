@@ -1,1 +1,14 @@
-{"name":"경찰차","title":"2618번： 경찰차","problemNumber":"2618","date":"2024-02-07 11:14:51","tier":{"name":"Platinum IV","abb":"P","nameColor":"#27E2A4","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/17.svg","level":17}}
+{
+    "name": "경찰차",
+    "title": "2618번： 경찰차",
+    "problemNumber": "2618",
+    "date": "2024-02-07 11:14:51",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

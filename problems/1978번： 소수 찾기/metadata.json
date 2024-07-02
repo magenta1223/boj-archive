@@ -1,1 +1,14 @@
-{"name":"소수 찾기","title":"1978번： 소수 찾기","problemNumber":"1978","date":"2023-10-26 14:31:28","tier":{"name":"Bronze II","abb":"B","nameColor":"#C67739","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/4.svg","level":4}}
+{
+    "name": "소수 찾기",
+    "title": "1978번： 소수 찾기",
+    "problemNumber": "1978",
+    "date": "2023-10-26 14:31:28",
+    "tier": {
+        "name": "Bronze II",
+        "abb": "B",
+        "nameColor": "#C67739",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/4.svg",
+        "level": 4
+    }
+}

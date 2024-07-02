@@ -73,6 +73,7 @@
 | 14428 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수열과 쿼리 16 | [문제링크](https://boj.kr/14428) | [소스코드](./problems/14428번：%20수열과%20쿼리%2016/14428번：%20수열과%20쿼리%2016.py) | 2024-05-22 |
 | 20149 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 선분 교차 3 | [문제링크](https://boj.kr/20149) | [소스코드](./problems/20149번：%20선분%20교차%203/20149번：%20선분%20교차%203.py) | 2024-05-21 |
 | 17386 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 선분 교차 1 | [문제링크](https://boj.kr/17386) | [소스코드](./problems/17386번：%20선분%20교차%201/17386번：%20선분%20교차%201.py) | 2024-05-21 |
+| 1194 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 달이 차오른다, 가자. | [문제링크](https://boj.kr/1194) | [소스코드](./problems/1194번：%20달이%20차오른다,%20가자./1194번：%20달이%20차오른다,%20가자..py) | 2024-05-21 |
 | 5425 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 자리합 | [문제링크](https://boj.kr/5425) | [소스코드](./problems/5425번：%20자리합/5425번：%20자리합.py) | 2024-05-21 |
 | 2632 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 피자판매 | [문제링크](https://boj.kr/2632) | [소스코드](./problems/2632번：%20피자판매/2632번：%20피자판매.py) | 2024-05-21 |
 | 8972 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 미친 아두이노 | [문제링크](https://boj.kr/8972) | [소스코드](./problems/8972번：%20미친%20아두이노/8972번：%20미친%20아두이노.py) | 2024-05-20 |
@@ -286,7 +287,6 @@
 | 1389 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 케빈 베이컨의 6단계 법칙 | [문제링크](https://boj.kr/1389) | [소스코드](./problems/1389번：%20케빈%20베이컨의%206단계%20법칙/1389번：%20케빈%20베이컨의%206단계%20법칙.py) | 2024-03-04 |
 | 1107 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 리모컨 | [문제링크](https://boj.kr/1107) | [소스코드](./problems/1107번：%20리모컨/1107번：%20리모컨.py) | 2024-03-04 |
 | 1074 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> Z | [문제링크](https://boj.kr/1074) | [소스코드](./problems/1074번：%20Z/1074번：%20Z.py) | 2024-03-04 |
-| 1003 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 피보나치 함수 | [문제링크](https://boj.kr/1003) | [소스코드](./problems/1003번：%20피보나치%20함수/1003번：%20피보나치%20함수.py) | 2024-03-04 |
 | 1981 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 배열에서 이동 | [문제링크](https://boj.kr/1981) | [소스코드](./problems/1981번：%20배열에서%20이동/1981번：%20배열에서%20이동.py) | 2024-03-04 |
 | 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-03-04 |
 | 1976 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 여행 가자 | [문제링크](https://boj.kr/1976) | [소스코드](./problems/1976번：%20여행%20가자/1976번：%20여행%20가자.py) | 2024-03-04 |
@@ -541,8 +541,6 @@
 | 1330 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 두 수 비교하기 | [문제링크](https://boj.kr/1330) | [소스코드](./problems/1330번：%20두%20수%20비교하기/1330번：%20두%20수%20비교하기.py) | 2023-10-17 |
 | 10171 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 고양이 | [문제링크](https://boj.kr/10171) | [소스코드](./problems/10171번：%20고양이/10171번：%20고양이.py) | 2023-10-17 |
 | 18108 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 1998년생인 내가 태국에서는 2541년생？! | [문제링크](https://boj.kr/18108) | [소스코드](./problems/18108번：%201998년생인%20내가%20태국에서는%202541년생？!/18108번：%201998년생인%20내가%20태국에서는%202541년생？!.py) | 2023-10-17 |
-| 1001 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A-B | [문제링크](https://boj.kr/1001) | [소스코드](./problems/1001번：%20A-B/1001번：%20A-B.py) | 2023-10-17 |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2023-10-17 |
 | 2292 번 | <img src="https://static.solved.ac/tier_small/4.svg" style="height:20px"> 벌집 | [문제링크](https://boj.kr/2292) | [소스코드](./problems/2292번：%20벌집/2292번：%20벌집.py) | 2022-01-09 |
 | 1712 번 | <img src="https://static.solved.ac/tier_small/4.svg" style="height:20px"> 손익분기점 | [문제링크](https://boj.kr/1712) | [소스코드](./problems/1712번：%20손익분기점/1712번：%20손익분기점.py) | 2022-01-09 |
 | 10718 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> We love kriii | [문제링크](https://boj.kr/10718) | [소스코드](./problems/10718번：%20We%20love%20kriii/10718번：%20We%20love%20kriii.py) | 2022-01-09 |
@@ -610,6 +608,7 @@
 | 1029 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 그림 교환 | [문제링크](https://boj.kr/1029) | [소스코드](./problems/1029번：%20그림%20교환/1029번：%20그림%20교환.py) | 2024-05-24 |
 | 8980 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 택배 | [문제링크](https://boj.kr/8980) | [소스코드](./problems/8980번：%20택배/8980번：%20택배.py) | 2024-05-23 |
 | 14428 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수열과 쿼리 16 | [문제링크](https://boj.kr/14428) | [소스코드](./problems/14428번：%20수열과%20쿼리%2016/14428번：%20수열과%20쿼리%2016.py) | 2024-05-22 |
+| 1194 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 달이 차오른다, 가자. | [문제링크](https://boj.kr/1194) | [소스코드](./problems/1194번：%20달이%20차오른다,%20가자./1194번：%20달이%20차오른다,%20가자..py) | 2024-05-21 |
 | 5425 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 자리합 | [문제링크](https://boj.kr/5425) | [소스코드](./problems/5425번：%20자리합/5425번：%20자리합.py) | 2024-05-21 |
 | 22954 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 그래프 트리 분할 | [문제링크](https://boj.kr/22954) | [소스코드](./problems/22954번：%20그래프%20트리%20분할/22954번：%20그래프%20트리%20분할.py) | 2024-05-17 |
 | 10868 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 최솟값 | [문제링크](https://boj.kr/10868) | [소스코드](./problems/10868번：%20최솟값/10868번：%20최솟값.py) | 2024-05-16 |
@@ -958,7 +957,6 @@
 | 9375 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 패션왕 신해빈 | [문제링크](https://boj.kr/9375) | [소스코드](./problems/9375번：%20패션왕%20신해빈/9375번：%20패션왕%20신해빈.py) | 2024-03-29 |
 | 11726 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 2×n 타일링 | [문제링크](https://boj.kr/11726) | [소스코드](./problems/11726번：%202×n%20타일링/11726번：%202×n%20타일링.py) | 2024-03-05 |
 | 9095 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 1, 2, 3 더하기 | [문제링크](https://boj.kr/9095) | [소스코드](./problems/9095번：%201,%202,%203%20더하기/9095번：%201,%202,%203%20더하기.py) | 2024-03-05 |
-| 1003 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 피보나치 함수 | [문제링크](https://boj.kr/1003) | [소스코드](./problems/1003번：%20피보나치%20함수/1003번：%20피보나치%20함수.py) | 2024-03-04 |
 | 14501 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 퇴사 | [문제링크](https://boj.kr/14501) | [소스코드](./problems/14501번：%20퇴사/14501번：%20퇴사.py) | 2024-02-11 |
 | 3273 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 두 수의 합 | [문제링크](https://boj.kr/3273) | [소스코드](./problems/3273번：%20두%20수의%20합/3273번：%20두%20수의%20합.py) | 2024-01-31 |
 | 2606 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 바이러스 | [문제링크](https://boj.kr/2606) | [소스코드](./problems/2606번：%20바이러스/2606번：%20바이러스.py) | 2024-01-03 |
@@ -1092,8 +1090,6 @@
 | 1330 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 두 수 비교하기 | [문제링크](https://boj.kr/1330) | [소스코드](./problems/1330번：%20두%20수%20비교하기/1330번：%20두%20수%20비교하기.py) | 2023-10-17 |
 | 10171 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 고양이 | [문제링크](https://boj.kr/10171) | [소스코드](./problems/10171번：%20고양이/10171번：%20고양이.py) | 2023-10-17 |
 | 18108 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 1998년생인 내가 태국에서는 2541년생？! | [문제링크](https://boj.kr/18108) | [소스코드](./problems/18108번：%201998년생인%20내가%20태국에서는%202541년생？!/18108번：%201998년생인%20내가%20태국에서는%202541년생？!.py) | 2023-10-17 |
-| 1001 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A-B | [문제링크](https://boj.kr/1001) | [소스코드](./problems/1001번：%20A-B/1001번：%20A-B.py) | 2023-10-17 |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2023-10-17 |
 | 10718 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> We love kriii | [문제링크](https://boj.kr/10718) | [소스코드](./problems/10718번：%20We%20love%20kriii/10718번：%20We%20love%20kriii.py) | 2022-01-09 |
 | 2557 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> Hello World | [문제링크](https://boj.kr/2557) | [소스코드](./problems/2557번：%20Hello%20World/2557번：%20Hello%20World.py) | 2022-01-09 |
 

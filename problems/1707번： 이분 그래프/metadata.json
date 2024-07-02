@@ -1,1 +1,14 @@
-{"name":"이분 그래프","title":"1707번： 이분 그래프","problemNumber":"1707","date":"2024-01-26 18:12:31","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "이분 그래프",
+    "title": "1707번： 이분 그래프",
+    "problemNumber": "1707",
+    "date": "2024-01-26 18:12:31",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

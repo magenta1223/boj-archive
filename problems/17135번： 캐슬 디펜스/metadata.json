@@ -1,1 +1,14 @@
-{"name":"캐슬 디펜스","title":"17135번： 캐슬 디펜스","problemNumber":"17135","date":"2024-04-01 14:07:21","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "캐슬 디펜스",
+    "title": "17135번： 캐슬 디펜스",
+    "problemNumber": "17135",
+    "date": "2024-04-01 14:07:21",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

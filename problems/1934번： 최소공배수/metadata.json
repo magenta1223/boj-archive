@@ -1,1 +1,14 @@
-{"name":"최소공배수","title":"1934번： 최소공배수","problemNumber":"1934","date":"2023-11-02 15:33:26","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "최소공배수",
+    "title": "1934번： 최소공배수",
+    "problemNumber": "1934",
+    "date": "2023-11-02 15:33:26",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

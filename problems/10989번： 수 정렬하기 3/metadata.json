@@ -1,1 +1,14 @@
-{"name":"수 정렬하기 3","title":"10989번： 수 정렬하기 3","problemNumber":"10989","date":"2023-10-26 16:58:41","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "수 정렬하기 3",
+    "title": "10989번： 수 정렬하기 3",
+    "problemNumber": "10989",
+    "date": "2023-10-26 16:58:41",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

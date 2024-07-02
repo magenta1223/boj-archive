@@ -1,1 +1,14 @@
-{"name":"시계 사진들","title":"10266번： 시계 사진들","problemNumber":"10266","date":"2024-04-15 19:17:07","tier":{"name":"Platinum IV","abb":"P","nameColor":"#27E2A4","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/17.svg","level":17}}
+{
+    "name": "시계 사진들",
+    "title": "10266번： 시계 사진들",
+    "problemNumber": "10266",
+    "date": "2024-04-15 19:17:07",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

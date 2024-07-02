@@ -1,1 +1,14 @@
-{"name":"적록색약","title":"10026번： 적록색약","problemNumber":"10026","date":"2024-03-29 18:36:46","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "적록색약",
+    "title": "10026번： 적록색약",
+    "problemNumber": "10026",
+    "date": "2024-03-29 18:36:46",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

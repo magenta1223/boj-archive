@@ -1,1 +1,14 @@
-{"name":"Fly me to the Alpha Centauri","title":"1011번： Fly me to the Alpha Centauri","problemNumber":"1011","date":"2024-07-01 02:03:45","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "Fly me to the Alpha Centauri",
+    "title": "1011번： Fly me to the Alpha Centauri",
+    "problemNumber": "1011",
+    "date": "2024-07-01 02:03:45",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

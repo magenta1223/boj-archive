@@ -1,1 +1,14 @@
-{"name":"구슬 탈출 2","title":"13460번： 구슬 탈출 2","problemNumber":"13460","date":"2024-01-31 21:37:14","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "구슬 탈출 2",
+    "title": "13460번： 구슬 탈출 2",
+    "problemNumber": "13460",
+    "date": "2024-01-31 21:37:14",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

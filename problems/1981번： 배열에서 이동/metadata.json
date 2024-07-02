@@ -1,1 +1,14 @@
-{"name":"배열에서 이동","title":"1981번： 배열에서 이동","problemNumber":"1981","date":"2024-03-04 18:17:05","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "배열에서 이동",
+    "title": "1981번： 배열에서 이동",
+    "problemNumber": "1981",
+    "date": "2024-03-04 18:17:05",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"스택 2","title":"28278번： 스택 2","problemNumber":"28278","date":"2023-11-22 13:17:05","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "스택 2",
+    "title": "28278번： 스택 2",
+    "problemNumber": "28278",
+    "date": "2023-11-22 13:17:05",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

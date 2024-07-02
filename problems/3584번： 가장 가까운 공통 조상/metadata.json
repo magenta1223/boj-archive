@@ -1,1 +1,14 @@
-{"name":"가장 가까운 공통 조상","title":"3584번： 가장 가까운 공통 조상","problemNumber":"3584","date":"2024-02-29 18:27:33","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "가장 가까운 공통 조상",
+    "title": "3584번： 가장 가까운 공통 조상",
+    "problemNumber": "3584",
+    "date": "2024-02-29 18:27:33",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

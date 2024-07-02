@@ -1,1 +1,14 @@
-{"name":"퇴사","title":"14501번： 퇴사","problemNumber":"14501","date":"2024-02-11 20:46:44","tier":{"name":"Silver III","abb":"S","nameColor":"#496580","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/8.svg","level":8}}
+{
+    "name": "퇴사",
+    "title": "14501번： 퇴사",
+    "problemNumber": "14501",
+    "date": "2024-02-11 20:46:44",
+    "tier": {
+        "name": "Silver III",
+        "abb": "S",
+        "nameColor": "#496580",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/8.svg",
+        "level": 8
+    }
+}

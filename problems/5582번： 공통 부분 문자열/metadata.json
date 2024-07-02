@@ -1,1 +1,14 @@
-{"name":"공통 부분 문자열","title":"5582번： 공통 부분 문자열","problemNumber":"5582","date":"2024-03-13 18:37:57","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "공통 부분 문자열",
+    "title": "5582번： 공통 부분 문자열",
+    "problemNumber": "5582",
+    "date": "2024-03-13 18:37:57",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

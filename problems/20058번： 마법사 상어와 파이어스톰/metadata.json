@@ -1,1 +1,14 @@
-{"name":"마법사 상어와 파이어스톰","title":"20058번： 마법사 상어와 파이어스톰","problemNumber":"20058","date":"2024-02-21 19:35:30","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "마법사 상어와 파이어스톰",
+    "title": "20058번： 마법사 상어와 파이어스톰",
+    "problemNumber": "20058",
+    "date": "2024-02-21 19:35:30",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

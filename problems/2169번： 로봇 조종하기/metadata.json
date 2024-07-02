@@ -1,1 +1,14 @@
-{"name":"로봇 조종하기","title":"2169번： 로봇 조종하기","problemNumber":"2169","date":"2024-05-09 16:09:57","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "로봇 조종하기",
+    "title": "2169번： 로봇 조종하기",
+    "problemNumber": "2169",
+    "date": "2024-05-09 16:09:57",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

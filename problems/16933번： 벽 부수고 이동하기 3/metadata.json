@@ -1,1 +1,14 @@
-{"name":"벽 부수고 이동하기 3","title":"16933번： 벽 부수고 이동하기 3","problemNumber":"16933","date":"2024-03-11 17:30:05","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "벽 부수고 이동하기 3",
+    "title": "16933번： 벽 부수고 이동하기 3",
+    "problemNumber": "16933",
+    "date": "2024-03-11 17:30:05",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

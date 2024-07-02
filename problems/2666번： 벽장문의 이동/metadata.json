@@ -1,1 +1,14 @@
-{"name":"벽장문의 이동","title":"2666번： 벽장문의 이동","problemNumber":"2666","date":"2024-03-18 15:31:51","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "벽장문의 이동",
+    "title": "2666번： 벽장문의 이동",
+    "problemNumber": "2666",
+    "date": "2024-03-18 15:31:51",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

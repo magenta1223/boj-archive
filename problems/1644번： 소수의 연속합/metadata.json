@@ -1,1 +1,14 @@
-{"name":"소수의 연속합","title":"1644번： 소수의 연속합","problemNumber":"1644","date":"2024-02-05 14:16:48","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "소수의 연속합",
+    "title": "1644번： 소수의 연속합",
+    "problemNumber": "1644",
+    "date": "2024-02-05 14:16:48",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"철로","title":"13334번： 철로","problemNumber":"13334","date":"2024-05-22 19:25:48","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "철로",
+    "title": "13334번： 철로",
+    "problemNumber": "13334",
+    "date": "2024-05-22 19:25:48",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

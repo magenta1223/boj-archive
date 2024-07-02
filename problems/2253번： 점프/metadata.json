@@ -1,1 +1,14 @@
-{"name":"점프","title":"2253번： 점프","problemNumber":"2253","date":"2024-03-29 16:06:44","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "점프",
+    "title": "2253번： 점프",
+    "problemNumber": "2253",
+    "date": "2024-03-29 16:06:44",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

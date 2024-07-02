@@ -1,1 +1,14 @@
-{"name":"가장 큰 정사각형","title":"1915번： 가장 큰 정사각형","problemNumber":"1915","date":"2024-06-10 12:27:55","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "가장 큰 정사각형",
+    "title": "1915번： 가장 큰 정사각형",
+    "problemNumber": "1915",
+    "date": "2024-06-10 12:27:55",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

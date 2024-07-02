@@ -1,1 +1,14 @@
-{"name":"세로읽기","title":"10798번： 세로읽기","problemNumber":"10798","date":"2023-10-17 16:06:23","tier":{"name":"Bronze I","abb":"B","nameColor":"#38546E","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/5.svg","level":5}}
+{
+    "name": "세로읽기",
+    "title": "10798번： 세로읽기",
+    "problemNumber": "10798",
+    "date": "2023-10-17 16:06:23",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

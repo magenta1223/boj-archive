@@ -1,1 +1,14 @@
-{"name":"방 번호","title":"1082번： 방 번호","problemNumber":"1082","date":"2024-05-24 12:30:46","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "방 번호",
+    "title": "1082번： 방 번호",
+    "problemNumber": "1082",
+    "date": "2024-05-24 12:30:46",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

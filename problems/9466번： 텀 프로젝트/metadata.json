@@ -1,1 +1,14 @@
-{"name":"텀 프로젝트","title":"9466번： 텀 프로젝트","problemNumber":"9466","date":"2024-04-08 17:29:45","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "텀 프로젝트",
+    "title": "9466번： 텀 프로젝트",
+    "problemNumber": "9466",
+    "date": "2024-04-08 17:29:45",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

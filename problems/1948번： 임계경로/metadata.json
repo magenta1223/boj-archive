@@ -1,1 +1,14 @@
-{"name":"임계경로","title":"1948번： 임계경로","problemNumber":"1948","date":"2024-05-17 10:29:45","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "임계경로",
+    "title": "1948번： 임계경로",
+    "problemNumber": "1948",
+    "date": "2024-05-17 10:29:45",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

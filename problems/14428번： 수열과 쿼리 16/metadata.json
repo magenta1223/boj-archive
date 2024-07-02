@@ -1,1 +1,14 @@
-{"name":"수열과 쿼리 16","title":"14428번： 수열과 쿼리 16","problemNumber":"14428","date":"2024-05-22 13:17:52","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "수열과 쿼리 16",
+    "title": "14428번： 수열과 쿼리 16",
+    "problemNumber": "14428",
+    "date": "2024-05-22 13:17:52",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

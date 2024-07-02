@@ -1,1 +1,14 @@
-{"name":"미네랄 2","title":"18500번： 미네랄 2","problemNumber":"18500","date":"2024-05-07 12:49:25","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "미네랄 2",
+    "title": "18500번： 미네랄 2",
+    "problemNumber": "18500",
+    "date": "2024-05-07 12:49:25",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

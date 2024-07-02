@@ -1,1 +1,14 @@
-{"name":"무한 수열","title":"1351번： 무한 수열","problemNumber":"1351","date":"2024-05-29 15:29:39","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "무한 수열",
+    "title": "1351번： 무한 수열",
+    "problemNumber": "1351",
+    "date": "2024-05-29 15:29:39",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

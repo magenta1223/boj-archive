@@ -1,1 +1,14 @@
-{"name":"히스토그램","title":"1725번： 히스토그램","problemNumber":"1725","date":"2023-12-29 15:17:48","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "히스토그램",
+    "title": "1725번： 히스토그램",
+    "problemNumber": "1725",
+    "date": "2023-12-29 15:17:48",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

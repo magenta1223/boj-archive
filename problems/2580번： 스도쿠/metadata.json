@@ -1,1 +1,14 @@
-{"name":"스도쿠","title":"2580번： 스도쿠","problemNumber":"2580","date":"2023-12-18 17:20:27","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "스도쿠",
+    "title": "2580번： 스도쿠",
+    "problemNumber": "2580",
+    "date": "2023-12-18 17:20:27",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

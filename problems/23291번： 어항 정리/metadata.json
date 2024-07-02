@@ -1,1 +1,14 @@
-{"name":"어항 정리","title":"23291번： 어항 정리","problemNumber":"23291","date":"2024-02-26 13:30:37","tier":{"name":"Platinum V","abb":"P","nameColor":"#00D497","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/16.svg","level":16}}
+{
+    "name": "어항 정리",
+    "title": "23291번： 어항 정리",
+    "problemNumber": "23291",
+    "date": "2024-02-26 13:30:37",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"가르침","title":"1062번： 가르침","problemNumber":"1062","date":"2024-04-01 16:48:24","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "가르침",
+    "title": "1062번： 가르침",
+    "problemNumber": "1062",
+    "date": "2024-04-01 16:48:24",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

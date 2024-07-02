@@ -1,1 +1,14 @@
-{"name":"최소비용 구하기","title":"1916번： 최소비용 구하기","problemNumber":"1916","date":"2024-04-02 15:39:50","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "최소비용 구하기",
+    "title": "1916번： 최소비용 구하기",
+    "problemNumber": "1916",
+    "date": "2024-04-02 15:39:50",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

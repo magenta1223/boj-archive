@@ -1,1 +1,14 @@
-{"name":"수 정렬하기","title":"2750번： 수 정렬하기","problemNumber":"2750","date":"2023-10-26 16:30:19","tier":{"name":"Bronze II","abb":"B","nameColor":"#C67739","abbColor":"#AD5600","svg":"https://static.solved.ac/tier_small/4.svg","level":4}}
+{
+    "name": "수 정렬하기",
+    "title": "2750번： 수 정렬하기",
+    "problemNumber": "2750",
+    "date": "2023-10-26 16:30:19",
+    "tier": {
+        "name": "Bronze II",
+        "abb": "B",
+        "nameColor": "#C67739",
+        "abbColor": "#AD5600",
+        "svg": "https://static.solved.ac/tier_small/4.svg",
+        "level": 4
+    }
+}

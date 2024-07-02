@@ -1,1 +1,14 @@
-{"name":"가운데를 말해요","title":"1655번： 가운데를 말해요","problemNumber":"1655","date":"2024-02-27 13:00:49","tier":{"name":"Gold II","abb":"G","nameColor":"#FFB028","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/14.svg","level":14}}
+{
+    "name": "가운데를 말해요",
+    "title": "1655번： 가운데를 말해요",
+    "problemNumber": "1655",
+    "date": "2024-02-27 13:00:49",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

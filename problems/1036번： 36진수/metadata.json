@@ -1,1 +1,14 @@
-{"name":"36진수","title":"1036번： 36진수","problemNumber":"1036","date":"2024-05-27 11:19:49","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "36진수",
+    "title": "1036번： 36진수",
+    "problemNumber": "1036",
+    "date": "2024-05-27 11:19:49",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"트리의 지름","title":"1967번： 트리의 지름","problemNumber":"1967","date":"2024-03-30 00:32:03","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "트리의 지름",
+    "title": "1967번： 트리의 지름",
+    "problemNumber": "1967",
+    "date": "2024-03-30 00:32:03",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

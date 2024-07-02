@@ -1,1 +1,14 @@
-{"name":"특정한 최단 경로","title":"1504번： 특정한 최단 경로","problemNumber":"1504","date":"2024-01-29 16:30:43","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "특정한 최단 경로",
+    "title": "1504번： 특정한 최단 경로",
+    "problemNumber": "1504",
+    "date": "2024-01-29 16:30:43",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

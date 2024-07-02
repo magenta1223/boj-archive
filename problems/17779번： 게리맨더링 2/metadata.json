@@ -1,1 +1,14 @@
-{"name":"게리맨더링 2","title":"17779번： 게리맨더링 2","problemNumber":"17779","date":"2024-02-19 12:36:16","tier":{"name":"Gold III","abb":"G","nameColor":"#F9A518","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/13.svg","level":13}}
+{
+    "name": "게리맨더링 2",
+    "title": "17779번： 게리맨더링 2",
+    "problemNumber": "17779",
+    "date": "2024-02-19 12:36:16",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

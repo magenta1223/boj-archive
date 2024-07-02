@@ -1,1 +1,14 @@
-{"name":"컨베이어 벨트 위의 로봇","title":"20055번： 컨베이어 벨트 위의 로봇","problemNumber":"20055","date":"2024-02-21 15:44:34","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "컨베이어 벨트 위의 로봇",
+    "title": "20055번： 컨베이어 벨트 위의 로봇",
+    "problemNumber": "20055",
+    "date": "2024-02-21 15:44:34",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

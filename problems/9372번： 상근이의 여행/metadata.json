@@ -1,1 +1,14 @@
-{"name":"상근이의 여행","title":"9372번： 상근이의 여행","problemNumber":"9372","date":"2024-06-12 15:22:28","tier":{"name":"Silver IV","abb":"S","nameColor":"#435F7A","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/7.svg","level":7}}
+{
+    "name": "상근이의 여행",
+    "title": "9372번： 상근이의 여행",
+    "problemNumber": "9372",
+    "date": "2024-06-12 15:22:28",
+    "tier": {
+        "name": "Silver IV",
+        "abb": "S",
+        "nameColor": "#435F7A",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/7.svg",
+        "level": 7
+    }
+}

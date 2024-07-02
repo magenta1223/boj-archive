@@ -1,1 +1,14 @@
-{"name":"빙산","title":"2573번： 빙산","problemNumber":"2573","date":"2024-05-16 12:17:28","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "빙산",
+    "title": "2573번： 빙산",
+    "problemNumber": "2573",
+    "date": "2024-05-16 12:17:28",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

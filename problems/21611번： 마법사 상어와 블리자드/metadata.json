@@ -1,1 +1,14 @@
-{"name":"마법사 상어와 블리자드","title":"21611번： 마법사 상어와 블리자드","problemNumber":"21611","date":"2024-03-25 15:48:24","tier":{"name":"Gold I","abb":"G","nameColor":"#00C78B","abbColor":"#27E2A4","svg":"https://static.solved.ac/tier_small/15.svg","level":15}}
+{
+    "name": "마법사 상어와 블리자드",
+    "title": "21611번： 마법사 상어와 블리자드",
+    "problemNumber": "21611",
+    "date": "2024-03-25 15:48:24",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

@@ -1,1 +1,14 @@
-{"name":"N번째 큰 수","title":"2075번： N번째 큰 수","problemNumber":"2075","date":"2024-05-09 12:14:15","tier":{"name":"Silver II","abb":"S","nameColor":"#4E6A86","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/9.svg","level":9}}
+{
+    "name": "N번째 큰 수",
+    "title": "2075번： N번째 큰 수",
+    "problemNumber": "2075",
+    "date": "2024-05-09 12:14:15",
+    "tier": {
+        "name": "Silver II",
+        "abb": "S",
+        "nameColor": "#4E6A86",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/9.svg",
+        "level": 9
+    }
+}

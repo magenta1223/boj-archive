@@ -1,1 +1,14 @@
-{"name":"문자열 폭발","title":"9935번： 문자열 폭발","problemNumber":"9935","date":"2023-12-29 13:54:16","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "문자열 폭발",
+    "title": "9935번： 문자열 폭발",
+    "problemNumber": "9935",
+    "date": "2023-12-29 13:54:16",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

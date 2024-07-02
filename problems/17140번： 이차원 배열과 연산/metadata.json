@@ -1,1 +1,14 @@
-{"name":"이차원 배열과 연산","title":"17140번： 이차원 배열과 연산","problemNumber":"17140","date":"2024-02-18 17:35:19","tier":{"name":"Gold IV","abb":"G","nameColor":"#EC9A00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/12.svg","level":12}}
+{
+    "name": "이차원 배열과 연산",
+    "title": "17140번： 이차원 배열과 연산",
+    "problemNumber": "17140",
+    "date": "2024-02-18 17:35:19",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

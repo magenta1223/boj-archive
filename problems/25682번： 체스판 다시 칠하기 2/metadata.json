@@ -1,1 +1,14 @@
-{"name":"체스판 다시 칠하기 2","title":"25682번： 체스판 다시 칠하기 2","problemNumber":"25682","date":"2023-12-20 18:13:08","tier":{"name":"Gold V","abb":"G","nameColor":"#DF8F00","abbColor":"#EC9A00","svg":"https://static.solved.ac/tier_small/11.svg","level":11}}
+{
+    "name": "체스판 다시 칠하기 2",
+    "title": "25682번： 체스판 다시 칠하기 2",
+    "problemNumber": "25682",
+    "date": "2023-12-20 18:13:08",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

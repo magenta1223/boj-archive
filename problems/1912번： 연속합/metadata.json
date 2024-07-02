@@ -1,1 +1,14 @@
-{"name":"연속합","title":"1912번： 연속합","problemNumber":"1912","date":"2023-12-18 22:23:46","tier":{"name":"Silver II","abb":"S","nameColor":"#4E6A86","abbColor":"#435F7A","svg":"https://static.solved.ac/tier_small/9.svg","level":9}}
+{
+    "name": "연속합",
+    "title": "1912번： 연속합",
+    "problemNumber": "1912",
+    "date": "2023-12-18 22:23:46",
+    "tier": {
+        "name": "Silver II",
+        "abb": "S",
+        "nameColor": "#4E6A86",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/9.svg",
+        "level": 9
+    }
+}
