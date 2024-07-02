@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 18809 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> Gaaaaaaaaaarden | [문제링크](https://boj.kr/18809) | [소스코드](./problems/18809번：%20Gaaaaaaaaaarden/18809번：%20Gaaaaaaaaaarden.py) | 2024-07-02 |
+| 4256 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/4256) | [소스코드](./problems/4256번：%20트리/4256번：%20트리.py) | 2024-07-02 |
+| 3109 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 빵집 | [문제링크](https://boj.kr/3109) | [소스코드](./problems/3109번：%20빵집/3109번：%20빵집.py) | 2024-07-02 |
 | 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-01 |
 | 4179 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 불! | [문제링크](https://boj.kr/4179) | [소스코드](./problems/4179번：%20불!/4179번：%20불!.py) | 2024-07-01 |
 | 1517 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 버블 소트 | [문제링크](https://boj.kr/1517) | [소스코드](./problems/1517번：%20버블%20소트/1517번：%20버블%20소트.py) | 2024-07-01 |
@@ -600,6 +603,7 @@
 | 23289 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 온풍기 안녕! | [문제링크](https://boj.kr/23289) | [소스코드](./problems/23289번：%20온풍기%20안녕!/23289번：%20온풍기%20안녕!.py) | 2024-02-26 |
 | 14003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 5 | [문제링크](https://boj.kr/14003) | [소스코드](./problems/14003번：%20가장%20긴%20증가하는%20부분%20수열%205/14003번：%20가장%20긴%20증가하는%20부분%20수열%205.py) | 2024-02-06 |
 | 1725 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 히스토그램 | [문제링크](https://boj.kr/1725) | [소스코드](./problems/1725번：%20히스토그램/1725번：%20히스토그램.py) | 2023-12-29 |
+| 18809 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> Gaaaaaaaaaarden | [문제링크](https://boj.kr/18809) | [소스코드](./problems/18809번：%20Gaaaaaaaaaarden/18809번：%20Gaaaaaaaaaarden.py) | 2024-07-02 |
 | 17420 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 깊콘이 넘쳐흘러 | [문제링크](https://boj.kr/17420) | [소스코드](./problems/17420번：%20깊콘이%20넘쳐흘러/17420번：%20깊콘이%20넘쳐흘러.py) | 2024-06-18 |
 | 1311 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 할 일 정하기 1 | [문제링크](https://boj.kr/1311) | [소스코드](./problems/1311번：%20할%20일%20정하기%201/1311번：%20할%20일%20정하기%201.py) | 2024-06-12 |
 | 17472 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 다리 만들기 2 | [문제링크](https://boj.kr/17472) | [소스코드](./problems/17472번：%20다리%20만들기%202/17472번：%20다리%20만들기%202.py) | 2024-06-12 |
@@ -646,6 +650,8 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 4256 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/4256) | [소스코드](./problems/4256번：%20트리/4256번：%20트리.py) | 2024-07-02 |
+| 3109 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 빵집 | [문제링크](https://boj.kr/3109) | [소스코드](./problems/3109번：%20빵집/3109번：%20빵집.py) | 2024-07-02 |
 | 7453 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 합이 0인 네 정수 | [문제링크](https://boj.kr/7453) | [소스코드](./problems/7453번：%20합이%200인%20네%20정수/7453번：%20합이%200인%20네%20정수.py) | 2024-07-01 |
 | 1955 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 수식 표현 | [문제링크](https://boj.kr/1955) | [소스코드](./problems/1955번：%20수식%20표현/1955번：%20수식%20표현.py) | 2024-06-18 |
 | 7869 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 두 원 | [문제링크](https://boj.kr/7869) | [소스코드](./problems/7869번：%20두%20원/7869번：%20두%20원.py) | 2024-06-13 |

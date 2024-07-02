@@ -1,0 +1,14 @@
+{
+    "name": "빵집",
+    "title": "3109번： 빵집",
+    "problemNumber": "3109",
+    "date": "2024-07-02 08:58:56",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
