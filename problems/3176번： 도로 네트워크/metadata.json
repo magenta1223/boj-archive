@@ -1,0 +1,14 @@
+{
+    "name": "도로 네트워크",
+    "title": "3176번： 도로 네트워크",
+    "problemNumber": "3176",
+    "date": "2024-07-05 05:44:33",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

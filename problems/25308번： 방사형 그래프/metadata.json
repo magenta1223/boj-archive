@@ -1,0 +1,14 @@
+{
+    "name": "방사형 그래프",
+    "title": "25308번： 방사형 그래프",
+    "problemNumber": "25308",
+    "date": "2024-07-05 04:09:51",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}
