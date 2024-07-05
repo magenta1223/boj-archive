@@ -1,0 +1,40 @@
+Input:(
+3 2 2
+)
+
+Output:(
+2
+)
+
+Input:(
+3 2 1
+)
+
+Output:(
+1
+)
+
+Input:(
+5 3 2
+)
+
+Output:(
+18
+)
+
+Input:(
+12 1 1
+)
+
+Output:(
+0
+)
+
+Input:(
+8 3 2
+)
+
+Output:(
+4872
+)
+

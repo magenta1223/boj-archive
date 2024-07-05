@@ -1,0 +1,34 @@
+Input:(
+2 4
+CAAB
+ADCB
+)
+
+Output:(
+3
+)
+
+Input:(
+3 6
+HFDFFB
+AJHGDH
+DGAGEH
+)
+
+Output:(
+6
+)
+
+Input:(
+5 5
+IEFCJ
+FHFKC
+FFALF
+HFGCF
+HMCHH
+)
+
+Output:(
+10
+)
+

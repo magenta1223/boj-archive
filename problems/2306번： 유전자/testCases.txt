@@ -1,0 +1,16 @@
+Input:(
+acattgagtc
+)
+
+Output:(
+8
+)
+
+Input:(
+aattgatc
+)
+
+Output:(
+8
+)
+

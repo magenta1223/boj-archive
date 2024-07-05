@@ -6,21 +6,20 @@
 #     By: magenta1223 <boj.kr/u/magenta1223>         +#+    +#+          +#+   #
 #                                                   +#+      +#+        +#+    #
 #     https://boj.kr/4179                          #+#        #+#      #+#     #
-#     Solved: 2024-07-01 04:52:22 by magenta1223  ###          ###   ##.kr     #
+#     Solved: 2024-07-01 14:14:07 by magenta1223  ###          ###   ##.kr     #
 #                                                                              #
 #  **************************************************************************  #
 
-
 from collections import deque 
-
+ 
 D = [(-1,0), (0,1), (1,0), (0,-1)]
 N,M = map(int,input().split())
 A = [list(input().strip()) for _ in range(N)]
 visited = [[False] * M for _ in range(N)]
 burned = [[False] * M for _ in range(N)]
-
+ 
 fires = deque([])
-
+ 
 for i in range(N):
     for j in range(M):
         if A[i][j] == "J":
@@ -30,7 +29,7 @@ for i in range(N):
         elif A[i][j] == "F":
             fires.append((i,j))
             burned[i][j] = True 
-
+ 
 def move(q:deque):
     nq = deque([])
     done = False 
@@ -48,7 +47,7 @@ def move(q:deque):
                 visited[nx][ny] = True 
                 nq.append((nx,ny,t+1))
     return nq, done
-
+ 
 def spreadFire(fires:deque):
     nfires = deque([])
     while fires:
@@ -59,7 +58,7 @@ def spreadFire(fires:deque):
                 burned[nx][ny] = True 
                 nfires.append((nx,ny))
     return nfires 
-
+ 
 t = 0
 done = False 
 while not done:
@@ -72,16 +71,3 @@ while not done:
         t = "IMPOSSIBLE"
         break 
 print(t)
-    
-
-
-"""
-먼저 움직인 후 불이 그 자리로 번지는 경우 
-
-4 5
-#####
-#J.F#
-#####
-#..##
-
-"""

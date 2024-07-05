@@ -1,0 +1,16 @@
+Input:(
+13
+)
+
+Output:(
+5
+)
+
+Input:(
+14
+)
+
+Output:(
+4
+)
+

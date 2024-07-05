@@ -1,0 +1,16 @@
+Input:(
+1
+)
+
+Output:(
+9
+)
+
+Input:(
+2
+)
+
+Output:(
+17
+)
+

@@ -1,0 +1,13 @@
+Input:(
+3
+21 Junkyu
+21 Dohyun
+20 Sunyoung
+)
+
+Output:(
+20 Sunyoung
+21 Junkyu
+21 Dohyun
+)
+

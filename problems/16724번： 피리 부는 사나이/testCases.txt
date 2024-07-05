@@ -1,0 +1,11 @@
+Input:(
+3 4
+DLLL
+DRLU
+RRRU
+)
+
+Output:(
+2
+)
+

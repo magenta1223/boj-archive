@@ -1,0 +1,13 @@
+Input:(
+4 4 1
+KAKT
+XEAS
+YRWU
+ZBQP
+BREAK
+)
+
+Output:(
+3
+)
+

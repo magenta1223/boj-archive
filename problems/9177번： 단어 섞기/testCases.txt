@@ -1,0 +1,13 @@
+Input:(
+3
+cat tree tcraete
+cat tree catrtee
+cat tree cttaree
+)
+
+Output:(
+Data set 1: yes
+Data set 2: yes
+Data set 3: no
+)
+

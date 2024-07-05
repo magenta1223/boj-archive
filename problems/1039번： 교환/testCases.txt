@@ -1,0 +1,48 @@
+Input:(
+16375 1
+)
+
+Output:(
+76315
+)
+
+Input:(
+132 3
+)
+
+Output:(
+312
+)
+
+Input:(
+432 1
+)
+
+Output:(
+423
+)
+
+Input:(
+90 4
+)
+
+Output:(
+-1
+)
+
+Input:(
+5 2
+)
+
+Output:(
+-1
+)
+
+Input:(
+436659 2
+)
+
+Output:(
+966354
+)
+

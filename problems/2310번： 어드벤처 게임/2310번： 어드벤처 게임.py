@@ -6,14 +6,12 @@
 #     By: magenta1223 <boj.kr/u/magenta1223>         +#+    +#+          +#+   #
 #                                                   +#+      +#+        +#+    #
 #     https://boj.kr/2310                          #+#        #+#      #+#     #
-#     Solved: 2024-07-03 09:35:15 by magenta1223  ###          ###   ##.kr     #
+#     Solved: 2024-07-03 19:21:37 by magenta1223  ###          ###   ##.kr     #
 #                                                                              #
 #  **************************************************************************  #
 
-
 from heapq import * 
-INF = float("inf")
-
+ 
 while True:
     N = int(input())
     if not N:
@@ -27,22 +25,26 @@ while True:
         Rooms[i] = t,int(v) 
         for d in dests:
             G[i].append(int(d))
+ 
+    # 돈을 못내면 종료 
+    
     v = 0
-    t,m = Rooms[1]
-    if t == "L":
-        v += m
+    # 1. 시작이 가능한지
+    if Rooms[1][0] == "E":
+        pass 
+    elif Rooms[1][0] == "L":
+        v += Rooms[1][1]
     else:
-        v -= m
+        v -= Rooms[1][1]
     
     if v < 0:
         print("No")
         continue 
-
+ 
     heap = [(-v,1)]
-    costs = [-INF]* (N+1)
+    costs = [-float("inf")]* (N+1)
     costs[1] = v
     # 돈을 남기는게 중요하니 최대비용으로 방문해보자 
-
     while heap:
         money, now = heappop(heap)
         money *= -1
@@ -56,7 +58,9 @@ while True:
             if nextMoney >= 0 and costs[next] < nextMoney:
                 costs[next] = nextMoney
                 heappush(heap, (-nextMoney, next))
-    print("Yes" if costs[-1] != -INF else "No")
-
-
     
+    if costs[-1] != -float("inf"):
+        print("Yes")
+    else:
+        print("No")
+ 

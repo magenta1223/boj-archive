@@ -1,0 +1,9 @@
+Input:(
+ACAYKP
+CAPCAK
+)
+
+Output:(
+4
+)
+

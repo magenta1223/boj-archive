@@ -1,0 +1,13 @@
+Input:(
+8 16
+32 4
+17 5
+0 0
+)
+
+Output:(
+factor
+multiple
+neither
+)
+

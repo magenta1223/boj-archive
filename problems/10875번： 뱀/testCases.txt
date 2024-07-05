@@ -1,0 +1,25 @@
+Input:(
+3
+4
+2 L
+2 L
+1 L
+5 R
+)
+
+Output:(
+7
+)
+
+Input:(
+3
+3
+2 L
+4 L
+4 R
+)
+
+Output:(
+6
+)
+

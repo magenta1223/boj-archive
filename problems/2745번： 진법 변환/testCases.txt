@@ -1,0 +1,8 @@
+Input:(
+ZZZZZ 36
+)
+
+Output:(
+60466175
+)
+

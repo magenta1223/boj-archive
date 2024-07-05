@@ -1,0 +1,10 @@
+Input:(
+ABC ABCDAB ABCDABCDABDE
+ABCDABD
+)
+
+Output:(
+1
+16
+)
+

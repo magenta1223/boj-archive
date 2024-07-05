@@ -1,0 +1,16 @@
+Input:(
+level
+)
+
+Output:(
+1
+)
+
+Input:(
+baekjoon
+)
+
+Output:(
+0
+)
+

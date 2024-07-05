@@ -1,0 +1,14 @@
+Input:(
+seungjaehwang
+4
+a 0 5
+a 0 6
+a 6 10
+a 7 10)
+
+Output:(
+0
+1
+2
+1)
+

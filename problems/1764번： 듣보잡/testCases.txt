@@ -1,0 +1,17 @@
+Input:(
+3 4
+ohhenrie
+charlie
+baesangwook
+obama
+baesangwook
+ohhenrie
+clinton
+)
+
+Output:(
+2
+baesangwook
+ohhenrie
+)
+

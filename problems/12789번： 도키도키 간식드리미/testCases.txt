@@ -1,0 +1,9 @@
+Input:(
+5
+5 4 1 3 2
+)
+
+Output:(
+Nice
+)
+

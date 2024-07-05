@@ -1,0 +1,32 @@
+Input:(
+1 1
+)
+
+Output:(
+1
+)
+
+Input:(
+3 5
+)
+
+Output:(
+15
+)
+
+Input:(
+1 123
+)
+
+Output:(
+123
+)
+
+Input:(
+121 199
+)
+
+Output:(
+24079
+)
+

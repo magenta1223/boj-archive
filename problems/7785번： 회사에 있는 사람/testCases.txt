@@ -1,0 +1,13 @@
+Input:(
+4
+Baha enter
+Askar enter
+Baha leave
+Artem enter
+)
+
+Output:(
+Askar
+Artem
+)
+

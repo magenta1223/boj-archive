@@ -1,0 +1,38 @@
+Input:(
+3 6
+antarctica
+antahellotica
+antacartica
+)
+
+Output:(
+2
+)
+
+Input:(
+2 3
+antaxxxxxxxtica
+antarctica
+)
+
+Output:(
+0
+)
+
+Input:(
+9 8
+antabtica
+antaxtica
+antadtica
+antaetica
+antaftica
+antagtica
+antahtica
+antajtica
+antaktica
+)
+
+Output:(
+3
+)
+

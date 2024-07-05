@@ -1,11 +1,13 @@
-# 24511번： queuestack - <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px" /> Silver III
-
+# 24511번： queuestack - <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px" />Silver III
 
 
 | 시간 제한 | 메모리 제한 | 제출 | 정답 | 맞힌 사람 | 정답 비율 |
 | --- | --- | --- | --- | --- | --- |
-| 1 초 (추가 시간 없음) | 1024 MB (추가 메모리 없음) | 14100 | 5062 | 4254 | 34.895% |
+| 1 초 (추가 시간 없음) | 1024 MB (추가 메모리 없음) | 14511 | 5181 | 4339 | 34.659% |
+
+
 ## 문제
+
 
 한가롭게 방학에 놀고 있던 도현이는 갑자기 재밌는 자료구조를 생각해냈다. 그 자료구조의 이름은 queuestack이다.
 
@@ -25,11 +27,16 @@ queuestack의 작동은 다음과 같다.
 
 - $x_N$을 리턴한다.
 
+
 도현이는 길이 $M$의 수열 $C$를 가져와서 수열의 원소를 앞에서부터 차례대로 queuestack에 삽입할 것이다. 이전에 삽입한 결과는 남아 있다. (예제 $1$ 참고)
 
 queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리턴값을 출력하는 프로그램을 작성해보자.
 
+
+
+
 ## 입력
+
 
 첫째 줄에 queuestack을 구성하는 자료구조의 개수 $N$이 주어진다. ($1 \leq N \leq 100\,000$)
 
@@ -43,13 +50,24 @@ queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리�
 
 입력으로 주어지는 모든 수는 정수이다.
 
+
+
+
 ## 출력
+
 
 수열 $C$의 원소를 차례대로 queuestack에 삽입했을 때의 리턴값을 공백으로 구분하여 출력한다.
 
+
+
+
 ## 제한
 
+
+
+
 ## 예제 입력 1
+
 
 <pre>4
 0 1 1 0
@@ -57,10 +75,15 @@ queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리�
 3
 2 4 7
 </pre>
+
+
 ## 예제 출력 1
+
 
 <pre>4 1 2
 </pre>
+
+
 각 상태에 대한 큐스택 내부를 표현하면 다음과 같다.
 
 - 초기 상태 : $[1, 2, 3, 4]$
@@ -71,7 +94,14 @@ queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리�
 
 - 세 번째 원소 삽입 : $[7, 2, 3, 4]$
 
+
+
+
+
+
+
 ## 예제 입력 2
+
 
 <pre>5
 1 1 1 1 1
@@ -79,14 +109,26 @@ queuestack에 넣을 원소들이 주어졌을 때, 해당 원소를 넣은 리�
 3
 1 3 5
 </pre>
+
+
 ## 예제 출력 2
+
 
 <pre>1 3 5
 </pre>
+
+
+
+
+
+
 ## 출처
 
-[Camp](/category/220) > [ICPC Sinchon Algorithm Camp](/category/499) > [2022 ICPC Sinchon Winter Algorithm Camp Contest](/category/797) > [초급](/category/detail/3028) C번
 
+[Camp](/category/220)> [ICPC Sinchon Algorithm Camp](/category/499)> [2022 ICPC Sinchon Winter Algorithm Camp Contest](/category/797)> [초급](/category/detail/3028)C번
 - 문제를 검수한 사람: [gratus907](/user/gratus907), [Green55](/user/Green55), [gumgood](/user/gumgood), [kyo20111](/user/kyo20111), [lky7674](/user/lky7674), [mjhmjh1104](/user/mjhmjh1104), [tony9402](/user/tony9402)
-
 - 문제를 만든 사람: [swoon](/user/swoon)
+
+
+
+

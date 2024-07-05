@@ -1,0 +1,32 @@
+Input:(
+2 2 2
+)
+
+Output:(
+azaz
+)
+
+Input:(
+2 2 6
+)
+
+Output:(
+zzaa
+)
+
+Input:(
+10 10 1000000000
+)
+
+Output:(
+-1
+)
+
+Input:(
+7 4 47
+)
+
+Output:(
+aaazazaazaz
+)
+

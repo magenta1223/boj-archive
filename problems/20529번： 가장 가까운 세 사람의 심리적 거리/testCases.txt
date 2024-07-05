@@ -1,0 +1,16 @@
+Input:(
+3
+3
+ENTJ INTP ESFJ
+4
+ESFP ESFP ESFP ESFP
+5
+INFP INFP ESTP ESTJ ISTJ
+)
+
+Output:(
+8
+0
+4
+)
+

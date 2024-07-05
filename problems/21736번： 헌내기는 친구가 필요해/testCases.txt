@@ -1,0 +1,22 @@
+Input:(
+3 5
+OOOPO
+OIOOX
+OOOXP
+)
+
+Output:(
+1
+)
+
+Input:(
+3 3
+IOX
+OXP
+XPP
+)
+
+Output:(
+TT
+)
+

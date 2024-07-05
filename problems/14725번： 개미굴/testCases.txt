@@ -1,0 +1,35 @@
+Input:(
+3
+2 B A
+4 A B C D
+2 A C
+)
+
+Output:(
+A
+--B
+----C
+------D
+--C
+B
+--A
+)
+
+Input:(
+4
+2 KIWI BANANA
+2 KIWI APPLE
+2 APPLE APPLE
+3 APPLE BANANA KIWI
+)
+
+Output:(
+APPLE
+--APPLE
+--BANANA
+----KIWI
+KIWI
+--APPLE
+--BANANA
+)
+

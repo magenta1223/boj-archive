@@ -1,0 +1,13 @@
+Input:(
+abcd
+aaaa
+ababab
+.
+)
+
+Output:(
+1
+4
+3
+)
+

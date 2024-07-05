@@ -1,0 +1,21 @@
+Input:(
+2
+3
+Fred Barney
+Barney Betty
+Betty Wilma
+3
+Fred Barney
+Betty Wilma
+Barney Betty
+)
+
+Output:(
+2
+3
+4
+2
+2
+4
+)
+
