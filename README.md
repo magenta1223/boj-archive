@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 10800 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컬러볼 | [문제링크](https://boj.kr/10800) | [소스코드](./problems/10800번：%20컬러볼/10800번：%20컬러볼.py) | 2024-07-08 |
+| 3025 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 돌 던지기 | [문제링크](https://boj.kr/3025) | [소스코드](./problems/3025번：%20돌%20던지기/3025번：%20돌%20던지기.py) | 2024-07-08 |
+| 1135 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 뉴스 전하기 | [문제링크](https://boj.kr/1135) | [소스코드](./problems/1135번：%20뉴스%20전하기/1135번：%20뉴스%20전하기.py) | 2024-07-08 |
 | 3176 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 도로 네트워크 | [문제링크](https://boj.kr/3176) | [소스코드](./problems/3176번：%20도로%20네트워크/3176번：%20도로%20네트워크.py) | 2024-07-05 |
 | 1069 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 집으로 | [문제링크](https://boj.kr/1069) | [소스코드](./problems/1069번：%20집으로/1069번：%20집으로.py) | 2024-07-05 |
 | 25308 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 방사형 그래프 | [문제링크](https://boj.kr/25308) | [소스코드](./problems/25308번：%20방사형%20그래프/25308번：%20방사형%20그래프.py) | 2024-07-05 |
@@ -565,6 +568,7 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 3025 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 돌 던지기 | [문제링크](https://boj.kr/3025) | [소스코드](./problems/3025번：%20돌%20던지기/3025번：%20돌%20던지기.py) | 2024-07-08 |
 | 3176 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 도로 네트워크 | [문제링크](https://boj.kr/3176) | [소스코드](./problems/3176번：%20도로%20네트워크/3176번：%20도로%20네트워크.py) | 2024-07-05 |
 | 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-01 |
 | 17412 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 도시 왕복하기 1 | [문제링크](https://boj.kr/17412) | [소스코드](./problems/17412번：%20도시%20왕복하기%201/17412번：%20도시%20왕복하기%201.py) | 2024-06-05 |
@@ -661,6 +665,8 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 10800 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컬러볼 | [문제링크](https://boj.kr/10800) | [소스코드](./problems/10800번：%20컬러볼/10800번：%20컬러볼.py) | 2024-07-08 |
+| 1135 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 뉴스 전하기 | [문제링크](https://boj.kr/1135) | [소스코드](./problems/1135번：%20뉴스%20전하기/1135번：%20뉴스%20전하기.py) | 2024-07-08 |
 | 4256 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/4256) | [소스코드](./problems/4256번：%20트리/4256번：%20트리.py) | 2024-07-02 |
 | 3109 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 빵집 | [문제링크](https://boj.kr/3109) | [소스코드](./problems/3109번：%20빵집/3109번：%20빵집.py) | 2024-07-02 |
 | 7453 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 합이 0인 네 정수 | [문제링크](https://boj.kr/7453) | [소스코드](./problems/7453번：%20합이%200인%20네%20정수/7453번：%20합이%200인%20네%20정수.py) | 2024-07-01 |

@@ -1,0 +1,14 @@
+{
+    "name": "뉴스 전하기",
+    "title": "1135번： 뉴스 전하기",
+    "problemNumber": "1135",
+    "date": "2024-07-08 01:56:19",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

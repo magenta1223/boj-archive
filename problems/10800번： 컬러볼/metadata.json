@@ -1,0 +1,14 @@
+{
+    "name": "컬러볼",
+    "title": "10800번： 컬러볼",
+    "problemNumber": "10800",
+    "date": "2024-07-08 06:16:58",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
