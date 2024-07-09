@@ -1,0 +1,14 @@
+{
+    "name": "공장",
+    "title": "7578번： 공장",
+    "problemNumber": "7578",
+    "date": "2024-07-09 04:45:50",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

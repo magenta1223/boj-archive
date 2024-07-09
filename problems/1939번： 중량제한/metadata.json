@@ -1,0 +1,14 @@
+{
+    "name": "중량제한",
+    "title": "1939번： 중량제한",
+    "problemNumber": "1939",
+    "date": "2024-07-09 02:11:41",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

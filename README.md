@@ -3,6 +3,13 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 16975 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 수열과 쿼리 21 | [문제링크](https://boj.kr/16975) | [소스코드](./problems/16975번：%20수열과%20쿼리%2021/16975번：%20수열과%20쿼리%2021.py) | 2024-07-09 |
+| 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-09 |
+| 7578 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 공장 | [문제링크](https://boj.kr/7578) | [소스코드](./problems/7578번：%20공장/7578번：%20공장.py) | 2024-07-09 |
+| 10999 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 2 | [문제링크](https://boj.kr/10999) | [소스코드](./problems/10999번：%20구간%20합%20구하기%202/10999번：%20구간%20합%20구하기%202.py) | 2024-07-09 |
+| 1939 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 중량제한 | [문제링크](https://boj.kr/1939) | [소스코드](./problems/1939번：%20중량제한/1939번：%20중량제한.py) | 2024-07-09 |
+| 2665 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 미로만들기 | [문제링크](https://boj.kr/2665) | [소스코드](./problems/2665번：%20미로만들기/2665번：%20미로만들기.py) | 2024-07-09 |
+| 1261 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 알고스팟 | [문제링크](https://boj.kr/1261) | [소스코드](./problems/1261번：%20알고스팟/1261번：%20알고스팟.py) | 2024-07-09 |
 | 10800 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컬러볼 | [문제링크](https://boj.kr/10800) | [소스코드](./problems/10800번：%20컬러볼/10800번：%20컬러볼.py) | 2024-07-08 |
 | 3025 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 돌 던지기 | [문제링크](https://boj.kr/3025) | [소스코드](./problems/3025번：%20돌%20던지기/3025번：%20돌%20던지기.py) | 2024-07-08 |
 | 1135 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 뉴스 전하기 | [문제링크](https://boj.kr/1135) | [소스코드](./problems/1135번：%20뉴스%20전하기/1135번：%20뉴스%20전하기.py) | 2024-07-08 |
@@ -568,6 +575,9 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 16975 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 수열과 쿼리 21 | [문제링크](https://boj.kr/16975) | [소스코드](./problems/16975번：%20수열과%20쿼리%2021/16975번：%20수열과%20쿼리%2021.py) | 2024-07-09 |
+| 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-09 |
+| 10999 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 2 | [문제링크](https://boj.kr/10999) | [소스코드](./problems/10999번：%20구간%20합%20구하기%202/10999번：%20구간%20합%20구하기%202.py) | 2024-07-09 |
 | 3025 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 돌 던지기 | [문제링크](https://boj.kr/3025) | [소스코드](./problems/3025번：%20돌%20던지기/3025번：%20돌%20던지기.py) | 2024-07-08 |
 | 3176 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 도로 네트워크 | [문제링크](https://boj.kr/3176) | [소스코드](./problems/3176번：%20도로%20네트워크/3176번：%20도로%20네트워크.py) | 2024-07-05 |
 | 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-01 |
@@ -581,6 +591,7 @@
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
 | 2618 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 경찰차 | [문제링크](https://boj.kr/2618) | [소스코드](./problems/2618번：%20경찰차/2618번：%20경찰차.py) | 2024-02-07 |
+| 7578 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 공장 | [문제링크](https://boj.kr/7578) | [소스코드](./problems/7578번：%20공장/7578번：%20공장.py) | 2024-07-09 |
 | 1517 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 버블 소트 | [문제링크](https://boj.kr/1517) | [소스코드](./problems/1517번：%20버블%20소트/1517번：%20버블%20소트.py) | 2024-07-01 |
 | 1071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 소트 | [문제링크](https://boj.kr/1071) | [소스코드](./problems/1071번：%20소트/1071번：%20소트.py) | 2024-06-14 |
 | 1050 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 물약 | [문제링크](https://boj.kr/1050) | [소스코드](./problems/1050번：%20물약/1050번：%20물약.py) | 2024-06-13 |
@@ -721,6 +732,7 @@
 | 9370 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 미확인 도착지 | [문제링크](https://boj.kr/9370) | [소스코드](./problems/9370번：%20미확인%20도착지/9370번：%20미확인%20도착지.py) | 2024-01-29 |
 | 12015 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 2 | [문제링크](https://boj.kr/12015) | [소스코드](./problems/12015번：%20가장%20긴%20증가하는%20부분%20수열%202/12015번：%20가장%20긴%20증가하는%20부분%20수열%202.py) | 2023-12-26 |
 | 11444 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 피보나치 수 6 | [문제링크](https://boj.kr/11444) | [소스코드](./problems/11444번：%20피보나치%20수%206/11444번：%20피보나치%20수%206.py) | 2023-12-22 |
+| 1939 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 중량제한 | [문제링크](https://boj.kr/1939) | [소스코드](./problems/1939번：%20중량제한/1939번：%20중량제한.py) | 2024-07-09 |
 | 1069 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 집으로 | [문제링크](https://boj.kr/1069) | [소스코드](./problems/1069번：%20집으로/1069번：%20집으로.py) | 2024-07-05 |
 | 4179 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 불! | [문제링크](https://boj.kr/4179) | [소스코드](./problems/4179번：%20불!/4179번：%20불!.py) | 2024-07-01 |
 | 2146 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 다리 만들기 | [문제링크](https://boj.kr/2146) | [소스코드](./problems/2146번：%20다리%20만들기/2146번：%20다리%20만들기.py) | 2024-07-01 |
@@ -800,6 +812,8 @@
 | 11049 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 행렬 곱셈 순서 | [문제링크](https://boj.kr/11049) | [소스코드](./problems/11049번：%20행렬%20곱셈%20순서/11049번：%20행렬%20곱셈%20순서.py) | 2023-12-27 |
 | 11066 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 파일 합치기 | [문제링크](https://boj.kr/11066) | [소스코드](./problems/11066번：%20파일%20합치기/11066번：%20파일%20합치기.py) | 2023-12-27 |
 | 10986 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 나머지 합 | [문제링크](https://boj.kr/10986) | [소스코드](./problems/10986번：%20나머지%20합/10986번：%20나머지%20합.py) | 2023-12-20 |
+| 2665 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 미로만들기 | [문제링크](https://boj.kr/2665) | [소스코드](./problems/2665번：%20미로만들기/2665번：%20미로만들기.py) | 2024-07-09 |
+| 1261 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 알고스팟 | [문제링크](https://boj.kr/1261) | [소스코드](./problems/1261번：%20알고스팟/1261번：%20알고스팟.py) | 2024-07-09 |
 | 25308 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 방사형 그래프 | [문제링크](https://boj.kr/25308) | [소스코드](./problems/25308번：%20방사형%20그래프/25308번：%20방사형%20그래프.py) | 2024-07-05 |
 | 2310 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 어드벤처 게임 | [문제링크](https://boj.kr/2310) | [소스코드](./problems/2310번：%20어드벤처%20게임/2310번：%20어드벤처%20게임.py) | 2024-07-03 |
 | 2179 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 비슷한 단어 | [문제링크](https://boj.kr/2179) | [소스코드](./problems/2179번：%20비슷한%20단어/2179번：%20비슷한%20단어.py) | 2024-07-03 |
