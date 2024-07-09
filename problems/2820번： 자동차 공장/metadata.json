@@ -1,0 +1,14 @@
+{
+    "name": "자동차 공장",
+    "title": "2820번： 자동차 공장",
+    "problemNumber": "2820",
+    "date": "2024-07-09 06:15:38",
+    "tier": {
+        "name": "Platinum III",
+        "abb": "P",
+        "nameColor": "#3EF0B1",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/18.svg",
+        "level": 18
+    }
+}
