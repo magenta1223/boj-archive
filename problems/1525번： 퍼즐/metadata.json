@@ -1,0 +1,14 @@
+{
+    "name": "퍼즐",
+    "title": "1525번： 퍼즐",
+    "problemNumber": "1525",
+    "date": "2024-07-10 05:11:02",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

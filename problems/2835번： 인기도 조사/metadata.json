@@ -1,0 +1,14 @@
+{
+    "name": "인기도 조사",
+    "title": "2835번： 인기도 조사",
+    "problemNumber": "2835",
+    "date": "2024-07-10 02:49:05",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}
