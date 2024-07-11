@@ -1,0 +1,14 @@
+{
+    "name": "문자열 지우기",
+    "title": "31948번： 문자열 지우기",
+    "problemNumber": "31948",
+    "date": "2024-07-11 04:31:56",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}
