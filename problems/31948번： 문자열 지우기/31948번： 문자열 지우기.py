@@ -23,46 +23,71 @@
 
 # 길이는 1500 이하, ?는 2개 이하 
 
+
+import sys 
+sys.setrecursionlimit(2000)
+
+# recursion이 딸려서 뭔가 이상한 값을 뱉는 것 같은데 .. 
+
+
+input = open(0).readline
+
 S = input().strip()
-dp = dict()
+N = len(S)
 
-def dfs(s:str):
-    if not s:
-        # user가 패배 
-        return 0 # user가 할게 없으므로 상대가 승리 
 
-    if s in dp:
-        return dp[s]
+qmIndices = [i for i in range(len(S)) if S[i] == "?"]
+nQm = len(qmIndices)
+# left, right, qmState 
+dp = [[[-1] * (3**nQm)  for _ in range(N+1)]  for _ in range(N+1)]
+
+
+def dfs(l:int, r:int, qms:int):
+    global S 
+
+    if dp[l][r][qms] != -1:
+        return dp[l][r][qms]
     
-    n = len(s)
+
+    if l == r:
+        dp[l][r][qms] = 0 
+        return 0 # 문자열 없음 = 패배  
+    
     # 가능한 액션 한가지를 취함 
-    start, end = s[0], s[-1]
+    start, end = S[l], S[r-1]
     res = 0 
+
     if start != "?":
-        for i in range(n):
-            if start == s[i]:
-                res = max(res, 1-dfs(s[i+1:]))
+        for i in range(l,r):
+            if start == S[i]:
+                res = max(res, 1-dfs(i+1, r, qms))
             else:
                 break 
 
     if end != "?":
-        for i in range(n-1,-1,-1):
-            if end == s[i]:
-                res = max(res, 1- dfs(s[:i]))
+        for i in range(r-1,l-1,-1):
+            if end == S[i]:
+                res = max(res, 1- dfs(l, i, qms))
             else:
                 break 
-    
-    # 물음표 바꾸기 
-    idx = s.find("?")
-    if idx != -1:
-        res = max(res, 1- dfs(s[:idx] + "0" + s[idx+1:]))
-        res = max(res, 1- dfs(s[:idx] + "1" + s[idx+1:]))
+        
+    qms_l = [*divmod(qms, 3)][-nQm:]
+    for i in range(nQm):
+        # qms: 0~3**nQm-1 
+        if qms_l[i] != 0:
+            continue  
 
-    # idx = s.find("?", idx+1)
-    # if idx != -1:
-    #     res = max(res, 1- dfs(s[:idx] + "0" + s[idx+1:]))
-    #     res = max(res, 1- dfs(s[:idx] + "1" + s[idx+1:]))
+        idx = qmIndices[i]
+        S = S[:idx] + "0" + S[idx+1:]
+        res = max(res, 1-dfs(l,r, qms+i*3+1))
+        
+        S = S[:idx] + "1" + S[idx+1:]
+        res = max(res, 1-dfs(l,r, qms+i*3+2))
+        
+        S = S[:idx] + "?" + S[idx+1:] # 초기화 
 
-    dp[s] = res 
-    return dp[s]
-print(dfs(S))
+    dp[l][r][qms] = res 
+    return dp[l][r][qms]
+
+print(dfs(0,N,0))
+
