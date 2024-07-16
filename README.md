@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1027 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 고층 건물 | [문제링크](https://boj.kr/1027) | [소스코드](./problems/1027번：%20고층%20건물/1027번：%20고층%20건물.py) | 2024-07-16 |
+| 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |
+| 14719 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 빗물 | [문제링크](https://boj.kr/14719) | [소스코드](./problems/14719번：%20빗물/14719번：%20빗물.py) | 2024-07-16 |
 | 31948 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 문자열 지우기 | [문제링크](https://boj.kr/31948) | [소스코드](./problems/31948번：%20문자열%20지우기/31948번：%20문자열%20지우기.py) | 2024-07-11 |
 | 31938 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 현대모비스 트럭 군집주행 | [문제링크](https://boj.kr/31938) | [소스코드](./problems/31938번：%20현대모비스%20트럭%20군집주행/31938번：%20현대모비스%20트럭%20군집주행.py) | 2024-07-11 |
 | 31937 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 로그프레소 마에스트로 | [문제링크](https://boj.kr/31937) | [소스코드](./problems/31937번：%20로그프레소%20마에스트로/31937번：%20로그프레소%20마에스트로.py) | 2024-07-11 |
@@ -597,6 +600,7 @@
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
 | 2618 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 경찰차 | [문제링크](https://boj.kr/2618) | [소스코드](./problems/2618번：%20경찰차/2618번：%20경찰차.py) | 2024-02-07 |
+| 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |
 | 31938 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 현대모비스 트럭 군집주행 | [문제링크](https://boj.kr/31938) | [소스코드](./problems/31938번：%20현대모비스%20트럭%20군집주행/31938번：%20현대모비스%20트럭%20군집주행.py) | 2024-07-11 |
 | 1517 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 버블 소트 | [문제링크](https://boj.kr/1517) | [소스코드](./problems/1517번：%20버블%20소트/1517번：%20버블%20소트.py) | 2024-07-10 |
 | 7578 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 공장 | [문제링크](https://boj.kr/7578) | [소스코드](./problems/7578번：%20공장/7578번：%20공장.py) | 2024-07-09 |
@@ -822,6 +826,7 @@
 | 11049 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 행렬 곱셈 순서 | [문제링크](https://boj.kr/11049) | [소스코드](./problems/11049번：%20행렬%20곱셈%20순서/11049번：%20행렬%20곱셈%20순서.py) | 2023-12-27 |
 | 11066 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 파일 합치기 | [문제링크](https://boj.kr/11066) | [소스코드](./problems/11066번：%20파일%20합치기/11066번：%20파일%20합치기.py) | 2023-12-27 |
 | 10986 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 나머지 합 | [문제링크](https://boj.kr/10986) | [소스코드](./problems/10986번：%20나머지%20합/10986번：%20나머지%20합.py) | 2023-12-20 |
+| 1027 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 고층 건물 | [문제링크](https://boj.kr/1027) | [소스코드](./problems/1027번：%20고층%20건물/1027번：%20고층%20건물.py) | 2024-07-16 |
 | 2665 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 미로만들기 | [문제링크](https://boj.kr/2665) | [소스코드](./problems/2665번：%20미로만들기/2665번：%20미로만들기.py) | 2024-07-09 |
 | 1261 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 알고스팟 | [문제링크](https://boj.kr/1261) | [소스코드](./problems/1261번：%20알고스팟/1261번：%20알고스팟.py) | 2024-07-09 |
 | 25308 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 방사형 그래프 | [문제링크](https://boj.kr/25308) | [소스코드](./problems/25308번：%20방사형%20그래프/25308번：%20방사형%20그래프.py) | 2024-07-05 |
@@ -886,6 +891,7 @@
 | 11054 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 가장 긴 바이토닉 부분 수열 | [문제링크](https://boj.kr/11054) | [소스코드](./problems/11054번：%20가장%20긴%20바이토닉%20부분%20수열/11054번：%20가장%20긴%20바이토닉%20부분%20수열.py) | 2023-12-19 |
 | 2580 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 스도쿠 | [문제링크](https://boj.kr/2580) | [소스코드](./problems/2580번：%20스도쿠/2580번：%20스도쿠.py) | 2023-12-18 |
 | 9663 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> N-Queen | [문제링크](https://boj.kr/9663) | [소스코드](./problems/9663번：%20N-Queen/9663번：%20N-Queen.py) | 2023-11-28 |
+| 14719 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 빗물 | [문제링크](https://boj.kr/14719) | [소스코드](./problems/14719번：%20빗물/14719번：%20빗물.py) | 2024-07-16 |
 | 2493 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 탑 | [문제링크](https://boj.kr/2493) | [소스코드](./problems/2493번：%20탑/2493번：%20탑.py) | 2024-07-01 |
 | 1011 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> Fly me to the Alpha Centauri | [문제링크](https://boj.kr/1011) | [소스코드](./problems/1011번：%20Fly%20me%20to%20the%20Alpha%20Centauri/1011번：%20Fly%20me%20to%20the%20Alpha%20Centauri.py) | 2024-07-01 |
 | 20913 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> Mixtape Management | [문제링크](https://boj.kr/20913) | [소스코드](./problems/20913번：%20Mixtape%20Management/20913번：%20Mixtape%20Management.py) | 2024-06-17 |

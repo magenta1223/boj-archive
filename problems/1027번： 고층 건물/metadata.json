@@ -1,0 +1,14 @@
+{
+    "name": "고층 건물",
+    "title": "1027번： 고층 건물",
+    "problemNumber": "1027",
+    "date": "2024-07-16 06:40:56",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

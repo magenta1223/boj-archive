@@ -1,0 +1,14 @@
+{
+    "name": "빗물",
+    "title": "14719번： 빗물",
+    "problemNumber": "14719",
+    "date": "2024-07-16 02:06:44",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}
