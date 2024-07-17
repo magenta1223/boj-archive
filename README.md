@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 11280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 2-SAT - 3 | [문제링크](https://boj.kr/11280) | [소스코드](./problems/11280번：%202-SAT%20-%203/11280번：%202-SAT%20-%203.py) | 2024-07-17 |
 | 1027 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 고층 건물 | [문제링크](https://boj.kr/1027) | [소스코드](./problems/1027번：%20고층%20건물/1027번：%20고층%20건물.py) | 2024-07-16 |
 | 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |
 | 14719 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 빗물 | [문제링크](https://boj.kr/14719) | [소스코드](./problems/14719번：%20빗물/14719번：%20빗물.py) | 2024-07-16 |
@@ -585,6 +586,7 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 11280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 2-SAT - 3 | [문제링크](https://boj.kr/11280) | [소스코드](./problems/11280번：%202-SAT%20-%203/11280번：%202-SAT%20-%203.py) | 2024-07-17 |
 | 16975 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 수열과 쿼리 21 | [문제링크](https://boj.kr/16975) | [소스코드](./problems/16975번：%20수열과%20쿼리%2021/16975번：%20수열과%20쿼리%2021.py) | 2024-07-09 |
 | 11658 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 3 | [문제링크](https://boj.kr/11658) | [소스코드](./problems/11658번：%20구간%20합%20구하기%203/11658번：%20구간%20합%20구하기%203.py) | 2024-07-09 |
 | 10999 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 구간 합 구하기 2 | [문제링크](https://boj.kr/10999) | [소스코드](./problems/10999번：%20구간%20합%20구하기%202/10999번：%20구간%20합%20구하기%202.py) | 2024-07-09 |
