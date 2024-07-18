@@ -119,12 +119,12 @@ OOIOIOIOIIOII
 
 
 
-[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2012/2013](/category/detail/542)P4번
-[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2008/2009](/category/detail/550)1번
-[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2013/2014](/category/detail/1249)P4번
-- 문제를 번역한 사람: [baekjoon](/user/baekjoon)
-- 데이터를 추가한 사람: [eric00513](/user/eric00513), [ngchaneok](/user/ngchaneok)
-- 문제의 오타를 찾은 사람: [hist0613](/user/hist0613)
+[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2012/2013](/category/detail/542)P4번
+[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2008/2009](/category/detail/550)1번
+[Olympiad](/category/2)> [Japanese Olympiad in Informatics](/category/100)> [JOI 2013/2014](/category/detail/1249)P4번
+- 문제를 번역한 사람: [baekjoon](/user/baekjoon)
+- 데이터를 추가한 사람: [eric00513](/user/eric00513), [ngchaneok](/user/ngchaneok)
+- 문제의 오타를 찾은 사람: [hist0613](/user/hist0613)
 
 
 

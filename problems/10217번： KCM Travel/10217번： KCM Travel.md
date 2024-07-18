@@ -89,10 +89,10 @@
 ## 출처
 
 
-[Contest](/category/45)> [Coder's High](/category/215)> [Coder's High 2014](/category/detail/1280)D번
-- 데이터를 추가한 사람: [doju](/user/doju), [pichulia](/user/pichulia)
-- 문제의 오타를 찾은 사람: [kjho1e3](/user/kjho1e3)
-- 문제를 만든 사람: [tae](/user/tae)
+[Contest](/category/45)> [Coder's High](/category/215)> [Coder's High 2014](/category/detail/1280)D번
+- 데이터를 추가한 사람: [doju](/user/doju), [pichulia](/user/pichulia)
+- 문제의 오타를 찾은 사람: [kjho1e3](/user/kjho1e3)
+- 문제를 만든 사람: [tae](/user/tae)
 
 
 

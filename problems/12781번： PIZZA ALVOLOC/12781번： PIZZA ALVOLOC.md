@@ -83,9 +83,9 @@
 ## 출처
 
 
-[University](/category/5)> [인하대학교](/category/336)> [2016 IUPC 인하대학교 프로그래밍 경진대회](/category/detail/1492)D번
-- 문제를 만든 사람: [dodo3371](/user/dodo3371)
-- 데이터를 추가한 사람: [tibyte](/user/tibyte)
+[University](/category/5)> [인하대학교](/category/336)> [2016 IUPC 인하대학교 프로그래밍 경진대회](/category/detail/1492)D번
+- 문제를 만든 사람: [dodo3371](/user/dodo3371)
+- 데이터를 추가한 사람: [tibyte](/user/tibyte)
 
 
 

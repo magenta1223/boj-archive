@@ -9,7 +9,7 @@
 ## 문제
 
 
-그래프를 DFS로 탐색한 결과와 BFS로 탐색한 결과를 출력하는 프로그램을 작성하시오. 단, 방문할 수 있는 정점이 여러 개인 경우에는 정점 번호가 작은 것을 먼저 방문하고, 더 이상 방문할 수 있는 점이 없는 경우 종료한다. 정점 번호는 1번부터 N번까지이다.
+그래프를 DFS로 탐색한 결과와 BFS로 탐색한 결과를 출력하는 프로그램을 작성하시오. 단, 방문할 수 있는 정점이 여러 개인 경우에는 정점 번호가 작은 것을 먼저 방문하고, 더 이상 방문할 수 있는 점이 없는 경우 종료한다. 정점 번호는 1번부터 N번까지이다.
 
 
 
@@ -102,10 +102,10 @@
 ## 출처
 
 
-- 문제를 만든 사람: [author5](/user/author5)
-- 데이터를 추가한 사람: [dfghcvb11](/user/dfghcvb11), [djm03178](/user/djm03178), [doju](/user/doju)
-- 어색한 표현을 찾은 사람: [doju](/user/doju)
-- 빠진 조건을 찾은 사람: [pumpyboom](/user/pumpyboom)
+- 문제를 만든 사람: [author5](/user/author5)
+- 데이터를 추가한 사람: [dfghcvb11](/user/dfghcvb11), [djm03178](/user/djm03178), [doju](/user/doju)
+- 어색한 표현을 찾은 사람: [doju](/user/doju)
+- 빠진 조건을 찾은 사람: [pumpyboom](/user/pumpyboom)
 
 
 

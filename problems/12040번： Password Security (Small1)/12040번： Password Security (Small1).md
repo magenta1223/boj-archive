@@ -11,24 +11,24 @@
 
 You just bought your young nephew Andrey a complete set of 26 English wooden alphabet letters from A to Z. Because the letters come in a long, linear package, they appear to spell out a 26-letter message.
 
-You use different passwords to log into your various online accounts, and you are concerned that this message might coincidentally include one or more of them. Can you find any arrangement of the 26 letters, such that no password appears in the message as a continuous substring?
+You use different passwords to log into your various online accounts, and you are concerned that this message might coincidentally include one or more of them. Can you find any arrangement of the 26 letters, such that no password appears in the message as a continuous substring?
 
 
 
 ## 입력
 
 
-The first line of the input gives the number of test cases, . test cases follow. Each consists of one line with an integer , and then another line with different strings of uppercase English letters P<sub>1</sub>
-, P<sub>2</sub>
-, ..., P<sub>N</sub>
+The first line of the input gives the number of test cases, . test cases follow. Each consists of one line with an integer , and then another line with different strings of uppercase English letters P<sub>1</sub>
+, P<sub>2</sub>
+, ..., P<sub>N</sub>
 , which are the passwords.
 ### Limits
 
-- 1 ≤ ≤ 100.
-- 1 ≤ length of P<sub>i</sub>
+- 1 ≤ ≤ 100.
+- 1 ≤ length of P<sub>i</sub>
 ≤ 26, for all i. (Each password is between 1 and 26 letters long.)
 - P<sub>i</sub>
-≠ P<sub>j</sub>
+≠ P<sub>j</sub>
 for all i ≠ j. (All passwords are different.
 - = 1.
 
@@ -38,7 +38,7 @@ for all i ≠ j. (All passwords are different.
 ## 출력
 
 
-For each test case, output one line containing <code>Case #x: y</code>, where <code>x</code>is the test case number (starting from 1) and <code>y</code>is a permutation of the entire uppercase English alphabet that contains no password as a continuous substring, or the word <code>IMPOSSIBLE</code>if there is no such permutation.
+For each test case, output one line containing <code>Case #x: y</code>, where <code>x</code>is the test case number (starting from 1) and <code>y</code>is a permutation of the entire uppercase English alphabet that contains no password as a continuous substring, or the word <code>IMPOSSIBLE</code>if there is no such permutation.
 
 
 
@@ -96,7 +96,7 @@ Note that only sample cases #1, #2, and #3 would appear in Small dataset 1. Any 
 ## 출처
 
 
-[Contest](/category/45)> [Google](/category/621)> [Code Jam to I/O for Women](/category/622)> [Code Jam to I/O for Women 2016](/category/371)> [Code Jam to I/O for Women 2016](/category/detail/1615)D1번
+[Contest](/category/45)> [Google](/category/621)> [Code Jam to I/O for Women](/category/622)> [Code Jam to I/O for Women 2016](/category/371)> [Code Jam to I/O for Women 2016](/category/detail/1615)D1번
 
 
 ## 채점 및 기타 정보

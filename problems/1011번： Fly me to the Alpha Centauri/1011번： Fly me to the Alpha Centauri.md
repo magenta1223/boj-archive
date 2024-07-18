@@ -67,8 +67,8 @@
 ## 출처
 
 
-- 문제를 번역한 사람: [AIAI](/user/AIAI)
-- 데이터를 추가한 사람: [iizuna](/user/iizuna)
+- 문제를 번역한 사람: [AIAI](/user/AIAI)
+- 데이터를 추가한 사람: [iizuna](/user/iizuna)
 
 
 

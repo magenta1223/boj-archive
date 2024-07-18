@@ -102,8 +102,8 @@
 ## 출처
 
 
-[ICPC](/category/1)> [Regionals](/category/7)> [Asia Pacific](/category/42)> [Korea](/category/211)> [Nationwide Internet Competition](/category/256)> [Seoul Nationalwide Internet Competition 2019](/category/detail/2064)H번
-- 데이터를 추가한 사람: [tktj12](/user/tktj12)
+[ICPC](/category/1)> [Regionals](/category/7)> [Asia Pacific](/category/42)> [Korea](/category/211)> [Nationwide Internet Competition](/category/256)> [Seoul Nationalwide Internet Competition 2019](/category/detail/2064)H번
+- 데이터를 추가한 사람: [tktj12](/user/tktj12)
 
 
 

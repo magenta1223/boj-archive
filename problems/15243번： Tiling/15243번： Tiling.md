@@ -137,7 +137,7 @@ In the last test case, the actual result is 8155103542731753 by we have to print
 ## 출처
 
 
-[Olympiad](/category/2)> [All-Ireland Programming Olympiad](/category/356)> [2017 AIPO National Finals](/category/detail/1805)6번
+[Olympiad](/category/2)> [All-Ireland Programming Olympiad](/category/356)> [2017 AIPO National Finals](/category/detail/1805)6번
 
 
 
