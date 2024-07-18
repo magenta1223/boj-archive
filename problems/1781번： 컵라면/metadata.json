@@ -1,0 +1,14 @@
+{
+    "name": "컵라면",
+    "title": "1781번： 컵라면",
+    "problemNumber": "1781",
+    "date": "2024-07-18 06:30:06",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

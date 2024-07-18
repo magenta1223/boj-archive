@@ -1,0 +1,14 @@
+{
+    "name": "숫자고르기",
+    "title": "2668번： 숫자고르기",
+    "problemNumber": "2668",
+    "date": "2024-07-18 06:12:00",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

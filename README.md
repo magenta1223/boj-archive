@@ -3,6 +3,10 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1826 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 연료 채우기 | [문제링크](https://boj.kr/1826) | [소스코드](./problems/1826번：%20연료%20채우기/1826번：%20연료%20채우기.py) | 2024-07-18 |
+| 1911 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 흙길 보수하기 | [문제링크](https://boj.kr/1911) | [소스코드](./problems/1911번：%20흙길%20보수하기/1911번：%20흙길%20보수하기.py) | 2024-07-18 |
+| 1781 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컵라면 | [문제링크](https://boj.kr/1781) | [소스코드](./problems/1781번：%20컵라면/1781번：%20컵라면.py) | 2024-07-18 |
+| 2668 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 숫자고르기 | [문제링크](https://boj.kr/2668) | [소스코드](./problems/2668번：%20숫자고르기/2668번：%20숫자고르기.py) | 2024-07-18 |
 | 11280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 2-SAT - 3 | [문제링크](https://boj.kr/11280) | [소스코드](./problems/11280번：%202-SAT%20-%203/11280번：%202-SAT%20-%203.py) | 2024-07-17 |
 | 1027 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 고층 건물 | [문제링크](https://boj.kr/1027) | [소스코드](./problems/1027번：%20고층%20건물/1027번：%20고층%20건물.py) | 2024-07-16 |
 | 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |
@@ -690,6 +694,8 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 1826 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 연료 채우기 | [문제링크](https://boj.kr/1826) | [소스코드](./problems/1826번：%20연료%20채우기/1826번：%20연료%20채우기.py) | 2024-07-18 |
+| 1781 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컵라면 | [문제링크](https://boj.kr/1781) | [소스코드](./problems/1781번：%20컵라면/1781번：%20컵라면.py) | 2024-07-18 |
 | 1525 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 퍼즐 | [문제링크](https://boj.kr/1525) | [소스코드](./problems/1525번：%20퍼즐/1525번：%20퍼즐.py) | 2024-07-10 |
 | 10800 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컬러볼 | [문제링크](https://boj.kr/10800) | [소스코드](./problems/10800번：%20컬러볼/10800번：%20컬러볼.py) | 2024-07-08 |
 | 1135 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 뉴스 전하기 | [문제링크](https://boj.kr/1135) | [소스코드](./problems/1135번：%20뉴스%20전하기/1135번：%20뉴스%20전하기.py) | 2024-07-08 |
@@ -893,6 +899,8 @@
 | 11054 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 가장 긴 바이토닉 부분 수열 | [문제링크](https://boj.kr/11054) | [소스코드](./problems/11054번：%20가장%20긴%20바이토닉%20부분%20수열/11054번：%20가장%20긴%20바이토닉%20부분%20수열.py) | 2023-12-19 |
 | 2580 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 스도쿠 | [문제링크](https://boj.kr/2580) | [소스코드](./problems/2580번：%20스도쿠/2580번：%20스도쿠.py) | 2023-12-18 |
 | 9663 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> N-Queen | [문제링크](https://boj.kr/9663) | [소스코드](./problems/9663번：%20N-Queen/9663번：%20N-Queen.py) | 2023-11-28 |
+| 1911 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 흙길 보수하기 | [문제링크](https://boj.kr/1911) | [소스코드](./problems/1911번：%20흙길%20보수하기/1911번：%20흙길%20보수하기.py) | 2024-07-18 |
+| 2668 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 숫자고르기 | [문제링크](https://boj.kr/2668) | [소스코드](./problems/2668번：%20숫자고르기/2668번：%20숫자고르기.py) | 2024-07-18 |
 | 14719 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 빗물 | [문제링크](https://boj.kr/14719) | [소스코드](./problems/14719번：%20빗물/14719번：%20빗물.py) | 2024-07-16 |
 | 2493 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 탑 | [문제링크](https://boj.kr/2493) | [소스코드](./problems/2493번：%20탑/2493번：%20탑.py) | 2024-07-01 |
 | 1011 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> Fly me to the Alpha Centauri | [문제링크](https://boj.kr/1011) | [소스코드](./problems/1011번：%20Fly%20me%20to%20the%20Alpha%20Centauri/1011번：%20Fly%20me%20to%20the%20Alpha%20Centauri.py) | 2024-07-01 |

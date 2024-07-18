@@ -1,0 +1,14 @@
+{
+    "name": "연료 채우기",
+    "title": "1826번： 연료 채우기",
+    "problemNumber": "1826",
+    "date": "2024-07-18 08:24:52",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
