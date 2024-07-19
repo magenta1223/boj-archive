@@ -1,0 +1,14 @@
+{
+    "name": "증가하는 부분 수열의 개수",
+    "title": "22971번： 증가하는 부분 수열의 개수",
+    "problemNumber": "22971",
+    "date": "2024-07-19 03:07:43",
+    "tier": {
+        "name": "Silver II",
+        "abb": "S",
+        "nameColor": "#4E6A86",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/9.svg",
+        "level": 9
+    }
+}

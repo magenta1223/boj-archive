@@ -1,0 +1,14 @@
+{
+    "name": "I am Groot",
+    "title": "17283번： I am Groot",
+    "problemNumber": "17283",
+    "date": "2024-07-19 02:59:14",
+    "tier": {
+        "name": "Bronze I",
+        "abb": "B",
+        "nameColor": "#38546E",
+        "abbColor": "#435F7A",
+        "svg": "https://static.solved.ac/tier_small/5.svg",
+        "level": 5
+    }
+}

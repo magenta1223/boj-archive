@@ -3,6 +3,11 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 19584 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 난개발 | [문제링크](https://boj.kr/19584) | [소스코드](./problems/19584번：%20난개발/19584번：%20난개발.py) | 2024-07-19 |
+| 24913 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 개표 | [문제링크](https://boj.kr/24913) | [소스코드](./problems/24913번：%20개표/24913번：%20개표.py) | 2024-07-19 |
+| 22971 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 증가하는 부분 수열의 개수 | [문제링크](https://boj.kr/22971) | [소스코드](./problems/22971번：%20증가하는%20부분%20수열의%20개수/22971번：%20증가하는%20부분%20수열의%20개수.py) | 2024-07-19 |
+| 17283 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> I am Groot | [문제링크](https://boj.kr/17283) | [소스코드](./problems/17283번：%20I%20am%20Groot/17283번：%20I%20am%20Groot.py) | 2024-07-19 |
+| 10448 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> 유레카 이론 | [문제링크](https://boj.kr/10448) | [소스코드](./problems/10448번：%20유레카%20이론/10448번：%20유레카%20이론.py) | 2024-07-19 |
 | 1826 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 연료 채우기 | [문제링크](https://boj.kr/1826) | [소스코드](./problems/1826번：%20연료%20채우기/1826번：%20연료%20채우기.py) | 2024-07-18 |
 | 1911 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 흙길 보수하기 | [문제링크](https://boj.kr/1911) | [소스코드](./problems/1911번：%20흙길%20보수하기/1911번：%20흙길%20보수하기.py) | 2024-07-18 |
 | 1781 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 컵라면 | [문제링크](https://boj.kr/1781) | [소스코드](./problems/1781번：%20컵라면/1781번：%20컵라면.py) | 2024-07-18 |
@@ -753,6 +758,7 @@
 | 9370 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 미확인 도착지 | [문제링크](https://boj.kr/9370) | [소스코드](./problems/9370번：%20미확인%20도착지/9370번：%20미확인%20도착지.py) | 2024-01-29 |
 | 12015 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 2 | [문제링크](https://boj.kr/12015) | [소스코드](./problems/12015번：%20가장%20긴%20증가하는%20부분%20수열%202/12015번：%20가장%20긴%20증가하는%20부분%20수열%202.py) | 2023-12-26 |
 | 11444 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 피보나치 수 6 | [문제링크](https://boj.kr/11444) | [소스코드](./problems/11444번：%20피보나치%20수%206/11444번：%20피보나치%20수%206.py) | 2023-12-22 |
+| 19584 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 난개발 | [문제링크](https://boj.kr/19584) | [소스코드](./problems/19584번：%20난개발/19584번：%20난개발.py) | 2024-07-19 |
 | 2835 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 인기도 조사 | [문제링크](https://boj.kr/2835) | [소스코드](./problems/2835번：%20인기도%20조사/2835번：%20인기도%20조사.py) | 2024-07-10 |
 | 1939 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 중량제한 | [문제링크](https://boj.kr/1939) | [소스코드](./problems/1939번：%20중량제한/1939번：%20중량제한.py) | 2024-07-09 |
 | 1069 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 집으로 | [문제링크](https://boj.kr/1069) | [소스코드](./problems/1069번：%20집으로/1069번：%20집으로.py) | 2024-07-05 |
@@ -982,6 +988,8 @@
 | 1149 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> RGB거리 | [문제링크](https://boj.kr/1149) | [소스코드](./problems/1149번：%20RGB거리/1149번：%20RGB거리.py) | 2023-12-18 |
 | 14889 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 스타트와 링크 | [문제링크](https://boj.kr/14889) | [소스코드](./problems/14889번：%20스타트와%20링크/14889번：%20스타트와%20링크.py) | 2023-12-18 |
 | 14888 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 연산자 끼워넣기 | [문제링크](https://boj.kr/14888) | [소스코드](./problems/14888번：%20연산자%20끼워넣기/14888번：%20연산자%20끼워넣기.py) | 2023-12-18 |
+| 24913 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 개표 | [문제링크](https://boj.kr/24913) | [소스코드](./problems/24913번：%20개표/24913번：%20개표.py) | 2024-07-19 |
+| 22971 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 증가하는 부분 수열의 개수 | [문제링크](https://boj.kr/22971) | [소스코드](./problems/22971번：%20증가하는%20부분%20수열의%20개수/22971번：%20증가하는%20부분%20수열의%20개수.py) | 2024-07-19 |
 | 31937 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 로그프레소 마에스트로 | [문제링크](https://boj.kr/31937) | [소스코드](./problems/31937번：%20로그프레소%20마에스트로/31937번：%20로그프레소%20마에스트로.py) | 2024-07-11 |
 | 18111 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 마인크래프트 | [문제링크](https://boj.kr/18111) | [소스코드](./problems/18111번：%20마인크래프트/18111번：%20마인크래프트.py) | 2024-06-14 |
 | 2075 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> N번째 큰 수 | [문제링크](https://boj.kr/2075) | [소스코드](./problems/2075번：%20N번째%20큰%20수/2075번：%20N번째%20큰%20수.py) | 2024-05-09 |
@@ -1102,6 +1110,8 @@
 | 25206 번 | <img src="https://static.solved.ac/tier_small/6.svg" style="height:20px"> 너의 평점은 | [문제링크](https://boj.kr/25206) | [소스코드](./problems/25206번：%20너의%20평점은/25206번：%20너의%20평점은.py) | 2023-10-17 |
 | 1316 번 | <img src="https://static.solved.ac/tier_small/6.svg" style="height:20px"> 그룹 단어 체커 | [문제링크](https://boj.kr/1316) | [소스코드](./problems/1316번：%20그룹%20단어%20체커/1316번：%20그룹%20단어%20체커.py) | 2023-10-17 |
 | 2941 번 | <img src="https://static.solved.ac/tier_small/6.svg" style="height:20px"> 크로아티아 알파벳 | [문제링크](https://boj.kr/2941) | [소스코드](./problems/2941번：%20크로아티아%20알파벳/2941번：%20크로아티아%20알파벳.py) | 2023-10-17 |
+| 17283 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> I am Groot | [문제링크](https://boj.kr/17283) | [소스코드](./problems/17283번：%20I%20am%20Groot/17283번：%20I%20am%20Groot.py) | 2024-07-19 |
+| 10448 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> 유레카 이론 | [문제링크](https://boj.kr/10448) | [소스코드](./problems/10448번：%20유레카%20이론/10448번：%20유레카%20이론.py) | 2024-07-19 |
 | 2748 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> 피보나치 수 2 | [문제링크](https://boj.kr/2748) | [소스코드](./problems/2748번：%20피보나치%20수%202/2748번：%20피보나치%20수%202.py) | 2024-05-03 |
 | 2775 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> 부녀회장이 될테야 | [문제링크](https://boj.kr/2775) | [소스코드](./problems/2775번：%20부녀회장이%20될테야/2775번：%20부녀회장이%20될테야.py) | 2024-05-03 |
 | 2609 번 | <img src="https://static.solved.ac/tier_small/5.svg" style="height:20px"> 최대공약수와 최소공배수 | [문제링크](https://boj.kr/2609) | [소스코드](./problems/2609번：%20최대공약수와%20최소공배수/2609번：%20최대공약수와%20최소공배수.py) | 2024-04-04 |
