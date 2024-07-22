@@ -6,81 +6,69 @@
 #     By: magenta1223 <boj.kr/u/magenta1223>         +#+    +#+          +#+   #
 #                                                   +#+      +#+        +#+    #
 #     https://boj.kr/2618                          #+#        #+#      #+#     #
-#     Solved: 2024-02-07 11:14:51 by magenta1223  ###          ###   ##.kr     #
+#     Solved: 2024-07-22 07:54:00 by magenta1223  ###          ###   ##.kr     #
 #                                                                              #
 #  **************************************************************************  #
 
-N=int(input().strip())
-W=int(input().strip())
-COORDS = [list(map(int, input().split())) for _ in range(W)]
-COORDS = [[[1,1]] + COORDS, [[N,N]] + COORDS]
- 
-# DP Table : i,j = 차1이 i번째 사건을 마지막으로 처리, 차2가 j번째 사건을 마지막으로 처리 
-# 이때 최소 이동거리 
-# dp table은 사건 순으로 업데이트 
-dp = [[float('inf')] * (W+1)  for _ in range(W+1)]
-history = [[[-1, -1, -1]] * (W+1) for _ in range(W+1)]
- 
- 
-dp[0][0] = 0
- 
-def getDist(car_index, c1, c2):
-    c1 = COORDS[car_index][c1]
-    c2 = COORDS[car_index][c2]
-    return abs(c1[0] - c2[0]) + abs(c1[1] - c2[1])
- 
-for w in range(1,W+1):
-    coords = COORDS[0][w]
-    # w번째 사건을 추가할 수 있는 dp_table의 index는?
-    # 둘 중 하나가 w-1인 케이스임. 
-    # 즉, dp[x][w-1] or dp[w-1][x] x는 0~w-2
-    # w번째 사건을 0으로 풀수도, 1로 풀수도 있음. 
-    
-    for i in range(w):    
-        d = getDist(0,i,w)
-        if dp[i][w-1] + d < dp[w][w-1]:
-            dp[w][w-1] =  dp[i][w-1] + d
-            history[w][w - 1] = [i, w - 1, 1]
+input = open(0).readline 
+INF = float("inf")
+
+def getDist(car,a,b):
+    x1,y1 = CASES[car][a]
+    x2,y2 = CASES[car][b]
+    return abs(x2-x1) + abs(y2-y1)
+
+
+N,W = int(input()), int(input())
+dp = [[INF] * (W+1) for _ in range(W+1)]
+backtrack = [[-1] * (W+1) for _ in range(W+1)]
+
+CASES = [list(map(int,input().split())) for _ in range(W)]
+CASES = [[[1,1]] + CASES, [[N,N]] + CASES]
+
+
+dp[0][0] = 0 
+dp[1][0] = getDist(0,0,1)
+dp[0][1] =  getDist(1,0,1)
+
+for i in range(1,W+1):
+    for j in range(i-1):
+        # 경찰차 1이 i를 처리 
+        # 직전사건을 경찰차 1이 처리
+        if dp[i][j] > dp[i-1][j] + getDist(0,i-1,i):
+            dp[i][j] = dp[i-1][j] + getDist(0,i-1,i)
+            backtrack[i][j] = (i-1,j)
+
         
-        # 1번차로 해결 
-        d = getDist(1,w-1, w)
-        if dp[i][w-1] + d < dp[i][w]:
-            dp[i][w] =  dp[i][w-1] + d
-            history[i][w] = [i, w-1, 2]
- 
-        # dp[w-1][i]
-        # 0번차로 해결 
-        d = getDist(0,w-1, w)
-        if dp[w-1][i] + d < dp[w][i]:
-            dp[w][i] = dp[w-1][i] + d
-            history[w][i] = [w-1, i, 1]
-        # 1번차로 해결 -> 1번차의 현재 위치 
-        d = getDist(1,i, w)
-        if dp[w-1][i] + d < dp[w-1][w]:
-            dp[w-1][w]= dp[w-1][i] + d
-            history[w - 1][w] = [w-1, i, 2]
- 
- 
- 
-min_dist = float('inf')
-last_event = 0
-car_chosen = 0
-for i in range(W+1):
-    if dp[i][W] < min_dist:
-        min_dist = dp[i][W]
-        x,y = i, W
-        car = 2
-    if dp[W][i] < min_dist:
-        min_dist = dp[W][i]
-        x,y = W,i
-        car = 1
- 
- 
-# 역추적하여 경로 복원
-path = []
-while car != -1:
-    path.append(car) 
-    x, y, car = history[x][y]
-path.reverse() 
-print(min_dist)
-print(*path[:-1], sep='\n')
+        # 직전사건을 경찰차2가 처리 
+        if dp[i][i-1] > dp[j][i-1] + getDist(0,j,i):
+            dp[i][i-1] = dp[j][i-1] + getDist(0,j,i)
+            backtrack[i][i-1] = (j,i-1)
+
+        # 경찰차 2가 i를 처리 
+        # 직전사건을 경찰차 1이 처리
+        if dp[i-1][i] > dp[i-1][j] + getDist(1,j,i):
+            dp[i-1][i] = dp[i-1][j] + getDist(1,j,i)
+            backtrack[i-1][i] = (i-1,j)
+
+        # 직전사건을 경찰차2가 처리 
+        if dp[j][i] > dp[j][i-1] + getDist(1,i-1,i):
+            dp[j][i] = dp[j][i-1] + getDist(1,i-1,i)
+            backtrack[j][i] = (j,i-1)
+    
+ans = INF 
+for i in range(W):
+    if ans > dp[W][i]:
+        ans = dp[W][i]
+        a,b = W,i 
+    if ans > dp[i][W]:
+        ans = dp[i][W]
+        a,b = i,W
+
+cars = [1 if a>b else 2]
+while backtrack[a][b] != -1:
+    a,b = backtrack[a][b]
+    cars.append(1 if a>b else 2)
+
+print(ans)
+print(*cars[::-1], sep ='\n')
