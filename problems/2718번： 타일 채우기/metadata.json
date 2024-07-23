@@ -1,0 +1,14 @@
+{
+    "name": "타일 채우기",
+    "title": "2718번： 타일 채우기",
+    "problemNumber": "2718",
+    "date": "2024-07-23 04:37:26",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

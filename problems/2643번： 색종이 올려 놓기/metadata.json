@@ -1,0 +1,14 @@
+{
+    "name": "색종이 올려 놓기",
+    "title": "2643번： 색종이 올려 놓기",
+    "problemNumber": "2643",
+    "date": "2024-07-23 02:41:19",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

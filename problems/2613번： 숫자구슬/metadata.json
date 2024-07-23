@@ -1,0 +1,14 @@
+{
+    "name": "숫자구슬",
+    "title": "2613번： 숫자구슬",
+    "problemNumber": "2613",
+    "date": "2024-07-23 03:22:39",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
