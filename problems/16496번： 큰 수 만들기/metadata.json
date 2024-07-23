@@ -1,0 +1,14 @@
+{
+    "name": "큰 수 만들기",
+    "title": "16496번： 큰 수 만들기",
+    "problemNumber": "16496",
+    "date": "2024-07-23 08:08:16",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

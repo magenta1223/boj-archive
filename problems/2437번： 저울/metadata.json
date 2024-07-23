@@ -1,0 +1,14 @@
+{
+    "name": "저울",
+    "title": "2437번： 저울",
+    "problemNumber": "2437",
+    "date": "2024-07-23 07:08:23",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
