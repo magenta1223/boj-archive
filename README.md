@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 21479 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Число | [문제링크](https://boj.kr/21479) | [소스코드](./problems/21479번：%20Число/21479번：%20Число.py) | 2024-07-23 |
 | 1422 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 숫자의 신 | [문제링크](https://boj.kr/1422) | [소스코드](./problems/1422번：%20숫자의%20신/1422번：%20숫자의%20신.py) | 2024-07-23 |
 | 16496 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 큰 수 만들기 | [문제링크](https://boj.kr/16496) | [소스코드](./problems/16496번：%20큰%20수%20만들기/16496번：%20큰%20수%20만들기.py) | 2024-07-23 |
 | 2437 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 저울 | [문제링크](https://boj.kr/2437) | [소스코드](./problems/2437번：%20저울/2437번：%20저울.py) | 2024-07-23 |
@@ -623,6 +624,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 21479 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Число | [문제링크](https://boj.kr/21479) | [소스코드](./problems/21479번：%20Число/21479번：%20Число.py) | 2024-07-23 |
 | 16496 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 큰 수 만들기 | [문제링크](https://boj.kr/16496) | [소스코드](./problems/16496번：%20큰%20수%20만들기/16496번：%20큰%20수%20만들기.py) | 2024-07-23 |
 | 1086 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 박성원 | [문제링크](https://boj.kr/1086) | [소스코드](./problems/1086번：%20박성원/1086번：%20박성원.py) | 2024-07-22 |
 | 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |

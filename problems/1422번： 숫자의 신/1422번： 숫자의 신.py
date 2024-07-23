@@ -16,7 +16,7 @@
 # 최소 1개씩은 사용 
 
 def getValue(string):
-    return int((string+string*11)[:11])
+    return int((string*12)[:11])
 
 input  = open(0).readline 
 K,N = map(int, input().split())
