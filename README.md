@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2812 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 크게 만들기 | [문제링크](https://boj.kr/2812) | [소스코드](./problems/2812번：%20크게%20만들기/2812번：%20크게%20만들기.py) | 2024-07-23 |
 | 21479 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Число | [문제링크](https://boj.kr/21479) | [소스코드](./problems/21479번：%20Число/21479번：%20Число.py) | 2024-07-23 |
 | 1422 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 숫자의 신 | [문제링크](https://boj.kr/1422) | [소스코드](./problems/1422번：%20숫자의%20신/1422번：%20숫자의%20신.py) | 2024-07-23 |
 | 16496 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 큰 수 만들기 | [문제링크](https://boj.kr/16496) | [소스코드](./problems/16496번：%20큰%20수%20만들기/16496번：%20큰%20수%20만들기.py) | 2024-07-23 |
@@ -776,6 +777,7 @@
 | 9370 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 미확인 도착지 | [문제링크](https://boj.kr/9370) | [소스코드](./problems/9370번：%20미확인%20도착지/9370번：%20미확인%20도착지.py) | 2024-01-29 |
 | 12015 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 2 | [문제링크](https://boj.kr/12015) | [소스코드](./problems/12015번：%20가장%20긴%20증가하는%20부분%20수열%202/12015번：%20가장%20긴%20증가하는%20부분%20수열%202.py) | 2023-12-26 |
 | 11444 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 피보나치 수 6 | [문제링크](https://boj.kr/11444) | [소스코드](./problems/11444번：%20피보나치%20수%206/11444번：%20피보나치%20수%206.py) | 2023-12-22 |
+| 2812 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 크게 만들기 | [문제링크](https://boj.kr/2812) | [소스코드](./problems/2812번：%20크게%20만들기/2812번：%20크게%20만들기.py) | 2024-07-23 |
 | 19584 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 난개발 | [문제링크](https://boj.kr/19584) | [소스코드](./problems/19584번：%20난개발/19584번：%20난개발.py) | 2024-07-19 |
 | 2835 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 인기도 조사 | [문제링크](https://boj.kr/2835) | [소스코드](./problems/2835번：%20인기도%20조사/2835번：%20인기도%20조사.py) | 2024-07-10 |
 | 1939 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 중량제한 | [문제링크](https://boj.kr/1939) | [소스코드](./problems/1939번：%20중량제한/1939번：%20중량제한.py) | 2024-07-09 |
