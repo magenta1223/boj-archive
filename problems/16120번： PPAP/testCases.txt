@@ -1,0 +1,16 @@
+Input:(
+PPPAPAP
+)
+
+Output:(
+PPAP
+)
+
+Input:(
+PPAPAPP
+)
+
+Output:(
+NP
+)
+

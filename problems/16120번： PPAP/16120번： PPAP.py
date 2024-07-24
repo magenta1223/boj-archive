@@ -1,29 +1,38 @@
 #  **************************************************************************  #
 #                                                                              #
 #                                                       :::    :::    :::      #
-#     Problem Number: 17298                            :+:    :+:      :+:     #
+#     Problem Number: 16120                            :+:    :+:      :+:     #
 #                                                     +:+    +:+        +:+    #
 #     By: magenta1223 <boj.kr/u/magenta1223>         +#+    +#+          +#+   #
 #                                                   +#+      +#+        +#+    #
-#     https://boj.kr/17298                         #+#        #+#      #+#     #
-#     Solved: 2024-07-24 05:13:25 by magenta1223  ###          ###   ##.kr     #
+#     https://boj.kr/16120                         #+#        #+#      #+#     #
+#     Solved: 2024-07-24 07:04:02 by magenta1223  ###          ###   ##.kr     #
 #                                                                              #
 #  **************************************************************************  #
 
 
-# 오큰수 = NGE 를 찾자 
-# NGE(i) = i번째 보다 
-# 1) 오른쪽이면서
-# 2) A_i보다 큰 수 중 
-# 3) 가장 왼쪽에 있는 수 
+# 시간초과 
+# S = input()
+# N = len(S)
+# while 'PPAP' in S:
+#     S = S.replace('PPAP', 'P')
+# print('PPAP' if S == "P" else 'NP')
 
-N = int(input())
-A = list(map(int, input().split()))
 
-# stack을 내림차순으로 관리 
-NGE, stack = [-1] * N, []
+S = input()
+N = len(S)
+
+if S == 'P':
+    print('PPAP')
+    exit(0)
+
+PPAP = list('PPAP')
+stack = []
 for i in range(N):
-    while stack and A[stack[-1]] < A[i]:
-        NGE[stack.pop()] = A[i]
-    stack.append(i)
-print(*NGE)
+    while len(stack) >= 4 and stack[-4:] == PPAP:
+        stack.pop()
+        stack.pop()
+        stack.pop()
+    stack.append(S[i])
+
+print('PPAP' if stack == PPAP else 'NP')

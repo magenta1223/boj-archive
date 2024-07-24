@@ -6,27 +6,25 @@
 #     By: magenta1223 <boj.kr/u/magenta1223>         +#+    +#+          +#+   #
 #                                                   +#+      +#+        +#+    #
 #     https://boj.kr/17299                         #+#        #+#      #+#     #
-#     Solved: 2023-12-29 14:59:38 by magenta1223  ###          ###   ##.kr     #
+#     Solved: 2024-07-24 06:47:28 by magenta1223  ###          ###   ##.kr     #
 #                                                                              #
 #  **************************************************************************  #
 
-from collections import Counter
- 
-N=int(input())
-l=list(map(int, input().split()))
- 
-c = Counter(l)
- 
-l_c = [ c[el] for el in l]
-l_r = l_c[::-1]
-NGF = []
-results = [0] * N
+
+# 오등큰수 NGF 
+# F(A_i) = A_i가 A에서 등장한 횟수
+# NGF_i = 오른쪽에 있으면서 F(x)가 F(A_i)보다 큰 수 중 가장 왼쪽에 있는 수 
+
+from collections import Counter 
+
+N = int(input())
+A = list(map(int,input().split()))
+C = Counter(A)
+NGF = [-1] * N 
+
+stack = []
 for i in range(N):
-    while NGF and l_c[N-1-i] >= NGF[-1][0]:
-        NGF.pop()
-    if NGF:
-        results[N-1-i] = NGF[-1][1]
-    else:
-        results[N-1-i] = -1
-    NGF.append([l_r[i], l[N-i-1]])
-print(*results)
+    while stack and C[A[stack[-1]]] < C[A[i]]:
+        NGF[stack.pop()] = A[i]
+    stack.append(i)
+print(*NGF)
