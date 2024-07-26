@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 13907 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 세금 | [문제링크](https://boj.kr/13907) | [소스코드](./problems/13907번：%20세금/13907번：%20세금.py) | 2024-07-26 |
 | 13976 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 타일 채우기 2 | [문제링크](https://boj.kr/13976) | [소스코드](./problems/13976번：%20타일%20채우기%202/13976번：%20타일%20채우기%202.py) | 2024-07-25 |
 | 13308 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 주유소 | [문제링크](https://boj.kr/13308) | [소스코드](./problems/13308번：%20주유소/13308번：%20주유소.py) | 2024-07-25 |
 | 11402 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 이항 계수 4 | [문제링크](https://boj.kr/11402) | [소스코드](./problems/11402번：%20이항%20계수%204/11402번：%20이항%20계수%204.py) | 2024-07-25 |
@@ -612,6 +613,7 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 13907 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 세금 | [문제링크](https://boj.kr/13907) | [소스코드](./problems/13907번：%20세금/13907번：%20세금.py) | 2024-07-26 |
 | 11402 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 이항 계수 4 | [문제링크](https://boj.kr/11402) | [소스코드](./problems/11402번：%20이항%20계수%204/11402번：%20이항%20계수%204.py) | 2024-07-25 |
 | 1422 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 숫자의 신 | [문제링크](https://boj.kr/1422) | [소스코드](./problems/1422번：%20숫자의%20신/1422번：%20숫자의%20신.py) | 2024-07-23 |
 | 12920 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 평범한 배낭 2 | [문제링크](https://boj.kr/12920) | [소스코드](./problems/12920번：%20평범한%20배낭%202/12920번：%20평범한%20배낭%202.py) | 2024-07-22 |

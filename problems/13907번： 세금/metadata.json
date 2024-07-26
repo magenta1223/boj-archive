@@ -1,0 +1,14 @@
+{
+    "name": "세금",
+    "title": "13907번： 세금",
+    "problemNumber": "13907",
+    "date": "2024-07-26 00:10:10",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}
