@@ -1,0 +1,14 @@
+{
+    "name": "과제",
+    "title": "13904번： 과제",
+    "problemNumber": "13904",
+    "date": "2024-07-29 03:48:27",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}
