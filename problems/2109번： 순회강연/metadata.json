@@ -1,0 +1,14 @@
+{
+    "name": "순회강연",
+    "title": "2109번： 순회강연",
+    "problemNumber": "2109",
+    "date": "2024-07-30 02:36:50",
+    "tier": {
+        "name": "Gold III",
+        "abb": "G",
+        "nameColor": "#F9A518",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/13.svg",
+        "level": 13
+    }
+}

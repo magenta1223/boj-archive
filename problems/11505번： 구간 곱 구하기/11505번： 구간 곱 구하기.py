@@ -54,10 +54,10 @@ def get(idx, s, e):
         return 1 # 곱셈의 항등원 
  
     mid = (s+e)//2
-    if frm <= s and e <= to:  # 값을 구하려는 범위가 현재 subtree의 범위와 정확히 겹침 
+    if frm <= s and e <= to:  # 값을 구하려는 범위가 현재 subtree의 범위를 포함  
         return TREE[idx]
  
-    else:  # 정확히 겹치지 않음 
+    else:  # 걸침 
         l = get(idx*2, s, mid)
         r = get(idx*2+1, mid+1, e)
         return (l*r) % MOD
