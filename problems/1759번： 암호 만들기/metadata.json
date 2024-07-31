@@ -1,0 +1,14 @@
+{
+    "name": "암호 만들기",
+    "title": "1759번： 암호 만들기",
+    "problemNumber": "1759",
+    "date": "2024-07-31 04:45:13",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

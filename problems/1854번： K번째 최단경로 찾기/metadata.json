@@ -1,0 +1,14 @@
+{
+    "name": "K번째 최단경로 찾기",
+    "title": "1854번： K번째 최단경로 찾기",
+    "problemNumber": "1854",
+    "date": "2024-07-31 05:24:37",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

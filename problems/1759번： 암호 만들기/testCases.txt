@@ -1,0 +1,22 @@
+Input:(
+4 6
+a t c i s w
+)
+
+Output:(
+acis
+acit
+aciw
+acst
+acsw
+actw
+aist
+aisw
+aitw
+astw
+cist
+cisw
+citw
+istw
+)
+

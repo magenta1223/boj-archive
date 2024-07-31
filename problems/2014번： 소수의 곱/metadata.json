@@ -1,0 +1,14 @@
+{
+    "name": "소수의 곱",
+    "title": "2014번： 소수의 곱",
+    "problemNumber": "2014",
+    "date": "2024-07-31 05:02:06",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}
