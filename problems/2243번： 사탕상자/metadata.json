@@ -1,0 +1,14 @@
+{
+    "name": "사탕상자",
+    "title": "2243번： 사탕상자",
+    "problemNumber": "2243",
+    "date": "2024-08-02 08:55:58",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

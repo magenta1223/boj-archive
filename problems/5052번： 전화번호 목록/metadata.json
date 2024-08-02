@@ -1,0 +1,14 @@
+{
+    "name": "전화번호 목록",
+    "title": "5052번： 전화번호 목록",
+    "problemNumber": "5052",
+    "date": "2024-08-02 10:13:23",
+    "tier": {
+        "name": "Gold IV",
+        "abb": "G",
+        "nameColor": "#EC9A00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/12.svg",
+        "level": 12
+    }
+}

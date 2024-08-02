@@ -1,0 +1,14 @@
+{
+    "name": "트리의 높이와 너비",
+    "title": "2250번： 트리의 높이와 너비",
+    "problemNumber": "2250",
+    "date": "2024-08-02 09:16:46",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
