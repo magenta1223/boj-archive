@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2662 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 기업투자 | [문제링크](https://boj.kr/2662) | [소스코드](./problems/2662번：%20기업투자/2662번：%20기업투자.py) | 2024-08-13 |
+| 13459 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 | [문제링크](https://boj.kr/13459) | [소스코드](./problems/13459번：%20구슬%20탈출/13459번：%20구슬%20탈출.py) | 2024-08-13 |
+| 2268 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수들의 합 7 | [문제링크](https://boj.kr/2268) | [소스코드](./problems/2268번：%20수들의%20합%207/2268번：%20수들의%20합%207.py) | 2024-08-13 |
 | 5052 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 전화번호 목록 | [문제링크](https://boj.kr/5052) | [소스코드](./problems/5052번：%20전화번호%20목록/5052번：%20전화번호%20목록.py) | 2024-08-02 |
 | 9576 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 책 나눠주기 | [문제링크](https://boj.kr/9576) | [소스코드](./problems/9576번：%20책%20나눠주기/9576번：%20책%20나눠주기.py) | 2024-08-02 |
 | 2250 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리의 높이와 너비 | [문제링크](https://boj.kr/2250) | [소스코드](./problems/2250번：%20트리의%20높이와%20너비/2250번：%20트리의%20높이와%20너비.py) | 2024-08-02 |
@@ -694,6 +697,8 @@
 | 23289 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 온풍기 안녕! | [문제링크](https://boj.kr/23289) | [소스코드](./problems/23289번：%20온풍기%20안녕!/23289번：%20온풍기%20안녕!.py) | 2024-02-26 |
 | 14003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 5 | [문제링크](https://boj.kr/14003) | [소스코드](./problems/14003번：%20가장%20긴%20증가하는%20부분%20수열%205/14003번：%20가장%20긴%20증가하는%20부분%20수열%205.py) | 2024-02-06 |
 | 1725 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 히스토그램 | [문제링크](https://boj.kr/1725) | [소스코드](./problems/1725번：%20히스토그램/1725번：%20히스토그램.py) | 2023-12-29 |
+| 13459 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 | [문제링크](https://boj.kr/13459) | [소스코드](./problems/13459번：%20구슬%20탈출/13459번：%20구슬%20탈출.py) | 2024-08-13 |
+| 2268 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수들의 합 7 | [문제링크](https://boj.kr/2268) | [소스코드](./problems/2268번：%20수들의%20합%207/2268번：%20수들의%20합%207.py) | 2024-08-13 |
 | 2014 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 소수의 곱 | [문제링크](https://boj.kr/2014) | [소스코드](./problems/2014번：%20소수의%20곱/2014번：%20소수의%20곱.py) | 2024-07-31 |
 | 1275 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 커피숍2 | [문제링크](https://boj.kr/1275) | [소스코드](./problems/1275번：%20커피숍2/1275번：%20커피숍2.py) | 2024-07-30 |
 | 2718 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 타일 채우기 | [문제링크](https://boj.kr/2718) | [소스코드](./problems/2718번：%20타일%20채우기/2718번：%20타일%20채우기.py) | 2024-07-23 |
@@ -746,6 +751,7 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 2662 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 기업투자 | [문제링크](https://boj.kr/2662) | [소스코드](./problems/2662번：%20기업투자/2662번：%20기업투자.py) | 2024-08-13 |
 | 9576 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 책 나눠주기 | [문제링크](https://boj.kr/9576) | [소스코드](./problems/9576번：%20책%20나눠주기/9576번：%20책%20나눠주기.py) | 2024-08-02 |
 | 2250 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리의 높이와 너비 | [문제링크](https://boj.kr/2250) | [소스코드](./problems/2250번：%20트리의%20높이와%20너비/2250번：%20트리의%20높이와%20너비.py) | 2024-08-02 |
 | 2637 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 장난감 조립 | [문제링크](https://boj.kr/2637) | [소스코드](./problems/2637번：%20장난감%20조립/2637번：%20장난감%20조립.py) | 2024-07-30 |

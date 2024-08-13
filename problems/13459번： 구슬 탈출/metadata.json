@@ -1,0 +1,14 @@
+{
+    "name": "구슬 탈출",
+    "title": "13459번： 구슬 탈출",
+    "problemNumber": "13459",
+    "date": "2024-08-13 02:11:58",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}
