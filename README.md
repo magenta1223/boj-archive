@@ -3,6 +3,10 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2589 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 보물섬 | [문제링크](https://boj.kr/2589) | [소스코드](./problems/2589번：%20보물섬/2589번：%20보물섬.py) | 2024-08-14 |
+| 1182 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 부분수열의 합 | [문제링크](https://boj.kr/1182) | [소스코드](./problems/1182번：%20부분수열의%20합/1182번：%20부분수열의%20합.py) | 2024-08-14 |
+| 2468 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 안전 영역 | [문제링크](https://boj.kr/2468) | [소스코드](./problems/2468번：%20안전%20영역/2468번：%20안전%20영역.py) | 2024-08-14 |
+| 15653 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 4 | [문제링크](https://boj.kr/15653) | [소스코드](./problems/15653번：%20구슬%20탈출%204/15653번：%20구슬%20탈출%204.py) | 2024-08-14 |
 | 2662 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 기업투자 | [문제링크](https://boj.kr/2662) | [소스코드](./problems/2662번：%20기업투자/2662번：%20기업투자.py) | 2024-08-13 |
 | 13459 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 | [문제링크](https://boj.kr/13459) | [소스코드](./problems/13459번：%20구슬%20탈출/13459번：%20구슬%20탈출.py) | 2024-08-13 |
 | 2268 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수들의 합 7 | [문제링크](https://boj.kr/2268) | [소스코드](./problems/2268번：%20수들의%20합%207/2268번：%20수들의%20합%207.py) | 2024-08-13 |
@@ -697,6 +701,7 @@
 | 23289 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 온풍기 안녕! | [문제링크](https://boj.kr/23289) | [소스코드](./problems/23289번：%20온풍기%20안녕!/23289번：%20온풍기%20안녕!.py) | 2024-02-26 |
 | 14003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 5 | [문제링크](https://boj.kr/14003) | [소스코드](./problems/14003번：%20가장%20긴%20증가하는%20부분%20수열%205/14003번：%20가장%20긴%20증가하는%20부분%20수열%205.py) | 2024-02-06 |
 | 1725 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 히스토그램 | [문제링크](https://boj.kr/1725) | [소스코드](./problems/1725번：%20히스토그램/1725번：%20히스토그램.py) | 2023-12-29 |
+| 15653 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 4 | [문제링크](https://boj.kr/15653) | [소스코드](./problems/15653번：%20구슬%20탈출%204/15653번：%20구슬%20탈출%204.py) | 2024-08-14 |
 | 13459 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 | [문제링크](https://boj.kr/13459) | [소스코드](./problems/13459번：%20구슬%20탈출/13459번：%20구슬%20탈출.py) | 2024-08-13 |
 | 2268 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수들의 합 7 | [문제링크](https://boj.kr/2268) | [소스코드](./problems/2268번：%20수들의%20합%207/2268번：%20수들의%20합%207.py) | 2024-08-13 |
 | 2014 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 소수의 곱 | [문제링크](https://boj.kr/2014) | [소스코드](./problems/2014번：%20소수의%20곱/2014번：%20소수의%20곱.py) | 2024-07-31 |
@@ -973,6 +978,7 @@
 | 11054 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 가장 긴 바이토닉 부분 수열 | [문제링크](https://boj.kr/11054) | [소스코드](./problems/11054번：%20가장%20긴%20바이토닉%20부분%20수열/11054번：%20가장%20긴%20바이토닉%20부분%20수열.py) | 2023-12-19 |
 | 2580 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 스도쿠 | [문제링크](https://boj.kr/2580) | [소스코드](./problems/2580번：%20스도쿠/2580번：%20스도쿠.py) | 2023-12-18 |
 | 9663 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> N-Queen | [문제링크](https://boj.kr/9663) | [소스코드](./problems/9663번：%20N-Queen/9663번：%20N-Queen.py) | 2023-11-28 |
+| 2589 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 보물섬 | [문제링크](https://boj.kr/2589) | [소스코드](./problems/2589번：%20보물섬/2589번：%20보물섬.py) | 2024-08-14 |
 | 1759 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 암호 만들기 | [문제링크](https://boj.kr/1759) | [소스코드](./problems/1759번：%20암호%20만들기/1759번：%20암호%20만들기.py) | 2024-07-31 |
 | 1911 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 흙길 보수하기 | [문제링크](https://boj.kr/1911) | [소스코드](./problems/1911번：%20흙길%20보수하기/1911번：%20흙길%20보수하기.py) | 2024-07-18 |
 | 2668 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 숫자고르기 | [문제링크](https://boj.kr/2668) | [소스코드](./problems/2668번：%20숫자고르기/2668번：%20숫자고르기.py) | 2024-07-18 |
@@ -1026,6 +1032,7 @@
 | 2565 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 전깃줄 | [문제링크](https://boj.kr/2565) | [소스코드](./problems/2565번：%20전깃줄/2565번：%20전깃줄.py) | 2023-12-20 |
 | 11729 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 하노이 탑 이동 순서 | [문제링크](https://boj.kr/11729) | [소스코드](./problems/11729번：%20하노이%20탑%20이동%20순서/11729번：%20하노이%20탑%20이동%20순서.py) | 2023-11-24 |
 | 2447 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 별 찍기 - 10 | [문제링크](https://boj.kr/2447) | [소스코드](./problems/2447번：%20별%20찍기%20-%2010/2447번：%20별%20찍기%20-%2010.py) | 2023-11-24 |
+| 2468 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 안전 영역 | [문제링크](https://boj.kr/2468) | [소스코드](./problems/2468번：%20안전%20영역/2468번：%20안전%20영역.py) | 2024-08-14 |
 | 11057 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 오르막 수 | [문제링크](https://boj.kr/11057) | [소스코드](./problems/11057번：%20오르막%20수/11057번：%20오르막%20수.py) | 2024-05-03 |
 | 11052 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 카드 구매하기 | [문제링크](https://boj.kr/11052) | [소스코드](./problems/11052번：%20카드%20구매하기/11052번：%20카드%20구매하기.py) | 2024-05-02 |
 | 1991 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 트리 순회 | [문제링크](https://boj.kr/1991) | [소스코드](./problems/1991번：%20트리%20순회/1991번：%20트리%20순회.py) | 2024-03-30 |
@@ -1057,6 +1064,7 @@
 | 1149 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> RGB거리 | [문제링크](https://boj.kr/1149) | [소스코드](./problems/1149번：%20RGB거리/1149번：%20RGB거리.py) | 2023-12-18 |
 | 14889 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 스타트와 링크 | [문제링크](https://boj.kr/14889) | [소스코드](./problems/14889번：%20스타트와%20링크/14889번：%20스타트와%20링크.py) | 2023-12-18 |
 | 14888 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> 연산자 끼워넣기 | [문제링크](https://boj.kr/14888) | [소스코드](./problems/14888번：%20연산자%20끼워넣기/14888번：%20연산자%20끼워넣기.py) | 2023-12-18 |
+| 1182 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 부분수열의 합 | [문제링크](https://boj.kr/1182) | [소스코드](./problems/1182번：%20부분수열의%20합/1182번：%20부분수열의%20합.py) | 2024-08-14 |
 | 24913 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 개표 | [문제링크](https://boj.kr/24913) | [소스코드](./problems/24913번：%20개표/24913번：%20개표.py) | 2024-07-19 |
 | 22971 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 증가하는 부분 수열의 개수 | [문제링크](https://boj.kr/22971) | [소스코드](./problems/22971번：%20증가하는%20부분%20수열의%20개수/22971번：%20증가하는%20부분%20수열의%20개수.py) | 2024-07-19 |
 | 31937 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 로그프레소 마에스트로 | [문제링크](https://boj.kr/31937) | [소스코드](./problems/31937번：%20로그프레소%20마에스트로/31937번：%20로그프레소%20마에스트로.py) | 2024-07-11 |

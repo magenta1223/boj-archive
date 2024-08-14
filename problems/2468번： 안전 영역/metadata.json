@@ -1,0 +1,14 @@
+{
+    "name": "안전 영역",
+    "title": "2468번： 안전 영역",
+    "problemNumber": "2468",
+    "date": "2024-08-14 00:38:44",
+    "tier": {
+        "name": "Silver I",
+        "abb": "S",
+        "nameColor": "#D28500",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/10.svg",
+        "level": 10
+    }
+}

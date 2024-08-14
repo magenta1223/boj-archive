@@ -1,0 +1,14 @@
+{
+    "name": "보물섬",
+    "title": "2589번： 보물섬",
+    "problemNumber": "2589",
+    "date": "2024-08-14 01:17:10",
+    "tier": {
+        "name": "Gold V",
+        "abb": "G",
+        "nameColor": "#DF8F00",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/11.svg",
+        "level": 11
+    }
+}

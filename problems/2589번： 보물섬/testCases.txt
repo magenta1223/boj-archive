@@ -1,0 +1,13 @@
+Input:(
+5 7
+WLLWWWL
+LLLWLLL
+LWLWLWW
+LWLWLLL
+WLLWLWW
+)
+
+Output:(
+8
+)
+
