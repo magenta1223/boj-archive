@@ -1,0 +1,14 @@
+{
+    "name": "오일러 회로",
+    "title": "1199번： 오일러 회로",
+    "problemNumber": "1199",
+    "date": "2024-08-21 07:32:04",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

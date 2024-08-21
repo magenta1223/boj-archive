@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
+| 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
 | 1280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 나무 심기 | [문제링크](https://boj.kr/1280) | [소스코드](./problems/1280번：%20나무%20심기/1280번：%20나무%20심기.py) | 2024-08-15 |
 | 2589 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 보물섬 | [문제링크](https://boj.kr/2589) | [소스코드](./problems/2589번：%20보물섬/2589번：%20보물섬.py) | 2024-08-14 |
 | 1182 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 부분수열의 합 | [문제링크](https://boj.kr/1182) | [소스코드](./problems/1182번：%20부분수열의%20합/1182번：%20부분수열의%20합.py) | 2024-08-14 |
@@ -635,6 +637,8 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
+| 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
 | 1280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 나무 심기 | [문제링크](https://boj.kr/1280) | [소스코드](./problems/1280번：%20나무%20심기/1280번：%20나무%20심기.py) | 2024-08-15 |
 | 1854 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> K번째 최단경로 찾기 | [문제링크](https://boj.kr/1854) | [소스코드](./problems/1854번：%20K번째%20최단경로%20찾기/1854번：%20K번째%20최단경로%20찾기.py) | 2024-07-31 |
 | 13907 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 세금 | [문제링크](https://boj.kr/13907) | [소스코드](./problems/13907번：%20세금/13907번：%20세금.py) | 2024-07-26 |
