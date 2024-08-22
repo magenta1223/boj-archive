@@ -5,6 +5,8 @@
 | --- | --- | --- | --- | --- |
 | 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
 | 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
+| 2842 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 집배원 한상덕 | [문제링크](https://boj.kr/2842) | [소스코드](./problems/2842번：%20집배원%20한상덕/2842번：%20집배원%20한상덕.py) | 2024-08-20 |
+| 3955 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 캔디 분배 | [문제링크](https://boj.kr/3955) | [소스코드](./problems/3955번：%20캔디%20분배/3955번：%20캔디%20분배.py) | 2024-08-20 |
 | 1280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 나무 심기 | [문제링크](https://boj.kr/1280) | [소스코드](./problems/1280번：%20나무%20심기/1280번：%20나무%20심기.py) | 2024-08-15 |
 | 2589 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 보물섬 | [문제링크](https://boj.kr/2589) | [소스코드](./problems/2589번：%20보물섬/2589번：%20보물섬.py) | 2024-08-14 |
 | 1182 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 부분수열의 합 | [문제링크](https://boj.kr/1182) | [소스코드](./problems/1182번：%20부분수열의%20합/1182번：%20부분수열의%20합.py) | 2024-08-14 |
@@ -639,6 +641,7 @@
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
 | 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
 | 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
+| 2842 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 집배원 한상덕 | [문제링크](https://boj.kr/2842) | [소스코드](./problems/2842번：%20집배원%20한상덕/2842번：%20집배원%20한상덕.py) | 2024-08-20 |
 | 1280 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 나무 심기 | [문제링크](https://boj.kr/1280) | [소스코드](./problems/1280번：%20나무%20심기/1280번：%20나무%20심기.py) | 2024-08-15 |
 | 1854 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> K번째 최단경로 찾기 | [문제링크](https://boj.kr/1854) | [소스코드](./problems/1854번：%20K번째%20최단경로%20찾기/1854번：%20K번째%20최단경로%20찾기.py) | 2024-07-31 |
 | 13907 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 세금 | [문제링크](https://boj.kr/13907) | [소스코드](./problems/13907번：%20세금/13907번：%20세금.py) | 2024-07-26 |
@@ -661,6 +664,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 3955 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 캔디 분배 | [문제링크](https://boj.kr/3955) | [소스코드](./problems/3955번：%20캔디%20분배/3955번：%20캔디%20분배.py) | 2024-08-20 |
 | 2243 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 사탕상자 | [문제링크](https://boj.kr/2243) | [소스코드](./problems/2243번：%20사탕상자/2243번：%20사탕상자.py) | 2024-08-02 |
 | 11003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 최솟값 찾기 | [문제링크](https://boj.kr/11003) | [소스코드](./problems/11003번：%20최솟값%20찾기/11003번：%20최솟값%20찾기.py) | 2024-07-30 |
 | 17831 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 대기업 승범이네 | [문제링크](https://boj.kr/17831) | [소스코드](./problems/17831번：%20대기업%20승범이네/17831번：%20대기업%20승범이네.py) | 2024-07-29 |
