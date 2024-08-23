@@ -1,0 +1,14 @@
+{
+    "name": "이사",
+    "title": "17371번： 이사",
+    "problemNumber": "17371",
+    "date": "2024-08-23 05:02:09",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

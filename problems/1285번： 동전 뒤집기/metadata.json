@@ -1,0 +1,14 @@
+{
+    "name": "동전 뒤집기",
+    "title": "1285번： 동전 뒤집기",
+    "problemNumber": "1285",
+    "date": "2024-08-23 07:22:35",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1285 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 동전 뒤집기 | [문제링크](https://boj.kr/1285) | [소스코드](./problems/1285번：%20동전%20뒤집기/1285번：%20동전%20뒤집기.py) | 2024-08-23 |
+| 9202 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Boggle | [문제링크](https://boj.kr/9202) | [소스코드](./problems/9202번：%20Boggle/9202번：%20Boggle.py) | 2024-08-23 |
+| 17371 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이사 | [문제링크](https://boj.kr/17371) | [소스코드](./problems/17371번：%20이사/17371번：%20이사.py) | 2024-08-23 |
 | 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
 | 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
 | 2842 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 집배원 한상덕 | [문제링크](https://boj.kr/2842) | [소스코드](./problems/2842번：%20집배원%20한상덕/2842번：%20집배원%20한상덕.py) | 2024-08-20 |
@@ -664,6 +667,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 9202 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Boggle | [문제링크](https://boj.kr/9202) | [소스코드](./problems/9202번：%20Boggle/9202번：%20Boggle.py) | 2024-08-23 |
 | 3955 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 캔디 분배 | [문제링크](https://boj.kr/3955) | [소스코드](./problems/3955번：%20캔디%20분배/3955번：%20캔디%20분배.py) | 2024-08-20 |
 | 2243 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 사탕상자 | [문제링크](https://boj.kr/2243) | [소스코드](./problems/2243번：%20사탕상자/2243번：%20사탕상자.py) | 2024-08-02 |
 | 11003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 최솟값 찾기 | [문제링크](https://boj.kr/11003) | [소스코드](./problems/11003번：%20최솟값%20찾기/11003번：%20최솟값%20찾기.py) | 2024-07-30 |
@@ -711,6 +715,8 @@
 | 23289 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 온풍기 안녕! | [문제링크](https://boj.kr/23289) | [소스코드](./problems/23289번：%20온풍기%20안녕!/23289번：%20온풍기%20안녕!.py) | 2024-02-26 |
 | 14003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 5 | [문제링크](https://boj.kr/14003) | [소스코드](./problems/14003번：%20가장%20긴%20증가하는%20부분%20수열%205/14003번：%20가장%20긴%20증가하는%20부분%20수열%205.py) | 2024-02-06 |
 | 1725 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 히스토그램 | [문제링크](https://boj.kr/1725) | [소스코드](./problems/1725번：%20히스토그램/1725번：%20히스토그램.py) | 2023-12-29 |
+| 1285 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 동전 뒤집기 | [문제링크](https://boj.kr/1285) | [소스코드](./problems/1285번：%20동전%20뒤집기/1285번：%20동전%20뒤집기.py) | 2024-08-23 |
+| 17371 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이사 | [문제링크](https://boj.kr/17371) | [소스코드](./problems/17371번：%20이사/17371번：%20이사.py) | 2024-08-23 |
 | 15653 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 4 | [문제링크](https://boj.kr/15653) | [소스코드](./problems/15653번：%20구슬%20탈출%204/15653번：%20구슬%20탈출%204.py) | 2024-08-14 |
 | 13459 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 | [문제링크](https://boj.kr/13459) | [소스코드](./problems/13459번：%20구슬%20탈출/13459번：%20구슬%20탈출.py) | 2024-08-13 |
 | 2268 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 수들의 합 7 | [문제링크](https://boj.kr/2268) | [소스코드](./problems/2268번：%20수들의%20합%207/2268번：%20수들의%20합%207.py) | 2024-08-13 |
