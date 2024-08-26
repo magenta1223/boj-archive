@@ -1,0 +1,14 @@
+{
+    "name": "도로",
+    "title": "1045번： 도로",
+    "problemNumber": "1045",
+    "date": "2024-08-26 03:01:28",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

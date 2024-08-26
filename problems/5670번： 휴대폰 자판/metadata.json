@@ -1,0 +1,14 @@
+{
+    "name": "휴대폰 자판",
+    "title": "5670번： 휴대폰 자판",
+    "problemNumber": "5670",
+    "date": "2024-08-26 01:12:41",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

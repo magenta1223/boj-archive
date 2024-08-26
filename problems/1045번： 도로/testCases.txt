@@ -1,0 +1,65 @@
+Input:(
+3 2
+NYY
+YNY
+YYN
+)
+
+Output:(
+2 1 1
+)
+
+Input:(
+5 10
+NYYYY
+YNYYY
+YYNYY
+YYYNY
+YYYYN
+)
+
+Output:(
+4 4 4 4 4
+)
+
+Input:(
+5 4
+NYNNY
+YNNNY
+NNNNN
+NNNNY
+YYNYN
+)
+
+Output:(
+-1
+)
+
+Input:(
+8 10
+NYYNYYYN
+YNNNNYYN
+YNNNYNNN
+NNNNNNYY
+YNYNNNNN
+YYNNNNYY
+YYNYNYNY
+NNNYNYYN
+)
+
+Output:(
+5 3 2 2 2 2 3 1
+)
+
+Input:(
+4 5
+NNYY
+NNYY
+YYNN
+YYNN
+)
+
+Output:(
+-1
+)
+
