@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
+| 3653 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 영화 수집 | [문제링크](https://boj.kr/3653) | [소스코드](./problems/3653번：%20영화%20수집/3653번：%20영화%20수집.py) | 2024-09-03 |
 | 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
 | 17071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 숨바꼭질 5 | [문제링크](https://boj.kr/17071) | [소스코드](./problems/17071번：%20숨바꼭질%205/17071번：%20숨바꼭질%205.py) | 2024-09-02 |
 | 16985 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> Maaaaaaaaaze | [문제링크](https://boj.kr/16985) | [소스코드](./problems/16985번：%20Maaaaaaaaaze/16985번：%20Maaaaaaaaaze.py) | 2024-08-30 |
@@ -649,6 +651,8 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
+| 3653 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 영화 수집 | [문제링크](https://boj.kr/3653) | [소스코드](./problems/3653번：%20영화%20수집/3653번：%20영화%20수집.py) | 2024-09-03 |
 | 5670 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 휴대폰 자판 | [문제링크](https://boj.kr/5670) | [소스코드](./problems/5670번：%20휴대폰%20자판/5670번：%20휴대폰%20자판.py) | 2024-08-26 |
 | 2517 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 달리기 | [문제링크](https://boj.kr/2517) | [소스코드](./problems/2517번：%20달리기/2517번：%20달리기.py) | 2024-08-21 |
 | 1199 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 오일러 회로 | [문제링크](https://boj.kr/1199) | [소스코드](./problems/1199번：%20오일러%20회로/1199번：%20오일러%20회로.py) | 2024-08-21 |
