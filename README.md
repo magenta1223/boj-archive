@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
+| 17071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 숨바꼭질 5 | [문제링크](https://boj.kr/17071) | [소스코드](./problems/17071번：%20숨바꼭질%205/17071번：%20숨바꼭질%205.py) | 2024-09-02 |
 | 16985 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> Maaaaaaaaaze | [문제링크](https://boj.kr/16985) | [소스코드](./problems/16985번：%20Maaaaaaaaaze/16985번：%20Maaaaaaaaaze.py) | 2024-08-30 |
 | 9426 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 측정 | [문제링크](https://boj.kr/9426) | [소스코드](./problems/9426번：%20중앙값%20측정/9426번：%20중앙값%20측정.py) | 2024-08-28 |
 | 1045 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 도로 | [문제링크](https://boj.kr/1045) | [소스코드](./problems/1045번：%20도로/1045번：%20도로.py) | 2024-08-26 |
@@ -673,6 +675,8 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
+| 17071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 숨바꼭질 5 | [문제링크](https://boj.kr/17071) | [소스코드](./problems/17071번：%20숨바꼭질%205/17071번：%20숨바꼭질%205.py) | 2024-09-02 |
 | 9426 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 측정 | [문제링크](https://boj.kr/9426) | [소스코드](./problems/9426번：%20중앙값%20측정/9426번：%20중앙값%20측정.py) | 2024-08-28 |
 | 9202 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Boggle | [문제링크](https://boj.kr/9202) | [소스코드](./problems/9202번：%20Boggle/9202번：%20Boggle.py) | 2024-08-23 |
 | 3955 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 캔디 분배 | [문제링크](https://boj.kr/3955) | [소스코드](./problems/3955번：%20캔디%20분배/3955번：%20캔디%20분배.py) | 2024-08-20 |

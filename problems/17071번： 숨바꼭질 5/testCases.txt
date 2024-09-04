@@ -1,0 +1,48 @@
+Input:(
+5 17
+)
+
+Output:(
+2
+)
+
+Input:(
+17 5
+)
+
+Output:(
+4
+)
+
+Input:(
+6 6
+)
+
+Output:(
+0
+)
+
+Input:(
+1 500000
+)
+
+Output:(
+-1
+)
+
+Input:(
+250000 499999
+)
+
+Output:(
+1
+)
+
+Input:(
+1 10
+)
+
+Output:(
+6
+)
+
