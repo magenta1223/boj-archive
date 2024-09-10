@@ -1,0 +1,14 @@
+{
+    "name": "검열",
+    "title": "3111번： 검열",
+    "problemNumber": "3111",
+    "date": "2024-09-04 07:38:34",
+    "tier": {
+        "name": "Platinum IV",
+        "abb": "P",
+        "nameColor": "#27E2A4",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/17.svg",
+        "level": 17
+    }
+}

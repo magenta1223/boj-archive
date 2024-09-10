@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |
+| 3111 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 검열 | [문제링크](https://boj.kr/3111) | [소스코드](./problems/3111번：%20검열/3111번：%20검열.py) | 2024-09-04 |
 | 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
 | 3653 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 영화 수집 | [문제링크](https://boj.kr/3653) | [소스코드](./problems/3653번：%20영화%20수집/3653번：%20영화%20수집.py) | 2024-09-03 |
 | 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
@@ -651,6 +653,7 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 3111 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 검열 | [문제링크](https://boj.kr/3111) | [소스코드](./problems/3111번：%20검열/3111번：%20검열.py) | 2024-09-04 |
 | 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
 | 3653 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 영화 수집 | [문제링크](https://boj.kr/3653) | [소스코드](./problems/3653번：%20영화%20수집/3653번：%20영화%20수집.py) | 2024-09-03 |
 | 5670 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 휴대폰 자판 | [문제링크](https://boj.kr/5670) | [소스코드](./problems/5670번：%20휴대폰%20자판/5670번：%20휴대폰%20자판.py) | 2024-08-26 |
@@ -679,6 +682,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |
 | 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
 | 17071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 숨바꼭질 5 | [문제링크](https://boj.kr/17071) | [소스코드](./problems/17071번：%20숨바꼭질%205/17071번：%20숨바꼭질%205.py) | 2024-09-02 |
 | 9426 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 측정 | [문제링크](https://boj.kr/9426) | [소스코드](./problems/9426번：%20중앙값%20측정/9426번：%20중앙값%20측정.py) | 2024-08-28 |
