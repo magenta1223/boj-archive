@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-09-11 |
 | 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |
 | 3111 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 검열 | [문제링크](https://boj.kr/3111) | [소스코드](./problems/3111번：%20검열/3111번：%20검열.py) | 2024-09-04 |
 | 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
@@ -792,6 +793,7 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-09-11 |
 | 16985 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> Maaaaaaaaaze | [문제링크](https://boj.kr/16985) | [소스코드](./problems/16985번：%20Maaaaaaaaaze/16985번：%20Maaaaaaaaaze.py) | 2024-08-30 |
 | 2662 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 기업투자 | [문제링크](https://boj.kr/2662) | [소스코드](./problems/2662번：%20기업투자/2662번：%20기업투자.py) | 2024-08-13 |
 | 9576 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 책 나눠주기 | [문제링크](https://boj.kr/9576) | [소스코드](./problems/9576번：%20책%20나눠주기/9576번：%20책%20나눠주기.py) | 2024-08-02 |
