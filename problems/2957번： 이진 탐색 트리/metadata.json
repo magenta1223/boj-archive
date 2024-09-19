@@ -1,0 +1,14 @@
+{
+    "name": "이진 탐색 트리",
+    "title": "2957번： 이진 탐색 트리",
+    "problemNumber": "2957",
+    "date": "2024-09-12 06:03:02",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}

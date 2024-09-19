@@ -3,6 +3,7 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2957 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 이진 탐색 트리 | [문제링크](https://boj.kr/2957) | [소스코드](./problems/2957번：%20이진%20탐색%20트리/2957번：%20이진%20탐색%20트리.py) | 2024-09-12 |
 | 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-09-11 |
 | 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |
 | 3111 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 검열 | [문제링크](https://boj.kr/3111) | [소스코드](./problems/3111번：%20검열/3111번：%20검열.py) | 2024-09-04 |
@@ -393,7 +394,6 @@
 | 1074 번 | <img src="https://static.solved.ac/tier_small/10.svg" style="height:20px"> Z | [문제링크](https://boj.kr/1074) | [소스코드](./problems/1074번：%20Z/1074번：%20Z.py) | 2024-03-04 |
 | 1003 번 | <img src="https://static.solved.ac/tier_small/8.svg" style="height:20px"> 피보나치 함수 | [문제링크](https://boj.kr/1003) | [소스코드](./problems/1003번：%20피보나치%20함수/1003번：%20피보나치%20함수.py) | 2024-03-04 |
 | 1981 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 배열에서 이동 | [문제링크](https://boj.kr/1981) | [소스코드](./problems/1981번：%20배열에서%20이동/1981번：%20배열에서%20이동.py) | 2024-03-04 |
-| 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-03-04 |
 | 1976 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> 여행 가자 | [문제링크](https://boj.kr/1976) | [소스코드](./problems/1976번：%20여행%20가자/1976번：%20여행%20가자.py) | 2024-03-04 |
 | 1717 번 | <img src="https://static.solved.ac/tier_small/11.svg" style="height:20px"> 집합의 표현 | [문제링크](https://boj.kr/1717) | [소스코드](./problems/1717번：%20집합의%20표현/1717번：%20집합의%20표현.py) | 2024-03-04 |
 | 17404 번 | <img src="https://static.solved.ac/tier_small/12.svg" style="height:20px"> RGB거리 2 | [문제링크](https://boj.kr/17404) | [소스코드](./problems/17404번：%20RGB거리%202/17404번：%20RGB거리%202.py) | 2024-03-03 |
@@ -683,6 +683,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 2957 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 이진 탐색 트리 | [문제링크](https://boj.kr/2957) | [소스코드](./problems/2957번：%20이진%20탐색%20트리/2957번：%20이진%20탐색%20트리.py) | 2024-09-12 |
 | 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |
 | 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
 | 17071 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 숨바꼭질 5 | [문제링크](https://boj.kr/17071) | [소스코드](./problems/17071번：%20숨바꼭질%205/17071번：%20숨바꼭질%205.py) | 2024-09-02 |
@@ -844,7 +845,6 @@
 | 5213 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 과외맨 | [문제링크](https://boj.kr/5213) | [소스코드](./problems/5213번：%20과외맨/5213번：%20과외맨.py) | 2024-03-08 |
 | 3108 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 로고 | [문제링크](https://boj.kr/3108) | [소스코드](./problems/3108번：%20로고/3108번：%20로고.py) | 2024-03-07 |
 | 1167 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 트리의 지름 | [문제링크](https://boj.kr/1167) | [소스코드](./problems/1167번：%20트리의%20지름/1167번：%20트리의%20지름.py) | 2024-03-06 |
-| 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-03-04 |
 | 16946 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 벽 부수고 이동하기 4 | [문제링크](https://boj.kr/16946) | [소스코드](./problems/16946번：%20벽%20부수고%20이동하기%204/16946번：%20벽%20부수고%20이동하기%204.py) | 2024-02-29 |
 | 1039 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 교환 | [문제링크](https://boj.kr/1039) | [소스코드](./problems/1039번：%20교환/1039번：%20교환.py) | 2024-02-28 |
 | 2749 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 피보나치 수 3 | [문제링크](https://boj.kr/2749) | [소스코드](./problems/2749번：%20피보나치%20수%203/2749번：%20피보나치%20수%203.py) | 2024-02-27 |
