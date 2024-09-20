@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 13306 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/13306) | [소스코드](./problems/13306번：%20트리/13306번：%20트리.py) | 2024-09-20 |
+| 1572 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 | [문제링크](https://boj.kr/1572) | [소스코드](./problems/1572번：%20중앙값/1572번：%20중앙값.py) | 2024-09-20 |
 | 19235 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 모노미노도미노 | [문제링크](https://boj.kr/19235) | [소스코드](./problems/19235번：%20모노미노도미노/19235번：%20모노미노도미노.py) | 2024-09-19 |
 | 1615 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 교차개수세기 | [문제링크](https://boj.kr/1615) | [소스코드](./problems/1615번：%20교차개수세기/1615번：%20교차개수세기.py) | 2024-09-19 |
 | 2957 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 이진 탐색 트리 | [문제링크](https://boj.kr/2957) | [소스코드](./problems/2957번：%20이진%20탐색%20트리/2957번：%20이진%20탐색%20트리.py) | 2024-09-12 |
@@ -656,6 +658,7 @@
 | 13511 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 트리와 쿼리 2 | [문제링크](https://boj.kr/13511) | [소스코드](./problems/13511번：%20트리와%20쿼리%202/13511번：%20트리와%20쿼리%202.py) | 2024-04-12 |
 | 1315 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> RPG | [문제링크](https://boj.kr/1315) | [소스코드](./problems/1315번：%20RPG/1315번：%20RPG.py) | 2024-03-29 |
 | 3830 번 | <img src="https://static.solved.ac/tier_small/18.svg" style="height:20px"> 교수님은 기다리지 않는다 | [문제링크](https://boj.kr/3830) | [소스코드](./problems/3830번：%20교수님은%20기다리지%20않는다/3830번：%20교수님은%20기다리지%20않는다.py) | 2024-03-06 |
+| 13306 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/13306) | [소스코드](./problems/13306번：%20트리/13306번：%20트리.py) | 2024-09-20 |
 | 3111 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 검열 | [문제링크](https://boj.kr/3111) | [소스코드](./problems/3111번：%20검열/3111번：%20검열.py) | 2024-09-04 |
 | 14868 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 문명 | [문제링크](https://boj.kr/14868) | [소스코드](./problems/14868번：%20문명/14868번：%20문명.py) | 2024-09-03 |
 | 3653 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 영화 수집 | [문제링크](https://boj.kr/3653) | [소스코드](./problems/3653번：%20영화%20수집/3653번：%20영화%20수집.py) | 2024-09-03 |
@@ -685,6 +688,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 1572 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 | [문제링크](https://boj.kr/1572) | [소스코드](./problems/1572번：%20중앙값/1572번：%20중앙값.py) | 2024-09-20 |
 | 19235 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 모노미노도미노 | [문제링크](https://boj.kr/19235) | [소스코드](./problems/19235번：%20모노미노도미노/19235번：%20모노미노도미노.py) | 2024-09-19 |
 | 2957 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 이진 탐색 트리 | [문제링크](https://boj.kr/2957) | [소스코드](./problems/2957번：%20이진%20탐색%20트리/2957번：%20이진%20탐색%20트리.py) | 2024-09-12 |
 | 1306 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 달려라 홍준 | [문제링크](https://boj.kr/1306) | [소스코드](./problems/1306번：%20달려라%20홍준/1306번：%20달려라%20홍준.py) | 2024-09-06 |

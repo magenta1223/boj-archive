@@ -1,0 +1,14 @@
+{
+    "name": "중앙값",
+    "title": "1572번： 중앙값",
+    "problemNumber": "1572",
+    "date": "2024-09-20 06:56:04",
+    "tier": {
+        "name": "Platinum V",
+        "abb": "P",
+        "nameColor": "#00D497",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/16.svg",
+        "level": 16
+    }
+}
