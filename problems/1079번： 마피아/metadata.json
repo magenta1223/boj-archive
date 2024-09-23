@@ -1,0 +1,14 @@
+{
+    "name": "마피아",
+    "title": "1079번： 마피아",
+    "problemNumber": "1079",
+    "date": "2024-09-23 07:04:09",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

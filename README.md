@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1079 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 마피아 | [문제링크](https://boj.kr/1079) | [소스코드](./problems/1079번：%20마피아/1079번：%20마피아.py) | 2024-09-23 |
+| 1214 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 쿨한 물건 구매 | [문제링크](https://boj.kr/1214) | [소스코드](./problems/1214번：%20쿨한%20물건%20구매/1214번：%20쿨한%20물건%20구매.py) | 2024-09-23 |
 | 13306 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/13306) | [소스코드](./problems/13306번：%20트리/13306번：%20트리.py) | 2024-09-20 |
 | 1572 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 | [문제링크](https://boj.kr/1572) | [소스코드](./problems/1572번：%20중앙값/1572번：%20중앙값.py) | 2024-09-20 |
 | 19235 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 모노미노도미노 | [문제링크](https://boj.kr/19235) | [소스코드](./problems/19235번：%20모노미노도미노/19235번：%20모노미노도미노.py) | 2024-09-19 |
@@ -688,6 +690,7 @@
 | 1637 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 날카로운 눈 | [문제링크](https://boj.kr/1637) | [소스코드](./problems/1637번：%20날카로운%20눈/1637번：%20날카로운%20눈.py) | 2024-03-12 |
 | 9376 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 탈옥 | [문제링크](https://boj.kr/9376) | [소스코드](./problems/9376번：%20탈옥/9376번：%20탈옥.py) | 2024-03-05 |
 | 10217 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> KCM Travel | [문제링크](https://boj.kr/10217) | [소스코드](./problems/10217번：%20KCM%20Travel/10217번：%20KCM%20Travel.py) | 2024-03-05 |
+| 1214 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 쿨한 물건 구매 | [문제링크](https://boj.kr/1214) | [소스코드](./problems/1214번：%20쿨한%20물건%20구매/1214번：%20쿨한%20물건%20구매.py) | 2024-09-23 |
 | 1572 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 | [문제링크](https://boj.kr/1572) | [소스코드](./problems/1572번：%20중앙값/1572번：%20중앙값.py) | 2024-09-20 |
 | 19235 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 모노미노도미노 | [문제링크](https://boj.kr/19235) | [소스코드](./problems/19235번：%20모노미노도미노/19235번：%20모노미노도미노.py) | 2024-09-19 |
 | 2957 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 이진 탐색 트리 | [문제링크](https://boj.kr/2957) | [소스코드](./problems/2957번：%20이진%20탐색%20트리/2957번：%20이진%20탐색%20트리.py) | 2024-09-12 |
@@ -802,6 +805,7 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 1079 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 마피아 | [문제링크](https://boj.kr/1079) | [소스코드](./problems/1079번：%20마피아/1079번：%20마피아.py) | 2024-09-23 |
 | 10775 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 공항 | [문제링크](https://boj.kr/10775) | [소스코드](./problems/10775번：%20공항/10775번：%20공항.py) | 2024-09-11 |
 | 16985 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> Maaaaaaaaaze | [문제링크](https://boj.kr/16985) | [소스코드](./problems/16985번：%20Maaaaaaaaaze/16985번：%20Maaaaaaaaaze.py) | 2024-08-30 |
 | 2662 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 기업투자 | [문제링크](https://boj.kr/2662) | [소스코드](./problems/2662번：%20기업투자/2662번：%20기업투자.py) | 2024-08-13 |
