@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 3954 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> Brainf＊＊k 인터프리터 | [문제링크](https://boj.kr/3954) | [소스코드](./problems/3954번：%20Brainf＊＊k%20인터프리터/3954번：%20Brainf＊＊k%20인터프리터.py) | 2024-09-24 |
+| 5676 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 음주 코딩 | [문제링크](https://boj.kr/5676) | [소스코드](./problems/5676번：%20음주%20코딩/5676번：%20음주%20코딩.py) | 2024-09-24 |
 | 1079 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 마피아 | [문제링크](https://boj.kr/1079) | [소스코드](./problems/1079번：%20마피아/1079번：%20마피아.py) | 2024-09-23 |
 | 1214 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 쿨한 물건 구매 | [문제링크](https://boj.kr/1214) | [소스코드](./problems/1214번：%20쿨한%20물건%20구매/1214번：%20쿨한%20물건%20구매.py) | 2024-09-23 |
 | 13306 번 | <img src="https://static.solved.ac/tier_small/17.svg" style="height:20px"> 트리 | [문제링크](https://boj.kr/13306) | [소스코드](./problems/13306번：%20트리/13306번：%20트리.py) | 2024-09-20 |
@@ -746,6 +748,8 @@
 | 23289 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 온풍기 안녕! | [문제링크](https://boj.kr/23289) | [소스코드](./problems/23289번：%20온풍기%20안녕!/23289번：%20온풍기%20안녕!.py) | 2024-02-26 |
 | 14003 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 가장 긴 증가하는 부분 수열 5 | [문제링크](https://boj.kr/14003) | [소스코드](./problems/14003번：%20가장%20긴%20증가하는%20부분%20수열%205/14003번：%20가장%20긴%20증가하는%20부분%20수열%205.py) | 2024-02-06 |
 | 1725 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 히스토그램 | [문제링크](https://boj.kr/1725) | [소스코드](./problems/1725번：%20히스토그램/1725번：%20히스토그램.py) | 2023-12-29 |
+| 3954 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> Brainf＊＊k 인터프리터 | [문제링크](https://boj.kr/3954) | [소스코드](./problems/3954번：%20Brainf＊＊k%20인터프리터/3954번：%20Brainf＊＊k%20인터프리터.py) | 2024-09-24 |
+| 5676 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 음주 코딩 | [문제링크](https://boj.kr/5676) | [소스코드](./problems/5676번：%20음주%20코딩/5676번：%20음주%20코딩.py) | 2024-09-24 |
 | 1615 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 교차개수세기 | [문제링크](https://boj.kr/1615) | [소스코드](./problems/1615번：%20교차개수세기/1615번：%20교차개수세기.py) | 2024-09-19 |
 | 1045 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 도로 | [문제링크](https://boj.kr/1045) | [소스코드](./problems/1045번：%20도로/1045번：%20도로.py) | 2024-08-26 |
 | 1285 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 동전 뒤집기 | [문제링크](https://boj.kr/1285) | [소스코드](./problems/1285번：%20동전%20뒤집기/1285번：%20동전%20뒤집기.py) | 2024-08-23 |

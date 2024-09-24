@@ -1,0 +1,23 @@
+Input:(
+4
+10 4 3
++-.,
+qwe
+1000 5 1
++[+-]
+a
+100 74 4
++++++[-&gt;++&lt;]&gt;[-&lt;+++++++&gt;]&lt;[-&gt;+&gt;+&gt;+&gt;+&lt;&lt;&lt;&lt;]&gt;+++&gt;---&gt;++++++++++&gt;---&lt;&lt;&lt;.&gt;.&gt;.&gt;.
+xxyz
+9999 52 14
++++++[&gt;+++++++++&lt;-],+[-[&gt;--.++&gt;+&lt;&lt;-]&gt;+.-&gt;[&lt;.&gt;-]&lt;&lt;,+]
+this_is_a_test
+)
+
+Output:(
+Terminates
+Loops 1 4
+Terminates
+Terminates
+)
+
