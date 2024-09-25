@@ -1,0 +1,14 @@
+{
+    "name": "가계부 (Hard)",
+    "title": "12837번： 가계부 (Hard)",
+    "problemNumber": "12837",
+    "date": "2024-09-25 06:32:57",
+    "tier": {
+        "name": "Gold I",
+        "abb": "G",
+        "nameColor": "#00C78B",
+        "abbColor": "#27E2A4",
+        "svg": "https://static.solved.ac/tier_small/15.svg",
+        "level": 15
+    }
+}

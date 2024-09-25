@@ -1,0 +1,14 @@
+{
+    "name": "중앙값 구하기",
+    "title": "2696번： 중앙값 구하기",
+    "problemNumber": "2696",
+    "date": "2024-09-25 05:58:18",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
