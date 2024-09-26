@@ -3,6 +3,9 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1493 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 박스 채우기 | [문제링크](https://boj.kr/1493) | [소스코드](./problems/1493번：%20박스%20채우기/1493번：%20박스%20채우기.py) | 2024-09-26 |
+| 7570 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 줄 세우기 | [문제링크](https://boj.kr/7570) | [소스코드](./problems/7570번：%20줄%20세우기/7570번：%20줄%20세우기.py) | 2024-09-26 |
+| 2610 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 회의준비 | [문제링크](https://boj.kr/2610) | [소스코드](./problems/2610번：%20회의준비/2610번：%20회의준비.py) | 2024-09-26 |
 | 12837 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 가계부 (Hard) | [문제링크](https://boj.kr/12837) | [소스코드](./problems/12837번：%20가계부%20(Hard)/12837번：%20가계부%20(Hard).py) | 2024-09-25 |
 | 2696 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 중앙값 구하기 | [문제링크](https://boj.kr/2696) | [소스코드](./problems/2696번：%20중앙값%20구하기/2696번：%20중앙값%20구하기.py) | 2024-09-25 |
 | 1938 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 통나무 옮기기 | [문제링크](https://boj.kr/1938) | [소스코드](./problems/1938번：%20통나무%20옮기기/1938번：%20통나무%20옮기기.py) | 2024-09-25 |
@@ -813,6 +816,9 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 1493 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 박스 채우기 | [문제링크](https://boj.kr/1493) | [소스코드](./problems/1493번：%20박스%20채우기/1493번：%20박스%20채우기.py) | 2024-09-26 |
+| 7570 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 줄 세우기 | [문제링크](https://boj.kr/7570) | [소스코드](./problems/7570번：%20줄%20세우기/7570번：%20줄%20세우기.py) | 2024-09-26 |
+| 2610 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 회의준비 | [문제링크](https://boj.kr/2610) | [소스코드](./problems/2610번：%20회의준비/2610번：%20회의준비.py) | 2024-09-26 |
 | 2696 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 중앙값 구하기 | [문제링크](https://boj.kr/2696) | [소스코드](./problems/2696번：%20중앙값%20구하기/2696번：%20중앙값%20구하기.py) | 2024-09-25 |
 | 1938 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 통나무 옮기기 | [문제링크](https://boj.kr/1938) | [소스코드](./problems/1938번：%20통나무%20옮기기/1938번：%20통나무%20옮기기.py) | 2024-09-25 |
 | 1079 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 마피아 | [문제링크](https://boj.kr/1079) | [소스코드](./problems/1079번：%20마피아/1079번：%20마피아.py) | 2024-09-23 |

@@ -1,0 +1,14 @@
+{
+    "name": "줄 세우기",
+    "title": "7570번： 줄 세우기",
+    "problemNumber": "7570",
+    "date": "2024-09-26 05:37:10",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}
