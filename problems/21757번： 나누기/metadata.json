@@ -1,0 +1,14 @@
+{
+    "name": "나누기",
+    "title": "21757번： 나누기",
+    "problemNumber": "21757",
+    "date": "2024-09-26 09:48:35",
+    "tier": {
+        "name": "Gold II",
+        "abb": "G",
+        "nameColor": "#FFB028",
+        "abbColor": "#EC9A00",
+        "svg": "https://static.solved.ac/tier_small/14.svg",
+        "level": 14
+    }
+}

@@ -3,6 +3,8 @@
 ## 날짜 순 정렬
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 21757 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 나누기 | [문제링크](https://boj.kr/21757) | [소스코드](./problems/21757번：%20나누기/21757번：%20나누기.py) | 2024-09-26 |
+| 15824 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 너 봄에는 캡사이신이 맛있단다 | [문제링크](https://boj.kr/15824) | [소스코드](./problems/15824번：%20너%20봄에는%20캡사이신이%20맛있단다/15824번：%20너%20봄에는%20캡사이신이%20맛있단다.py) | 2024-09-26 |
 | 1493 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 박스 채우기 | [문제링크](https://boj.kr/1493) | [소스코드](./problems/1493번：%20박스%20채우기/1493번：%20박스%20채우기.py) | 2024-09-26 |
 | 7570 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 줄 세우기 | [문제링크](https://boj.kr/7570) | [소스코드](./problems/7570번：%20줄%20세우기/7570번：%20줄%20세우기.py) | 2024-09-26 |
 | 2610 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 회의준비 | [문제링크](https://boj.kr/2610) | [소스코드](./problems/2610번：%20회의준비/2610번：%20회의준비.py) | 2024-09-26 |
@@ -816,6 +818,8 @@
 | 13460 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구슬 탈출 2 | [문제링크](https://boj.kr/13460) | [소스코드](./problems/13460번：%20구슬%20탈출%202/13460번：%20구슬%20탈출%202.py) | 2024-01-31 |
 | 1300 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> K번째 수 | [문제링크](https://boj.kr/1300) | [소스코드](./problems/1300번：%20K번째%20수/1300번：%20K번째%20수.py) | 2023-12-27 |
 | 11401 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 이항 계수 3 | [문제링크](https://boj.kr/11401) | [소스코드](./problems/11401번：%20이항%20계수%203/11401번：%20이항%20계수%203.py) | 2023-12-21 |
+| 21757 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 나누기 | [문제링크](https://boj.kr/21757) | [소스코드](./problems/21757번：%20나누기/21757번：%20나누기.py) | 2024-09-26 |
+| 15824 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 너 봄에는 캡사이신이 맛있단다 | [문제링크](https://boj.kr/15824) | [소스코드](./problems/15824번：%20너%20봄에는%20캡사이신이%20맛있단다/15824번：%20너%20봄에는%20캡사이신이%20맛있단다.py) | 2024-09-26 |
 | 1493 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 박스 채우기 | [문제링크](https://boj.kr/1493) | [소스코드](./problems/1493번：%20박스%20채우기/1493번：%20박스%20채우기.py) | 2024-09-26 |
 | 7570 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 줄 세우기 | [문제링크](https://boj.kr/7570) | [소스코드](./problems/7570번：%20줄%20세우기/7570번：%20줄%20세우기.py) | 2024-09-26 |
 | 2610 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 회의준비 | [문제링크](https://boj.kr/2610) | [소스코드](./problems/2610번：%20회의준비/2610번：%20회의준비.py) | 2024-09-26 |
