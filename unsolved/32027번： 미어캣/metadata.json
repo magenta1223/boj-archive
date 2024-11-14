@@ -10,5 +10,6 @@
         "abbColor": "#27E2A4",
         "svg": "https://static.solved.ac/tier_small/17.svg",
         "level": 17
-    }
+    },
+    "solved": false
 }
