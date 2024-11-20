@@ -6,6 +6,7 @@
 
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-20 |
 | 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 20304 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 비밀번호 제작 | [문제링크](https://boj.kr/20304) | [소스코드](./problems/20304번：%20비밀번호%20제작/20304번：%20비밀번호%20제작.py) | 2024-11-14 |
 | 23290 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 마법사 상어와 복제 | [문제링크](https://boj.kr/23290) | [소스코드](./problems/23290번：%20마법사%20상어와%20복제/23290번：%20마법사%20상어와%20복제.py) | 2024-10-08 |
@@ -807,6 +808,7 @@
 | 2014 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 소수의 곱 | [문제링크](https://boj.kr/2014) | [소스코드](./problems/2014번：%20소수의%20곱/2014번：%20소수의%20곱.py) | 2024-07-31 |
 | 2042 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 구간 합 구하기 | [문제링크](https://boj.kr/2042) | [소스코드](./problems/2042번：%20구간%20합%20구하기/2042번：%20구간%20합%20구하기.py) | 2024-04-24 |
 | 2066 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 카드놀이 | [문제링크](https://boj.kr/2066) | [소스코드](./problems/2066번：%20카드놀이/2066번：%20카드놀이.py) | 2024-03-29 |
+| 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 2098 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 외판원 순회 | [문제링크](https://boj.kr/2098) | [소스코드](./problems/2098번：%20외판원%20순회/2098번：%20외판원%20순회.py) | 2024-03-25 |
 | 21611 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 마법사 상어와 블리자드 | [문제링크](https://boj.kr/21611) | [소스코드](./problems/21611번：%20마법사%20상어와%20블리자드/21611번：%20마법사%20상어와%20블리자드.py) | 2024-03-25 |
 | 2213 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 트리의 독립집합 | [문제링크](https://boj.kr/2213) | [소스코드](./problems/2213번：%20트리의%20독립집합/2213번：%20트리의%20독립집합.py) | 2024-03-25 |
@@ -828,7 +830,6 @@
 | 5676 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 음주 코딩 | [문제링크](https://boj.kr/5676) | [소스코드](./problems/5676번：%20음주%20코딩/5676번：%20음주%20코딩.py) | 2024-09-24 |
 | 8980 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 택배 | [문제링크](https://boj.kr/8980) | [소스코드](./problems/8980번：%20택배/8980번：%20택배.py) | 2024-05-23 |
 | 9328 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 열쇠 | [문제링크](https://boj.kr/9328) | [소스코드](./problems/9328번：%20열쇠/9328번：%20열쇠.py) | 2024-04-04 |
-| 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 1007 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 벡터 매칭 | [문제링크](https://boj.kr/1007) | [소스코드](./problems/1007번：%20벡터%20매칭/1007번：%20벡터%20매칭.py) | 2024-06-11 |
 | 1033 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 칵테일 | [문제링크](https://boj.kr/1033) | [소스코드](./problems/1033번：%20칵테일/1033번：%20칵테일.py) | 2024-06-11 |
 | 1039 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 교환 | [문제링크](https://boj.kr/1039) | [소스코드](./problems/1039번：%20교환/1039번：%20교환.py) | 2024-02-28 |
@@ -1334,6 +1335,7 @@
 | 27323 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 직사각형 | [문제링크](https://boj.kr/27323) | [소스코드](./problems/27323번：%20직사각형/27323번：%20직사각형.py) | 2023-10-26 |
 | 27433 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 팩토리얼 2 | [문제링크](https://boj.kr/27433) | [소스코드](./problems/27433번：%20팩토리얼%202/27433번：%20팩토리얼%202.py) | 2023-11-24 |
 | 3003 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 킹, 퀸, 룩, 비숍, 나이트, 폰 | [문제링크](https://boj.kr/3003) | [소스코드](./problems/3003번：%20킹,%20퀸,%20룩,%20비숍,%20나이트,%20폰/3003번：%20킹,%20퀸,%20룩,%20비숍,%20나이트,%20폰.py) | 2023-10-17 |
+| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-20 |
 </details>
 
 ## 시도했으나 못 푼 문제
