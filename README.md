@@ -6,6 +6,7 @@
 
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
+| 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 20304 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 비밀번호 제작 | [문제링크](https://boj.kr/20304) | [소스코드](./problems/20304번：%20비밀번호%20제작/20304번：%20비밀번호%20제작.py) | 2024-11-14 |
 | 23290 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 마법사 상어와 복제 | [문제링크](https://boj.kr/23290) | [소스코드](./problems/23290번：%20마법사%20상어와%20복제/23290번：%20마법사%20상어와%20복제.py) | 2024-10-08 |
 | 21757 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 나누기 | [문제링크](https://boj.kr/21757) | [소스코드](./problems/21757번：%20나누기/21757번：%20나누기.py) | 2024-09-26 |
@@ -742,6 +743,7 @@
 | 1948 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 임계경로 | [문제링크](https://boj.kr/1948) | [소스코드](./problems/1948번：%20임계경로/1948번：%20임계경로.py) | 2024-05-17 |
 | 1981 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 배열에서 이동 | [문제링크](https://boj.kr/1981) | [소스코드](./problems/1981번：%20배열에서%20이동/1981번：%20배열에서%20이동.py) | 2024-03-04 |
 | 20188 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 등산 마니아 | [문제링크](https://boj.kr/20188) | [소스코드](./problems/20188번：%20등산%20마니아/20188번：%20등산%20마니아.py) | 2024-07-16 |
+| 20304 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 비밀번호 제작 | [문제링크](https://boj.kr/20304) | [소스코드](./problems/20304번：%20비밀번호%20제작/20304번：%20비밀번호%20제작.py) | 2024-11-14 |
 | 2104 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 부분배열 고르기 | [문제링크](https://boj.kr/2104) | [소스코드](./problems/2104번：%20부분배열%20고르기/2104번：%20부분배열%20고르기.py) | 2024-09-02 |
 | 21479 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Число | [문제링크](https://boj.kr/21479) | [소스코드](./problems/21479번：%20Число/21479번：%20Число.py) | 2024-07-23 |
 | 2162 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 선분 그룹 | [문제링크](https://boj.kr/2162) | [소스코드](./problems/2162번：%20선분%20그룹/2162번：%20선분%20그룹.py) | 2024-04-09 |
@@ -763,7 +765,6 @@
 | 8895 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 막대 배치 | [문제링크](https://boj.kr/8895) | [소스코드](./problems/8895번：%20막대%20배치/8895번：%20막대%20배치.py) | 2024-06-04 |
 | 9202 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> Boggle | [문제링크](https://boj.kr/9202) | [소스코드](./problems/9202번：%20Boggle/9202번：%20Boggle.py) | 2024-08-23 |
 | 9426 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 중앙값 측정 | [문제링크](https://boj.kr/9426) | [소스코드](./problems/9426번：%20중앙값%20측정/9426번：%20중앙값%20측정.py) | 2024-08-28 |
-| 20304 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 비밀번호 제작 | [문제링크](https://boj.kr/20304) | [소스코드](./problems/20304번：%20비밀번호%20제작/20304번：%20비밀번호%20제작.py) | 2024-11-14 |
 | 1016 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 제곱 ㄴㄴ 수 | [문제링크](https://boj.kr/1016) | [소스코드](./problems/1016번：%20제곱%20ㄴㄴ%20수/1016번：%20제곱%20ㄴㄴ%20수.py) | 2024-06-10 |
 | 1029 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 그림 교환 | [문제링크](https://boj.kr/1029) | [소스코드](./problems/1029번：%20그림%20교환/1029번：%20그림%20교환.py) | 2024-05-24 |
 | 1036 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 36진수 | [문제링크](https://boj.kr/1036) | [소스코드](./problems/1036번：%2036진수/1036번：%2036진수.py) | 2024-05-27 |
@@ -827,6 +828,7 @@
 | 5676 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 음주 코딩 | [문제링크](https://boj.kr/5676) | [소스코드](./problems/5676번：%20음주%20코딩/5676번：%20음주%20코딩.py) | 2024-09-24 |
 | 8980 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 택배 | [문제링크](https://boj.kr/8980) | [소스코드](./problems/8980번：%20택배/8980번：%20택배.py) | 2024-05-23 |
 | 9328 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 열쇠 | [문제링크](https://boj.kr/9328) | [소스코드](./problems/9328번：%20열쇠/9328번：%20열쇠.py) | 2024-04-04 |
+| 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 1007 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 벡터 매칭 | [문제링크](https://boj.kr/1007) | [소스코드](./problems/1007번：%20벡터%20매칭/1007번：%20벡터%20매칭.py) | 2024-06-11 |
 | 1033 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 칵테일 | [문제링크](https://boj.kr/1033) | [소스코드](./problems/1033번：%20칵테일/1033번：%20칵테일.py) | 2024-06-11 |
 | 1039 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 교환 | [문제링크](https://boj.kr/1039) | [소스코드](./problems/1039번：%20교환/1039번：%20교환.py) | 2024-02-28 |
