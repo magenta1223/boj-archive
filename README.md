@@ -6,7 +6,7 @@
 
 | 번호 | 이름 | 링크 | 코드 | 날짜 |
 | --- | --- | --- | --- | --- |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-20 |
+| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-21 |
 | 2086 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 피보나치 수의 합 | [문제링크](https://boj.kr/2086) | [소스코드](./problems/2086번：%20피보나치%20수의%20합/2086번：%20피보나치%20수의%20합.py) | 2024-11-20 |
 | 20304 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 비밀번호 제작 | [문제링크](https://boj.kr/20304) | [소스코드](./problems/20304번：%20비밀번호%20제작/20304번：%20비밀번호%20제작.py) | 2024-11-14 |
 | 23290 번 | <img src="https://static.solved.ac/tier_small/15.svg" style="height:20px"> 마법사 상어와 복제 | [문제링크](https://boj.kr/23290) | [소스코드](./problems/23290번：%20마법사%20상어와%20복제/23290번：%20마법사%20상어와%20복제.py) | 2024-10-08 |
@@ -110,7 +110,6 @@
 | 31937 번 | <img src="https://static.solved.ac/tier_small/9.svg" style="height:20px"> 로그프레소 마에스트로 | [문제링크](https://boj.kr/31937) | [소스코드](./problems/31937번：%20로그프레소%20마에스트로/31937번：%20로그프레소%20마에스트로.py) | 2024-07-11 |
 | 31945 번 | <img src="https://static.solved.ac/tier_small/4.svg" style="height:20px"> 정육면체의 네 꼭짓점 | [문제링크](https://boj.kr/31945) | [소스코드](./problems/31945번：%20정육면체의%20네%20꼭짓점/31945번：%20정육면체의%20네%20꼭짓점.py) | 2024-07-11 |
 | 1001 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A-B | [문제링크](https://boj.kr/1001) | [소스코드](./problems/1001번：%20A-B/1001번：%20A-B.py) | 2024-07-10 |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-07-10 |
 | 1525 번 | <img src="https://static.solved.ac/tier_small/14.svg" style="height:20px"> 퍼즐 | [문제링크](https://boj.kr/1525) | [소스코드](./problems/1525번：%20퍼즐/1525번：%20퍼즐.py) | 2024-07-10 |
 | 2835 번 | <img src="https://static.solved.ac/tier_small/13.svg" style="height:20px"> 인기도 조사 | [문제링크](https://boj.kr/2835) | [소스코드](./problems/2835번：%20인기도%20조사/2835번：%20인기도%20조사.py) | 2024-07-10 |
 | 1517 번 | <img src="https://static.solved.ac/tier_small/16.svg" style="height:20px"> 버블 소트 | [문제링크](https://boj.kr/1517) | [소스코드](./problems/1517번：%20버블%20소트/1517번：%20버블%20소트.py) | 2024-07-10 |
@@ -1322,7 +1321,7 @@
 | 24263 번 | <img src="https://static.solved.ac/tier_small/2.svg" style="height:20px"> 알고리즘 수업 - 알고리즘의 수행 시간 2 | [문제링크](https://boj.kr/24263) | [소스코드](./problems/24263번：%20알고리즘%20수업%20-%20알고리즘의%20수행%20시간%202/24263번：%20알고리즘%20수업%20-%20알고리즘의%20수행%20시간%202.py) | 2023-10-26 |
 | 24723 번 | <img src="https://static.solved.ac/tier_small/2.svg" style="height:20px"> 녹색거탑 | [문제링크](https://boj.kr/24723) | [소스코드](./problems/24723번：%20녹색거탑/24723번：%20녹색거탑.py) | 2023-11-22 |
 | 32025 번 | <img src="https://static.solved.ac/tier_small/2.svg" style="height:20px"> 체육은 수학과목 입니다 | [문제링크](https://boj.kr/32025) | [소스코드](./problems/32025번：%20체육은%20수학과목%20입니다/32025번：%20체육은%20수학과목%20입니다.py) | 2024-07-22 |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-07-10 |
+| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-21 |
 | 1001 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A-B | [문제링크](https://boj.kr/1001) | [소스코드](./problems/1001번：%20A-B/1001번：%20A-B.py) | 2024-07-10 |
 | 10171 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 고양이 | [문제링크](https://boj.kr/10171) | [소스코드](./problems/10171번：%20고양이/10171번：%20고양이.py) | 2023-10-17 |
 | 10718 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> We love kriii | [문제링크](https://boj.kr/10718) | [소스코드](./problems/10718번：%20We%20love%20kriii/10718번：%20We%20love%20kriii.py) | 2022-01-09 |
@@ -1335,7 +1334,6 @@
 | 27323 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 직사각형 | [문제링크](https://boj.kr/27323) | [소스코드](./problems/27323번：%20직사각형/27323번：%20직사각형.py) | 2023-10-26 |
 | 27433 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 팩토리얼 2 | [문제링크](https://boj.kr/27433) | [소스코드](./problems/27433번：%20팩토리얼%202/27433번：%20팩토리얼%202.py) | 2023-11-24 |
 | 3003 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> 킹, 퀸, 룩, 비숍, 나이트, 폰 | [문제링크](https://boj.kr/3003) | [소스코드](./problems/3003번：%20킹,%20퀸,%20룩,%20비숍,%20나이트,%20폰/3003번：%20킹,%20퀸,%20룩,%20비숍,%20나이트,%20폰.py) | 2023-10-17 |
-| 1000 번 | <img src="https://static.solved.ac/tier_small/1.svg" style="height:20px"> A+B | [문제링크](https://boj.kr/1000) | [소스코드](./problems/1000번：%20A+B/1000번：%20A+B.py) | 2024-11-20 |
 </details>
 
 ## 시도했으나 못 푼 문제
