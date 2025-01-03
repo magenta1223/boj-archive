@@ -1,5 +1,4 @@
 # BOJ-Archive 
-test 
 ![이미지 대체 텍스트](./profile/profile.svg) 
 ## 날짜 순 정렬
 <details>
